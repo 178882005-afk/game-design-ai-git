@@ -14,7 +14,7 @@ Route -> Evidence -> Decide (when needed) -> Deliver -> Close
 2. **Evidence**: read current sources; separate current facts, history, proposals, and pending items. Every material fact needs a source or an explicit unknown label.
 3. **Decide**: ask only about choices sources cannot settle. Include the choice, recommendation, and impact. A lookup or explicitly requested mechanical revision does not need an interview.
 4. **Deliver**: write confirmed behavior, dependencies, and observable acceptance. Do not turn proposals or pending items into current rules.
-5. **Close**: run the smallest relevant validation, link the result, and leave the next action visible.
+5. **Close**: run the smallest relevant validation, link the result, update the matching local Markdown task in `.scratch/issues/`, and leave the next action visible.
 
 ## Source Boundary
 
@@ -30,6 +30,8 @@ Use a decision note only when a choice must survive across documents or sessions
 
 Keep confirmed behavior, pending choices, historical material, and rejected proposals visibly separate. An unresolved dependency is a pending item, not permission to guess.
 
+For PRDs, apply [prd-rules.md](prd-rules.md): resolve unclear rules, values, conflicts, and choices before formal generation or writing. Keep clarification and historical records outside the formal PRD body. The PRD-specific admission and self-review requirements also apply to revisions and delivery.
+
 ## Close Check
 
 Before delivery, verify that:
@@ -38,3 +40,4 @@ Before delivery, verify that:
 2. current facts and pending choices are distinguishable;
 3. in-scope behavior has an observable acceptance check;
 4. unresolved dependencies have an owner or next action.
+

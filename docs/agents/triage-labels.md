@@ -1,15 +1,12 @@
-# Triage Labels
+# 本地任务状态
 
-The skills speak in terms of five canonical triage roles. This file maps those roles to the actual label strings used in this repo's issue tracker.
+任务状态直接写在 `.scratch/issues/*.md` 中，不使用 GitHub label。
 
-| Label in mattpocock/skills | Label in our tracker | Meaning                                  |
-| -------------------------- | -------------------- | ---------------------------------------- |
-| `needs-triage`             | `needs-triage`       | Maintainer needs to evaluate this issue  |
-| `needs-info`               | `needs-info`         | Waiting on reporter for more information |
-| `ready-for-agent`          | `ready-for-agent`    | Fully specified, ready for an AFK agent  |
-| `ready-for-human`          | `ready-for-human`    | Requires human implementation            |
-| `wontfix`                  | `wontfix`            | Will not be actioned                     |
-
-When a skill mentions a role, use the corresponding label string from this table.
-
-Edit the right-hand column to match whatever vocabulary you actually use.
+| 状态 | 含义 |
+|---|---|
+| `draft` | 信息尚未齐全 |
+| `ready` | 可以开始执行 |
+| `in-progress` | 正在处理 |
+| `blocked` | 等待外部输入或依赖 |
+| `done` | 验收完成 |
+| `superseded` | 被新任务替代 |

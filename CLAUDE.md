@@ -1,19 +1,3 @@
-# game-design-ai-git
+# Agent 入口
 
-## Agent Governance
-
-For non-trivial design, planning, implementation, review, or documentation tasks, follow [docs/agents/governance.md](docs/agents/governance.md). Before creating or materially revising a PRD, also read [docs/agents/prd-rules.md](docs/agents/prd-rules.md).
-
-## Agent skills
-
-### Issue tracker
-
-Issues live in GitHub Issues for this repository. See `docs/agents/issue-tracker.md`.
-
-### Triage labels
-
-Default triage labels are used: `needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human`, and `wontfix`. See `docs/agents/triage-labels.md`.
-
-### Domain docs
-
-Single-context layout: one root `CONTEXT.md` plus `docs/adr/` at the repository root. See `docs/agents/domain.md`.
+本仓库使用本地 Markdown 任务票。处理非简单任务时先阅读 `docs/agents/governance.md`；创建、修订或交付 PRD 时再阅读 `docs/agents/prd-rules.md`。PRD 必须先完成流程图和 UI 原型并取得人工确认。任务分流见 `docs/agents/routing.md`，项目上下文见根目录 `CONTEXT.md`。

@@ -1,49 +1,117 @@
-# PRD Rules
+# PRD 需求文档书写规则
 
-Read this file only when creating a PRD or materially revising one. It defines requirement quality, not a game's schema, XML layout, code style, or numeric values.
+创建、修订或交付 PRD 时必须读取并执行本规则。本文件规定需求文档的写作与交付要求；具体游戏规则、配置结构和数值由用户确认或项目权威来源确定。
 
-## Before Writing
+## 1. 需求可视化前置阶段
 
-State the problem, intended outcome, audience, current baseline and source, version boundary, non-goals, and dependencies. If the problem, success condition, MVP boundary, or core rule is still a real choice, stop and ask before drafting behavior.
+正式 PRD 生成前，先完成需求可视化阶段：
 
-## Required Shape
+1. 根据已确认的需求生成流程图和 UI 原型。流程图优先使用可编辑的 Mermaid、SVG 或 HTML；只有需要视觉探索、风格稿或位图交付时才使用图像生成模型。UI 原型优先使用可交互的 HTML 原型；静态 UI 视觉稿可使用图像生成模型。
+2. 流程图用于确认入口、主要路径、状态转换、分支和退出；UI 原型用于确认页面结构、区域、控件、主要状态和操作落点。图像是讨论载体，不能单独证明服务端规则、配置字段、数值、持久化或异常处理。
+3. 每份图和原型必须附简短的来源与范围说明，标明哪些内容来自用户或现有文档，哪些内容需要用户确认。生成图不得凭空补充规则；发现缺口、冲突或方案取舍时先询问用户。
+4. 将流程图和 UI 原型展示给用户进行人工确认。用户确认前不得生成、写入或更新正式 PRD。用户反馈后，先更新图和原型，再重新展示受影响部分并取得确认。
+5. 只有人工确认后的流程图和 UI 原型，才能作为 PRD 的输入来源之一。PRD 仍须逐项核对文字需求、项目规则、配置和知识来源。用户最新明确决定按治理规则优先；图与已有来源冲突且用户未明确裁决时，先指出冲突并询问，不自行选一份覆盖另一份。确认新设计不代表现有运行时已支持该设计。
+6. 确认记录保存在正式 PRD 之外的本地任务票或独立设计记录中。正式 PRD 正文只写确认后的最终需求，不写可视化过程和审核过程。
+7. 流程图节点和原型界面使用稳定编号，例如 `F01` 和 `UI01`；原型明确可检查的状态及操作落点。在正文之外逐项记录这些节点、界面与 PRD 对应章节的关系，检查有无漏写或凭空新增规则。
+8. 人工确认必须绑定具体文件、版本、确认范围和用户回复。确认过的产物保留原文件；修改后保存新版本，列出受影响节点、界面和规则，再提交用户确认。已确认且未变化的部分可沿用原记录；沉默、只确认画面风格或仅确认其中一张图，都不代表完整流程与交互已确认。
+9. 位图中的文字、箭头、按钮和装饰必须与来源逐项核对，图像模型额外生成的元素不能自动成为需求。静态视觉稿需配套可读的控件、状态和操作说明；界面看起来可点击不代表交互已定义。用于确认的演示数据需明确标为演示，不能自动成为 PRD 数值。
+10. 图像生成使用当前可用的内置工具；需要位图时读取 imagegen 技能。可编辑流程图和可交互原型使用对应代码或原型能力。用户指定网页工具时再使用该工具；网页访问不替代对生成结果和确认记录的检查。项目引用的最终产物必须保存到工作区，保留可编辑源文件和可查看的预览，PRD 来源引用已确认版本。
 
-Use only the sections needed for the feature:
+## 2. 正式文档准入与证据
 
-1. **Preview**: entry, primary action, success/failure feedback, and usability target. Do not add unconfirmed mechanics.
-2. **Metadata**: owner/module, version, status, source, audience, date, and traceability path.
-3. **Problem and goals**: problem, outcome, success signal, and constraints.
-4. **Scope**: current-version behavior only.
-5. **Flow and states**: prerequisites, normal path, transitions, exits, persistence, and recovery.
-6. **Owner behavior**: client/UI, server/domain, content/data, QA, art, or operations as applicable.
-7. **Dependencies and data contract**: responsibility, source of truth, contract-level identifiers/fields, and unresolved mappings.
-8. **Exceptions**: invalid input, missing data, duplicate/retry, interruption/reconnect, limits, permissions, and inconsistent state.
-9. **Acceptance**: observable checks with trigger/input, expected result, and boundary.
-10. **Pending and change notes**: unresolved choices, risks, migration/rollback, and material revision history.
+1. 写作前核对问题、目标、读者、现状及来源、版本范围、非目标和依赖。同一概念只保留一个最终口径，不允许前后冲突。
+2. 用户规则不清、数值不清、口径冲突或方案待取舍时，必须先停止正式文档生成和写入，询问用户。用户确认前不得输出或写入正式需求文档；修订时也不得把未决内容写入原正式文档。
+3. 正式正文只写最终确定的需求。禁止加入“待确认问题”“未确认项”“待定规则”“是否 XXX 待确认”等章节或语句，禁止用“若后续确定为 XX，则……”“如最终采用 XX，则……”兜底。
+4. 澄清问题在对话中提出；确需跨会话保存时，记入正式 PRD 之外的本地任务票。只有存在明确项目通用规则、现有文档或配置证据时，才允许收敛为唯一口径或写“以项目现有为准”，并引用具体来源。
+5. 禁止凭空新增规则。用户未明确提出、现有文档未定义、配置表未承接、项目通用逻辑未证明支持的规则，不得擅自写入正式正文。尤其不得自行补充解锁条件、存储上限、红点状态、奖励领取状态、按钮置灰规则、次数限制、自动触发条件、异常兜底和兼容分支。
+6. 疑似规则缺口必须先询问用户或明确引用已有规则来源。常识、其他系统经验、索引证据推导出的运行时结论都不能直接写成事实；推断出的规则只能作为问题询问用户。
+7. 未核实的标识符、字段、数值和映射应先查证；来源仍无法解决时先询问用户。正式文档不能以 `unverified`、占位符或开放式表达代替最终契约。
 
-Do not fill an inapplicable section with generic text; omit it and state why when needed.
+## 3. 正文表达与表格边界
 
-## Writing Rules
+1. 不用空泛总结，不写无约束力废话。只写对实现有约束力的行为、条件、数据和可观察结果，按需明确主体、触发、条件、动作及结果。
+2. 正文不写写作方法、审核方法、自审结论、审计过程或占位式过程说明。自审在交付前执行，结论默认不写入正文；只有用户明确要求审计报告时，才单独输出报告。
+3. 功能概述、核心规则、界面显示内容、显示规则、交互逻辑、状态拆解和数据更新规则应按主题分组、分条表达，避免散文式长段落和全文平铺式罗列。
+4. 表格只用于文档属性、配置表结构、货币流、术语表和少量纯字段清单。涉及配置表名、字段、示例值、配置修改点时，一律用 Markdown 表格呈现；引用配置的玩法行为仍在表格外用自然语言描述。
+5. 玩法规则、功能规则、界面交互逻辑和跳转流程不得用表格承载。交互逻辑必须用自然语言分段描述。
+6. 同一规则在一个位置给出完整定义，其他位置引用该规则，不另写一套口径。验收描述该规则的可观察结果。
 
-- Write behavior and observable results, not aspirations.
-- Express a rule with subject, trigger, condition, action, and result where applicable.
-- Name the owner and source of truth for cross-owner state.
-- Keep current, proposed, historical, rejected, and pending content separately labeled.
-- Mark unverified identifiers, values, and mappings as `unverified` or the project's equivalent. A placeholder is not a final contract.
-- Put rationale beside the rule it explains and link shared rules instead of copying them.
+## 4. 文档结构与编号
 
-## MVP and Pending Items
+1. 正式文档必须且只能有一个一级标题，默认格式为 `【<模块中文名>】模块需求文档`。
+2. 其余标题使用 `## / ### / ####` 分层；章节编号从 1 开始连续编号，子章节随父章节编号，层级清晰。修订时保持结构稳定，增删章节后同步重排编号和更新引用。
+3. 按功能实际需要组织：文档属性、功能概述与目标、版本范围、核心规则与状态、界面需求、配置与数据规则、配置未覆盖规则说明（硬码逻辑清单）、依赖与职责、验收要求。无适用内容的章节直接省略，不用过程说明或占位文字填充。
+4. 文档属性按需记录模块、负责人、版本、状态、来源、读者和日期；范围只包含当前版本已确定的需求。
+5. 多界面系统优先按“界面”组织章节，再在该界面下按阶段分组。某界面仅在一个阶段出现时，也保留界面标题，再写该阶段。例如：
 
-Write confirmed scope directly in the scope and acceptance sections. Keep a pending section only for items whose status is undecided, and record what is undecided, why it is pending, what it affects, and the next confirmation point.
+```md
+## 6. 界面需求
+### 6.1 某界面
+#### 6.1.1 阶段一
+#### 6.1.2 阶段二
+### 6.2 另一界面
+#### 6.2.1 阶段一
+```
 
-Do not repeat confirmed scope, already deferred work, or explicitly rejected ideas.
+以上序号仅示意层级，实际编号随文档连续排列。阶段内的显示内容、显示规则等使用明确的段落标签，保持标题不超过四级。
 
-## State and Acceptance
+## 5. 前端界面逻辑
 
-For each stateful flow, specify how it starts, who owns the state, valid transitions, visible and persisted results, retry/duplicate/interruption/reconnect behavior, terminal states, and the next action. “Handle normally” is not an acceptance criterion.
+### 5.1 每个界面的必写内容
 
-Acceptance must cover the happy path, an invalid or missing-input path, persistence/reload where relevant, and cross-owner handoff where relevant. Document inspection alone does not prove runtime verification.
+每个界面必须写清显示内容、显示规则、状态拆解、交互逻辑和刷新点。对于各适用状态，明确何时显示、如何显示、显示什么、是否置灰、是否可点击、点击后的结果、关闭后的返回落点。
 
-## Revision
+必写要求用于发现缺口，不能作为新增玩法或交互规则的依据。缺少上述信息时按第 2 节查证或询问用户。
 
-When revising a PRD, identify changed sections, update status/version and acceptance, re-check dependencies and non-goals, mark superseded behavior as historical, and record a change note when purpose, scope, behavior, ownership, interface, or acceptance changes.
+### 5.2 显示内容按区域分组
+
+先写区域名，如“上方区域：”“中心区域：”“按钮区：”，再在区域下用 `1. 控件名：说明` 列出元素。区域与控件必须来自已确认设计，不为套用格式增加控件。
+
+### 5.3 显示规则按条件分组
+
+使用“在……时：”“当……时：”“若……时：”或“状态 = XXX 时：”作为一级条目，再用子项写显示、隐藏、置灰、红点、气泡、提示等已确认结果。这里的条件描述已确定行为，不能表达尚未确定的方案。
+
+### 5.4 状态拆解与刷新点
+
+按已确定的状态分别说明进入条件、显示差异、可用操作和退出条件。刷新点明确由什么事件触发、更新哪些内容、依据什么数据。跨职责状态明确负责人和数据权威来源。
+
+### 5.5 交互逻辑按玩家操作分组
+
+使用“玩家点击 XXX 时：”“玩家确认 XXX 时：”作为一级条目，再用子项按执行顺序说明适用的校验、扣除、发放、跳转、失败提示和关闭落点。每项动作只描述已确定的行为，不凭空补齐扣除、奖励或失败分支。
+
+## 6. 配置、状态与验收
+
+1. 配置字段必须与需求闭环：明确已有或经用户确认新增的字段、含义、取值、消费该字段的规则，以及本次配置修改点。配置表名、字段、示例值和修改点按第 3 节用表格表达。
+2. 涉及“三行表头 / 四列表达”时，必须核对项目已有模板或用户给定定义，检查格式与字段映射是否正确。没有定义时先询问用户，不自行猜测三行或四列分别表示什么。
+3. 对已确认且配置无法承接的规则，明确哪些必须写入“配置未覆盖规则说明（硬码逻辑清单）”，并逐条说明规则及适用条件。该清单只收录有依据的已确认行为；不能因配置未覆盖就自行决定硬码方案。
+4. 有状态流程按实际需求说明开始条件、状态负责人、有效转换、可见及持久化结果、终态和下一动作。涉及重试、重复、断线、恢复、非法输入或权限时，必须依据已确认规则写清结果；缺失时查证或询问，不自创兜底。
+5. 验收按触发或输入、预期结果和边界写出可观察检查。覆盖正常路径，以及功能实际涉及的异常、持久化和跨职责交接路径。“正常处理”不能作为验收条件。
+6. 验收要求属于最终需求；自审执行结果属于交付前检查，不混入正文。文档检查不能宣称已完成运行时验证。
+
+## 7. 强制自审与修订闭环
+
+### 7.1 交付前闭环
+
+每次输出或写入正式需求文档前，必须完成“草稿 → 自审 → 修订 → 复审 → 写入”的闭环，无需用户另行提醒。进入草稿阶段前先满足第 1 节可视化确认及第 2 节准入要求。
+
+自审发现可依据已确认信息修正的问题时，先修正文档，再复审。发现规则、数值、冲突或取舍仍需用户决定时，停止正式输出和写入，询问用户；确认后恢复闭环。
+
+### 7.2 自审清单
+
+1. 文档结构是否完整，是否只有一个一级标题，编号是否连续、层级是否清晰。
+2. 前端显示与交互是否细到可开发，每个界面的显示内容、显示规则、状态拆解、交互逻辑、刷新点是否齐全。
+3. 多界面章节是否按界面组织，显示内容是否按区域、显示规则是否按条件、交互逻辑是否按玩家操作分组。
+4. 配置字段是否闭环，三行表头 / 四列表达是否符合已确定模板。
+5. 配置未覆盖的已确认规则是否已明确归入“配置未覆盖规则说明（硬码逻辑清单）”。
+6. 是否存在歧义、口径冲突、状态缺失或边界遗漏，是否混入推断或未经授权新增的规则。
+7. 是否残留待确认章节、未确认项、“若后续”“若最终采用”等未收口表达。
+8. 是否残留全文平铺式规则罗列、散文式长段落，或用表格承载规则和操作流程。
+9. 是否混入写作方法、审核方法、自审结论、审计过程、占位式过程说明或无约束力废话。
+10. 本次修订涉及的旧词、旧状态、旧配置字段和旧交互描述是否已全文检索并清理。
+11. 流程图和 UI 原型是否有对应版本的人工确认记录，节点、界面、状态和操作落点是否与 PRD 一致；是否漏写已确认行为或把模型生成的装饰、演示数据误写成需求。
+
+### 7.3 修订与旧口径清理
+
+每次按用户反馈修改规则后，必须同步检索全文及关联引用，删除或替换与新规则冲突的旧词、旧状态、旧配置字段和旧交互描述。同步更新受影响的范围、界面、配置、依赖、验收、版本与章节编号。
+
+正式正文只保留最终口径。旧方案、被替代行为和修订过程记录在正文之外的本地任务票或独立历史记录中；不得在正文中标为“历史”后继续与现行规则并列。复审确认全文一致后才能交付。
