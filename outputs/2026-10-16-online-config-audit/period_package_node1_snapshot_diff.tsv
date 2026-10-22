@@ -1,0 +1,8 @@
+﻿source_node	id	kind	workbook_cell	workbook_value	xml_cell	xml_value	xml_name_cell	xml_name	xml_reward_D	xml_need_F	xml_limit_H
+1	1005	reward_diff	日月周礼包!E25	[{5103001,400}]	礼包!D9	[{5103002,400}]	礼包!C9	能量特饮	[{5103002,400}]	[{1,200}]	3
+1	1011	reward_diff	日月周礼包!E31	[{5203001,100}]	礼包!D15	[{5203001,50}]	礼包!C15	织梦微尘	[{5203001,50}]	[{1,210}]	3
+1	1015	missing_from_workbook	日月周礼包!B21:B62（缺行）		礼包!A19	1015	礼包!C19	智械发条	[{62,3}]	[{1,225}]	5
+1	2014	limit_diff	日月周礼包!G49	3	礼包!H34	4	礼包!C34	转运石	[{5523001,3000}]	[{1,500}]	4
+1	2015	missing_from_workbook	日月周礼包!B21:B62（缺行）		礼包!A35	2015	礼包!C35	智械发条	[{62,10}]	[{1,600}]	3
+1	3013	missing_from_workbook	日月周礼包!B21:B62（缺行）		礼包!A49	3013	礼包!C49	智械发条	[{62,10}]	[{1,450}]	3
+1	3014	missing_from_workbook	日月周礼包!B21:B62（缺行）		礼包!A50	3014	礼包!C50	智械发条	[{62,20}]	[{1,1200}]	2

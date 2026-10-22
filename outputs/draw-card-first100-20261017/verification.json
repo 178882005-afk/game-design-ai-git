@@ -1,0 +1,139 @@
+{
+  "file": "E:\\x1\\c#\\trunk\\trunk\\xml_gy\\normal\\C_抽卡_draw_card_data.xml",
+  "backup": "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\outputs\\draw-card-first100-20261017\\before_C_抽卡_draw_card_data.xml",
+  "changed_cells": [
+    {
+      "sheet": "奖池",
+      "row": 583,
+      "col": "18",
+      "before": null,
+      "after": {
+        "value": "[{acc_draw_count,1108,[{101,2147483647}]}]",
+        "type": "String",
+        "formula": null
+      }
+    },
+    {
+      "sheet": "奖池",
+      "row": 592,
+      "col": "18",
+      "before": null,
+      "after": {
+        "value": "[{acc_draw_count,1108,[{101,2147483647}]}]",
+        "type": "String",
+        "formula": null
+      }
+    },
+    {
+      "sheet": "奖池",
+      "row": 602,
+      "col": "18",
+      "before": null,
+      "after": {
+        "value": "[{acc_draw_count,1108,[{101,2147483647}]}]",
+        "type": "String",
+        "formula": null
+      }
+    },
+    {
+      "sheet": "奖池",
+      "row": 612,
+      "col": "18",
+      "before": null,
+      "after": {
+        "value": "[{acc_draw_count,1108,[{101,2147483647}]}]",
+        "type": "String",
+        "formula": null
+      }
+    },
+    {
+      "sheet": "奖池",
+      "row": 622,
+      "col": "18",
+      "before": null,
+      "after": {
+        "value": "[{acc_draw_count,1108,[{101,2147483647}]}]",
+        "type": "String",
+        "formula": null
+      }
+    },
+    {
+      "sheet": "奖池",
+      "row": 632,
+      "col": "18",
+      "before": null,
+      "after": {
+        "value": "[{acc_draw_count,1108,[{101,2147483647}]}]",
+        "type": "String",
+        "formula": null
+      }
+    },
+    {
+      "sheet": "奖池",
+      "row": 642,
+      "col": "18",
+      "before": null,
+      "after": {
+        "value": "[{acc_draw_count,1108,[{101,2147483647}]}]",
+        "type": "String",
+        "formula": null
+      }
+    },
+    {
+      "sheet": "卡池等级机制",
+      "row": 49,
+      "col": "5",
+      "before": {
+        "value": "[{[59010108],100},{[59010107],10},{[59010106],10}]",
+        "type": "String",
+        "formula": null
+      },
+      "after": {
+        "value": "[{[59010108],101},{[59010107],10},{[59010106],10}]",
+        "type": "String",
+        "formula": null
+      }
+    }
+  ],
+  "before_hash": "a5e6b420efd9311946b3112206d8930bcf4d312753a6debe94daeaf9468205f4",
+  "after_hash": "93184596867d7ac1b663af4c79f94f181de4b28b6516dd6791c5aad61f08b65b",
+  "sheets_preserved": 22,
+  "unrelated_structure_styles_formulas_preserved": true,
+  "boundary_by_indexed_condition": [
+    {
+      "completed_draws": 0,
+      "next_draw": 1,
+      "orange_gate_pass": false
+    },
+    {
+      "completed_draws": 1,
+      "next_draw": 2,
+      "orange_gate_pass": false
+    },
+    {
+      "completed_draws": 98,
+      "next_draw": 99,
+      "orange_gate_pass": false
+    },
+    {
+      "completed_draws": 99,
+      "next_draw": 100,
+      "orange_gate_pass": false
+    },
+    {
+      "completed_draws": 100,
+      "next_draw": 101,
+      "orange_gate_pass": true
+    },
+    {
+      "completed_draws": 101,
+      "next_draw": 102,
+      "orange_gate_pass": true
+    }
+  ],
+  "runtime_verified": false,
+  "limitations": [
+    "成长池 1108 的服务端实现不在当前 server 索引中；未运行服务器或导出。",
+    "索引 condition.erl 的条件读取玩家缓存；批次中逐抽恢复时点取决于成长池的新实现，未验证。"
+  ]
+}

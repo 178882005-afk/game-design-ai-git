@@ -1,0 +1,79 @@
+{
+  "inputs_and_implementation": {
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\.scratch\\progression_20261017\\supply\\daily_items.tsv": {
+      "bytes": 15001989,
+      "sha256": "3137eb138caf6365265a7b3321756fbec5aac832c81ff721e80caf22a9a75818"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\.scratch\\progression_20261017\\supply\\daily_inputs.tsv": {
+      "bytes": 881289,
+      "sha256": "c62e6a1ef4686aa74152c75e36f818606d7907ea21a186398d3f69ec20679ee2"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\.scratch\\progression_20261017\\supply\\mainline_daily_rewards.tsv": {
+      "bytes": 4130937,
+      "sha256": "852331e8a7bdfead2620e83cb23ed6b3bf9d7949ec7549f0ea20d89ff729b8f9"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\.scratch\\progression_20261017\\gaps\\fixed_free_rewards.tsv": {
+      "bytes": 1306668,
+      "sha256": "4ed99aa05fdf0419dffb91eca37a2379d1998c8c3ea3a98403ba6230aa0fdedf"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\.scratch\\progression_20261017\\gaps\\patrol_scenario.tsv": {
+      "bytes": 5309564,
+      "sha256": "2fad44fc7b83048106b1c645a63c07293302ae228620d11d2ec7bb347f4d7980"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\.scratch\\progression_20261017\\purchase_portfolio\\paid_material_daily.tsv": {
+      "bytes": 18522064,
+      "sha256": "040f0aafe9c4d9fac2a4de90d69d228f9a0b4823f68a46678d8d8b3d97f55396"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\.scratch\\progression_20261017\\purchase_portfolio\\cash_purchases.tsv": {
+      "bytes": 3466481,
+      "sha256": "55cfd7ce89491d7fb7aeb3238a412174505bbe4ab1f6e36334c8b1af0796b468"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\.scratch\\progression_20261017\\purchase_portfolio\\cash_monthly_summary.tsv": {
+      "bytes": 20313,
+      "sha256": "5b73c7ecc0eb8affb23d1361d1cb185ef9d6bccca56e8708b0219b270de8e06b"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\.scratch\\progression_20261017\\nodes\\nodes.jsonl": {
+      "bytes": 9943740,
+      "sha256": "0d0f328f329c683e42abba369afe9e833e4be62a354501fe6724a9f2a9a2292e"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\.scratch\\progression_20261017\\nodes\\units.json": {
+      "bytes": 58863,
+      "sha256": "db86577b98fc29cb4f39eacc5262dd5442ef58301848e2e7d7c1501c092d93a4"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\outputs\\2026-10-19-resource-closure\\_work\\audit_costs.py": {
+      "bytes": 3180,
+      "sha256": "fa5dea9877d186a6937e6df486c5941d0a8d9823902778dc06bd0b7764a75630"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\outputs\\2026-10-19-resource-closure\\_work\\audit_outputs.py": {
+      "bytes": 6331,
+      "sha256": "9a875ad5eafe70f830cde0052fa7de1960dacf618c0e50fd4bb286cf707fa8bf"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\outputs\\2026-10-19-resource-closure\\_work\\build_closure.py": {
+      "bytes": 30014,
+      "sha256": "3c64a5380c01fce3cede822792a728601b80ec08f88a6f9c93aebdc0a269a064"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\outputs\\2026-10-19-resource-closure\\_work\\build_readme.py": {
+      "bytes": 18168,
+      "sha256": "2a70da9cf663dd35cd6df93a9d911cfb8feb49fd0ded22f0a4e818d61de81c96"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\outputs\\2026-10-19-resource-closure\\_work\\inspect_current.py": {
+      "bytes": 1865,
+      "sha256": "cf3137b71c0fbc17f14efd62e0f4f765b4e47b190ec31af5297a0556c3495b10"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\outputs\\2026-10-19-resource-closure\\_work\\validate_closure.py": {
+      "bytes": 2729,
+      "sha256": "e955b0a91204b6f91f5609b3cd0c3f4d649dd5cb69373542ba58927e142f13cc"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\outputs\\2026-10-19-resource-closure\\_work\\current_config.json": {
+      "bytes": 5791206,
+      "sha256": "161718b113522c580e5ad95bd3af923defb33c7ac154dfd73df339ca48d29908"
+    },
+    "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\outputs\\2026-10-19-resource-closure\\_work\\role_draw_level_card.indexed.erl": {
+      "bytes": 102526,
+      "sha256": "44be2c61137c60876dc2550f43d955ed4ce376f4bd6c0e8aa10cad10a1d00711"
+    }
+  },
+  "scenario": "2026-10-10 full attendance;cash calendar month10th;nominal-value portfolio;equipment-first;conditional mean supply",
+  "replay_seed": "20261019+tier_index*100000+sample_index",
+  "samples_per_tier": 128
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "check": "first ten-pull consumes exactly ten tickets",
+    "result": "PASS"
+  },
+  {
+    "check": "fixed first bonus count is two",
+    "result": "PASS"
+  },
+  {
+    "check": "scripted epic copy exists",
+    "result": "PASS"
+  },
+  {
+    "check": "scripted archer duplicates are fragments",
+    "result": "PASS"
+  },
+  {
+    "check": "no pre-unlock cumulative wish crystal",
+    "result": "PASS"
+  },
+  {
+    "check": "fixed reward earns 300 points",
+    "result": "PASS"
+  },
+  {
+    "check": "repeated body does not create another unit",
+    "result": "PASS"
+  },
+  {
+    "check": "repeated body converts ten fragments",
+    "result": "PASS"
+  },
+  {
+    "check": "auto-open container leaves no physical box balance",
+    "result": "PASS"
+  },
+  {
+    "check": "seven equal class quantities total 700",
+    "result": "PASS"
+  },
+  {
+    "check": "level seven gate waits until server day35",
+    "result": "PASS"
+  },
+  {
+    "check": "stored experience crosses gate on day35",
+    "result": "PASS"
+  },
+  {
+    "check": "board contains nine jointly generated slots",
+    "result": "PASS"
+  },
+  {
+    "check": "per-board max_num respected",
+    "result": "PASS"
+  },
+  {
+    "check": "unknown condition fails loudly",
+    "result": "PASS"
+  },
+  {
+    "check": "canonical source records have unique provenance keys",
+    "result": "PASS"
+  },
+  {
+    "check": "four complete 365-day axes",
+    "result": "PASS"
+  },
+  {
+    "check": "only weekly sign-in appended from gap source",
+    "result": "PASS"
+  },
+  {
+    "check": "paid incremental ledger not appended twice",
+    "result": "PASS"
+  },
+  {
+    "check": "all spendable nodes use currently checked costs",
+    "result": "PASS"
+  }
+]

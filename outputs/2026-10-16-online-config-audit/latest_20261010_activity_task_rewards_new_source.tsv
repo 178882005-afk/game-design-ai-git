@@ -1,0 +1,21 @@
+﻿base_id	id	name	desc	type	target	reward	pre_id	daily_reset	show_cond	limit_times	source
+11053	1105301	寻梦任务	活动期间消耗100体力	101	{consume_energy,100}	[{5600200,1}]		否			A_活动任务_activity_tasks_data.xml/活动任务!955
+11053	1105302	寻梦任务	活动期间消耗300体力	101	{consume_energy,300}	[{5600200,1}]		否			A_活动任务_activity_tasks_data.xml/活动任务!956
+11053	1105303	寻梦任务	活动期间消耗500体力	101	{consume_energy,500}	[{5600200,1}]		否	1105302		A_活动任务_activity_tasks_data.xml/活动任务!957
+11053	1105304	寻梦任务	活动期间消耗800体力	101	{consume_energy,800}	[{5600200,1}]		否	1105303		A_活动任务_activity_tasks_data.xml/活动任务!958
+11053	1105305	寻梦任务	消耗200梦境招募器	101	{activity_draw_card,[228],200}	[{5600200,1}]		否			A_活动任务_activity_tasks_data.xml/活动任务!959
+11053	1105306	寻梦任务	消耗500梦境招募器	101	{activity_draw_card,[228],500}	[{5600200,1}]		否			A_活动任务_activity_tasks_data.xml/活动任务!960
+11053	1105307	寻梦任务	消耗800梦境招募器	101	{activity_draw_card,[228],800}	[{5600200,1}]		否	1105306		A_活动任务_activity_tasks_data.xml/活动任务!961
+11053	1105308	寻梦任务	消耗1000梦境招募器	101	{activity_draw_card,[228],1000}	[{5600200,2}]		否	1105307		A_活动任务_activity_tasks_data.xml/活动任务!962
+11053	1105309	寻梦任务	消耗1500梦境招募器	101	{activity_draw_card,[228],1500}	[{5600200,2}]		否	1105308		A_活动任务_activity_tasks_data.xml/活动任务!963
+11053	1105310	寻梦任务	通过主线70关	101	{chapter_pve,1,70}	[{5600200,1}]		否			A_活动任务_activity_tasks_data.xml/活动任务!964
+11053	1105311	寻梦任务	通过主线80关	101	{chapter_pve,1,80}	[{5600200,1}]		否			A_活动任务_activity_tasks_data.xml/活动任务!965
+11053	1105312	寻梦任务	通过主线85关	101	{chapter_pve,1,85}	[{5600200,1}]		否	1105311		A_活动任务_activity_tasks_data.xml/活动任务!966
+11053	1105313	寻梦任务	通过主线90关	101	{chapter_pve,1,90}	[{5600200,2}]		否	1105312		A_活动任务_activity_tasks_data.xml/活动任务!967
+11053	1105314	寻梦任务	通过主线95关	101	{chapter_pve,1,95}	[{5600200,1}]		否	1105313		A_活动任务_activity_tasks_data.xml/活动任务!968
+11053	1105315	寻梦任务	通过主线100关	101	{chapter_pve,1,100}	[{5600200,2}]		否	1105314		A_活动任务_activity_tasks_data.xml/活动任务!969
+11053	1105316	寻梦任务	通过主线105关	101	{chapter_pve,1,105}	[{5600200,1}]		否	1105315		A_活动任务_activity_tasks_data.xml/活动任务!970
+11053	1105317	寻梦任务	通过主线110关	101	{chapter_pve,1,110}	[{5600200,2}]		否	1105316		A_活动任务_activity_tasks_data.xml/活动任务!971
+11053	1105318	寻梦任务	梦域巡航难度6通关	101	{elite_pve_pass,6,1}	[{5600200,1}]		否			A_活动任务_activity_tasks_data.xml/活动任务!972
+11053	1105319	寻梦任务	梦域巡航难度8通关	101	{elite_pve_pass,8,1}	[{5600200,1}]		否	1105318		A_活动任务_activity_tasks_data.xml/活动任务!973
+11053	1105320	寻梦任务	梦域巡航难度10通关	101	{elite_pve_pass,10,1}	[{5600200,1}]		否	1105319		A_活动任务_activity_tasks_data.xml/活动任务!974

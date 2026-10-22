@@ -1,0 +1,2 @@
+sheet	cell	old_value	new_value	change_type	confidence	evidence	calculation_effect
+粉卡抽奖	H24	神灯	寻梦探仪	item_name	线上名称已验证	赤霄 fh 近90日道具流水：5600200=寻梦探仪；A_活动商店_activity_shop_data.xml/活动商城!125:133 全9档发5600200；工作簿价值表!C193:F193	H22 按名称 XLOOKUP 可命中价值表 150 钻，进而更新 J25:J33/M25:M33（需原生表格软件重算）

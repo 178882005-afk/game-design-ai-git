@@ -1,0 +1,38 @@
+﻿configuration_scope	activity_id	base_id	activity_name	server_open_date_scope	start	end	unlock_condition	config_table	source
+new_server_activity	100495	190007	传说梦灵试炼	{{2026,9,4},{2035,12,31}}	{server_open_day,5}	{server_open_day,9}	[{chapter_pve,15}]	activity_train_data	A_活动配置_activity_data.xml/活动配置!670
+new_server_activity	100496	190008	神话梦灵试炼	{{2026,9,4},{2035,12,31}}	{server_open_day,11}	{server_open_day,15}	[{chapter_pve,15}]	activity_train_data	A_活动配置_activity_data.xml/活动配置!671
+new_server_activity	100497	40015	许愿奖池	{{2026,9,4},{2035,12,31}}	{server_open_day,3}	{server_open_day,26}	[{chapter_pve,7}]	activity_draw_data	A_活动配置_activity_data.xml/活动配置!674
+new_server_activity	100498	21037	许愿补给	{{2026,9,4},{2035,12,31}}	{server_open_day,3}	{server_open_day,26}	[{chapter_pve,7}]	activity_shop_data	A_活动配置_activity_data.xml/活动配置!675
+new_server_activity	100499	30015	兑换商店	{{2026,9,4},{2035,12,31}}	{server_open_day,3}	{server_open_day,27}	[{chapter_pve,7}]	activity_exchange_data	A_活动配置_activity_data.xml/活动配置!676
+new_server_activity	100500		云境星园	{{2026,9,4},{2035,12,31}}	{server_open_day,1}	{server_open_day,31}	[{chapter_pve,7}]		A_活动配置_activity_data.xml/活动配置!679
+new_server_activity	100501	70014	漫游日记	{{2026,9,4},{2035,12,31}}	{server_open_day,1}	{server_open_day,31}	[{chapter_pve,7}]	activity_sign_data	A_活动配置_activity_data.xml/活动配置!680
+new_server_activity	100502	230013	云间豪礼	{{2026,9,4},{2035,12,31}}	{server_open_day,1}	{server_open_day,31}	[{chapter_pve,7}]	activity_real_gacha_data	A_活动配置_activity_data.xml/活动配置!681
+new_server_activity	100503	170005	全服宝箱	{{2026,9,4},{2035,12,31}}	{server_open_day,1}	{server_open_day,31}	[]	activity_collect_data	A_活动配置_activity_data.xml/活动配置!682
+new_server_activity	100504	200005	逐光漫游	{{2026,9,4},{2035,12,31}}	{server_open_day,1}	{server_open_day,31}	[{chapter_pve,7}]	activity_monthly_data	A_活动配置_activity_data.xml/活动配置!683
+new_server_activity	100506	24007	月光炼梦	{{2026,9,4},{2035,12,31}}	{server_open_day,8}	{server_open_day,15}	[{chapter_pve,15}]	activity_round_draw_data	A_活动配置_activity_data.xml/活动配置!686
+new_server_activity	100507	21902	炼梦礼包	{{2026,9,4},{2035,12,31}}	{server_open_day,8}	{server_open_day,15}	[{chapter_pve,15}]	activity_shop_data	A_活动配置_activity_data.xml/活动配置!687
+new_server_activity	100508	11902	炼梦任务	{{2026,9,4},{2035,12,31}}	{server_open_day,8}	{server_open_day,15}	[{chapter_pve,15}]	activity_tasks_data	A_活动配置_activity_data.xml/活动配置!688
+new_server_activity	100509	0	星轨探测	{{2026,9,4},{2035,12,31}}	{server_open_day,27}	{server_open_day,30}	[{chapter_pve,15}]		A_活动配置_activity_data.xml/活动配置!691
+new_server_activity	100510	49001	星轨探测	{{2026,9,4},{2035,12,31}}	{server_open_day,27}	{server_open_day,30}	[{chapter_pve,15}]	activity_draw_data	A_活动配置_activity_data.xml/活动配置!692
+new_server_activity	100511	21901	星轨礼包	{{2026,9,4},{2035,12,31}}	{server_open_day,27}	{server_open_day,30}	[{chapter_pve,15}]	activity_shop_data	A_活动配置_activity_data.xml/活动配置!693
+new_server_activity	100512	11901	星轨任务	{{2026,9,4},{2035,12,31}}	{server_open_day,27}	{server_open_day,30}	[{chapter_pve,15}]	activity_tasks_data	A_活动配置_activity_data.xml/活动配置!694
+new_server_activity	100650	360001	星旅寻梦	{{2026,9,4},{2035,12,31}}	{server_open_day,31}	{server_open_day,46}	[{chapter_pve,15}]	activity_unit_draw_data	A_活动配置_activity_data.xml/活动配置!823
+new_server_activity	100651	11030	寻梦任务	{{2026,9,4},{2035,12,31}}	{server_open_day,31}	{server_open_day,46}	[{chapter_pve,15}]	activity_tasks_data	A_活动配置_activity_data.xml/活动配置!824
+new_server_activity	100652	21020	寻梦礼包	{{2026,9,4},{2035,12,31}}	{server_open_day,31}	{server_open_day,46}	[{chapter_pve,15}]	activity_shop_data	A_活动配置_activity_data.xml/活动配置!825
+new_server_activity	100653	190005	试炼	{{2026,9,4},{2035,12,31}}	{server_open_day,43}	{server_open_day,46}	[{chapter_pve,15}]	activity_train_data	A_活动配置_activity_data.xml/活动配置!828
+new_server_activity	100654	370001	星光炼梦	{{2026,9,4},{2035,12,31}}	{server_open_day,43}	{server_open_day,46}	[{chapter_pve,15}]	activity_twopool_data	A_活动配置_activity_data.xml/活动配置!829
+new_server_activity	100655	11041	星光任务	{{2026,9,4},{2035,12,31}}	{server_open_day,43}	{server_open_day,46}	[{chapter_pve,15}]	activity_tasks_data	A_活动配置_activity_data.xml/活动配置!830
+new_server_activity	100656	40012	入画寻珍	{{2026,9,4},{2035,12,31}}	{server_open_day,31}	{server_open_day,52}	[{chapter_pve,15}]	activity_draw_data	A_活动配置_activity_data.xml/活动配置!833
+new_server_activity	100657	21032	寻珍礼包	{{2026,9,4},{2035,12,31}}	{server_open_day,31}	{server_open_day,52}	[{chapter_pve,15}]	activity_shop_data	A_活动配置_activity_data.xml/活动配置!834
+new_server_activity	100658	11046	寻珍任务	{{2026,9,4},{2035,12,31}}	{server_open_day,31}	{server_open_day,52}	[{chapter_pve,15}]	activity_tasks_data	A_活动配置_activity_data.xml/活动配置!835
+new_server_activity	100659	30010	兑换商店	{{2026,9,4},{2035,12,31}}	{server_open_day,31}	{server_open_day,53}	[{chapter_pve,15}]	activity_exchange_data	A_活动配置_activity_data.xml/活动配置!836
+new_server_activity	100660		画中棋境	{{2026,9,4},{2035,12,31}}	{server_open_day,31}	{server_open_day,61}	[{chapter_pve,15}]		A_活动配置_activity_data.xml/活动配置!837
+new_server_activity	100661	70017	棋境漫游	{{2026,9,4},{2035,12,31}}	{server_open_day,31}	{server_open_day,61}	[{chapter_pve,15}]	activity_sign_data	A_活动配置_activity_data.xml/活动配置!838
+new_server_activity	100662	230009	画中奇遇	{{2026,9,4},{2035,12,31}}	{server_open_day,31}	{server_open_day,61}	[{chapter_pve,15}]	activity_real_gacha_data	A_活动配置_activity_data.xml/活动配置!839
+new_server_activity	100663	120008	寻珍助礼	{{2026,9,4},{2035,12,31}}	{server_open_day,31}	{server_open_day,59}	[{chapter_pve,15}]	activity_war_order_data	A_活动配置_activity_data.xml/活动配置!840
+new_server_weekly_cycle	200401	135100	招募冲刺	{{2026,9,4},{2035,12,31}}	{8,7,14}	7日/隔14日重复；见open_time	[{chapter_pve,15}]		A_活动配置_activity_data.xml/周循环活动配置!315
+new_server_weekly_cycle	200403	25100	冲刺礼包	{{2026,9,4},{2035,12,31}}	{8,7,14}	7日/隔14日重复；见open_time	[{chapter_pve,15}]		A_活动配置_activity_data.xml/周循环活动配置!317
+new_server_weekly_cycle	200411	135101	符文冲刺	{{2026,9,4},{2035,12,31}}	{15,7,14}	7日/隔14日重复；见open_time	[{chapter_pve,15}]		A_活动配置_activity_data.xml/周循环活动配置!363
+new_server_weekly_cycle	200413	25101	冲刺礼包	{{2026,9,4},{2035,12,31}}	{15,7,14}	7日/隔14日重复；见open_time	[{chapter_pve,15}]		A_活动配置_activity_data.xml/周循环活动配置!365
+new_server_weekly_cycle	200416	135102	秘宝冲刺	{{2026,9,4},{2035,12,31}}	{22,7,14}	7日/隔14日重复；见open_time	[{chapter_pve,15}]		A_活动配置_activity_data.xml/周循环活动配置!370
+new_server_weekly_cycle	200418	25102	冲刺礼包	{{2026,9,4},{2035,12,31}}	{22,7,14}	7日/隔14日重复；见open_time	[{chapter_pve,15}]		A_活动配置_activity_data.xml/周循环活动配置!372

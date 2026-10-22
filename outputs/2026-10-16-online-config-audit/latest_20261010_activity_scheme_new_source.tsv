@@ -1,0 +1,4 @@
+﻿id	activity_name	base_id	data_cfg	server_condition	begin_time	end_time	condition	child_id	source
+100720	星旅寻梦	360003	activity_unit_draw_data	{{2026,10,10},{2035,12,31}}	{server_open_day,2}	{server_open_day,9}	[{chapter_pve,15}]	[100721,100722]	A_活动配置_activity_data.xml/活动配置!844
+100721	寻梦任务	11053	activity_tasks_data	{{2026,10,10},{2035,12,31}}	{server_open_day,2}	{server_open_day,9}	[{chapter_pve,15}]		A_活动配置_activity_data.xml/活动配置!845
+100722	寻梦礼包	21040	activity_shop_data	{{2026,10,10},{2035,12,31}}	{server_open_day,2}	{server_open_day,9}	[{chapter_pve,15}]		A_活动配置_activity_data.xml/活动配置!846

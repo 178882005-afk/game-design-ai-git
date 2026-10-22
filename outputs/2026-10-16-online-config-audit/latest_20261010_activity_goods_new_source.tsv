@@ -1,0 +1,10 @@
+﻿base_id	id	name	rewards	cost	pay_id	cash_price_cny	buy_count	reset	condition	show_condition	source	pay_source
+21040	2104001	免费礼包	[{5600200,1}]				1	1			A_活动商店_activity_shop_data.xml/活动商城!327	
+21040	2104002	寻梦礼包Ⅰ	[{5600200,3},{5104001,100}]	[{1,228}]			3				A_活动商店_activity_shop_data.xml/活动商城!328	
+21040	2104003	寻梦礼包Ⅱ	[{1,60},{5600200,5}]		1910021	6	5				A_活动商店_activity_shop_data.xml/活动商城!329	C_充值_pay_data.xml/支付表!654
+21040	2104004	寻梦礼包Ⅲ	[{5600200,6},{5104001,200}]	[{1,688}]			3				A_活动商店_activity_shop_data.xml/活动商城!330	
+21040	2104005	寻梦礼包Ⅳ	[{1,300},{5600200,10}]		1910022	30	5				A_活动商店_activity_shop_data.xml/活动商城!331	C_充值_pay_data.xml/支付表!655
+21040	2104006	寻梦礼包Ⅴ	[{5600200,12},{5104001,300}]	[{1,1388}]			3				A_活动商店_activity_shop_data.xml/活动商城!332	
+21040	2104007	寻梦礼包Ⅵ	[{5600200,20},{5104001,400}]	[{1,2688}]			3				A_活动商店_activity_shop_data.xml/活动商城!333	
+21040	2104008	寻梦礼包Ⅶ	[{1,3280},{5600200,35}]		1910024	328	5				A_活动商店_activity_shop_data.xml/活动商城!334	C_充值_pay_data.xml/支付表!657
+21040	2104009	寻梦礼包Ⅷ	[{5600200,40},{5104001,500}]	[{1,5688}]			10				A_活动商店_activity_shop_data.xml/活动商城!335	

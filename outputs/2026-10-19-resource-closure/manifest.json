@@ -1,0 +1,70 @@
+{
+  "README.md": {
+    "bytes": 15092,
+    "sha256": "1134fad6f1d935347ef0caa798f5fa43948feca9290af7bbe0db0a0d43c2b1da"
+  },
+  "validation.json": {
+    "bytes": 1565,
+    "sha256": "800e2667eeeb84ec5921774518dbc1f006f14c6a1e39982f498a2fd970657a41"
+  },
+  "交付核验.json": {
+    "bytes": 1678,
+    "sha256": "0f79cb09ff553aed6a49e0d26f5c73de3967f8fab807601f5eef43659f60dc37"
+  },
+  "可追溯样本状态.json": {
+    "bytes": 10923,
+    "sha256": "b537672d352fc162438cde9c6aedcba50a52abd4497d85f74b9d828fc9d5f405"
+  },
+  "四层结果摘要.tsv": {
+    "bytes": 652,
+    "sha256": "e4e532ba008fd25189f0afa452e71ac87c133ee4ca4c18ff551d354f57f521ea"
+  },
+  "当前节点成本核验.json": {
+    "bytes": 277399,
+    "sha256": "c9ffbbfb125ab7303d122649811677e1de279287996f99f3b7483e00567911e1"
+  },
+  "文档交付核验.json": {
+    "bytes": 379,
+    "sha256": "4731cfaa7a9805dabc00f97ffab167fc9c9cf55003f9482737a279874455440e"
+  },
+  "梦灵事件_可追溯样本.tsv": {
+    "bytes": 130322,
+    "sha256": "8396da727414960dcac967a03d371c0aa91e08b4653dc523d4c0360d8743b95f"
+  },
+  "梦灵达成概率与日期.tsv": {
+    "bytes": 38785,
+    "sha256": "c40135ed6fec7035b163d8557cc471446fc3c305805424db818bfef1298cc2a4"
+  },
+  "梦灵逐日预期.tsv": {
+    "bytes": 5175362,
+    "sha256": "3598355035e5c926c6cd7231ce1f6efc62cb87a52f336704377d7db5ec85348b"
+  },
+  "现金预算逐日账.tsv": {
+    "bytes": 294112,
+    "sha256": "2ad9b4960016fc6ce023c11b34e7198c6e6fc3c904166102e5342f3a7c4d6e4a"
+  },
+  "统一收支明细.tsv": {
+    "bytes": 61243697,
+    "sha256": "7bf478d48325872fa4d268f9c14223c3216ba304298047050475979392379c8d"
+  },
+  "统一来源流水.tsv": {
+    "bytes": 15367299,
+    "sha256": "a66658b26605aade7f1a84f394c95435f00ec626e8f314d449391f1a802d00cb"
+  },
+  "统一逐日资源账.tsv": {
+    "bytes": 22396486,
+    "sha256": "2095d67a6077fbcc19dbe8c0e8a54524008d5a14503844d7a89c0af912d4e812"
+  },
+  "资源来源与消耗覆盖.tsv": {
+    "bytes": 32789,
+    "sha256": "37f73c9c328d5f69edb871e1185e6b389b8ce3508d990856f40439bfc8ac31ab"
+  },
+  "输入与计算指纹.json": {
+    "bytes": 4787,
+    "sha256": "5cbde66781cd65a2fb100b50384aa9e589cb904eefbe781c9cad7a32ffdc6811"
+  },
+  "边界验证.json": {
+    "bytes": 1784,
+    "sha256": "711bc4e7d4e11fb25a6d1862ba7440535f34067a3916d2c398686f99b01c4ab2"
+  }
+}

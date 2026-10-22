@@ -1,0 +1,1 @@
+SELECT DATE(date_time) event_date,version,COUNT(DISTINCT TRIM(CAST(chr_id AS STRING))) roles FROM dwd_login_fh WHERE date_time>='2026-10-12' AND date_time<'2026-10-15' AND LOWER(TRIM(platform_name)) IN ('sy','mix') GROUP BY DATE(date_time),version ORDER BY event_date,roles DESC LIMIT 20

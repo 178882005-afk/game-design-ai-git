@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "valid_document_links": 32,
+  "original20_workbook_hashes": "UNCHANGED",
+  "changed_original_markdown": [
+    "《梦境护卫队》_30_交接_00_AI读取入口.md",
+    "《梦境护卫队》_30_交接_03_文件索引与未完事项.md"
+  ],
+  "svn_commit": "NOT_PERFORMED",
+  "scope": "conditional model;all-library closure still incomplete"
+}

@@ -1,0 +1,59 @@
+{
+  "checks": [
+    {
+      "check": "all exported daily rows reconcile to journal and previous day",
+      "result": "PASS"
+    },
+    {
+      "check": "all exported end inventories reconcile to saved sample state",
+      "result": "PASS"
+    },
+    {
+      "check": "all journal keys present in daily ledger",
+      "result": "PASS"
+    },
+    {
+      "check": "canonical source keys unique and count matches",
+      "result": "PASS"
+    },
+    {
+      "check": "external input equals source receipts without duplicate income",
+      "result": "PASS"
+    },
+    {
+      "check": "four tiers times365 days times24 spirits and unique keys",
+      "result": "PASS"
+    },
+    {
+      "check": "ownership probabilities and held-level blanks valid",
+      "result": "PASS"
+    },
+    {
+      "check": "all384 targets retain censored samples",
+      "result": "PASS"
+    },
+    {
+      "check": "attainment dates include all samples in denominator",
+      "result": "PASS"
+    },
+    {
+      "check": "attainment dates within year and p90 not earlier than p50",
+      "result": "PASS"
+    },
+    {
+      "check": "all1460 cash days respect inherited calendar budget and purchases",
+      "result": "PASS"
+    },
+    {
+      "check": "seven current config hashes unchanged during simulation",
+      "result": "PASS"
+    }
+  ],
+  "max_exported_daily_residual": 1.4551915228366852e-11,
+  "daily_rows": 183015,
+  "journal_rows": 488419,
+  "cash_days": 1460,
+  "samples_per_tier": 128,
+  "cash_reset": "每月10日；不是固定30天",
+  "scope": "conditional source receipts and executed actions;other uses held in inventory"
+}

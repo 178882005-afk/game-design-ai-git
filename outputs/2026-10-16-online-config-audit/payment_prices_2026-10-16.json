@@ -1,0 +1,507 @@
+{
+  "source": "dwd_payment_incr_unique_v4_empty_fh",
+  "product_name": "fh",
+  "query": "SELECT package_name, amount, currency_type, COUNT(*) AS orders FROM dwd_payment_incr_unique_v4_empty_fh WHERE the_date = '2026-10-16' AND pay_category = '1' GROUP BY package_name, amount, currency_type ORDER BY package_name, amount LIMIT 2000",
+  "meta": {
+    "product_name": "fh",
+    "row_count": 81,
+    "truncated": false,
+    "table_refs": [
+      "dwd_payment_incr_unique_v4_empty_fh"
+    ]
+  },
+  "columns": [
+    "package_name",
+    "amount",
+    "currency_type",
+    "orders"
+  ],
+  "rows": [
+    {
+      "package_name": "1000",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 9
+    },
+    {
+      "package_name": "1001",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 1
+    },
+    {
+      "package_name": "1003",
+      "amount": "128.000",
+      "currency_type": "CNY",
+      "orders": 2
+    },
+    {
+      "package_name": "1004",
+      "amount": "328.000",
+      "currency_type": "CNY",
+      "orders": 2
+    },
+    {
+      "package_name": "1005",
+      "amount": "648.000",
+      "currency_type": "CNY",
+      "orders": 4
+    },
+    {
+      "package_name": "1006",
+      "amount": "98.000",
+      "currency_type": "CNY",
+      "orders": 1
+    },
+    {
+      "package_name": "1020215",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 3
+    },
+    {
+      "package_name": "1020216",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 4
+    },
+    {
+      "package_name": "1020218",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 4
+    },
+    {
+      "package_name": "1020224",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 3
+    },
+    {
+      "package_name": "1020227",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 12
+    },
+    {
+      "package_name": "1020228",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 9
+    },
+    {
+      "package_name": "1020229",
+      "amount": "328.000",
+      "currency_type": "CNY",
+      "orders": 1
+    },
+    {
+      "package_name": "1020230",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 8
+    },
+    {
+      "package_name": "1020231",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 1
+    },
+    {
+      "package_name": "1020233",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 4
+    },
+    {
+      "package_name": "1020239",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 5
+    },
+    {
+      "package_name": "1020240",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 2
+    },
+    {
+      "package_name": "1110004",
+      "amount": "25.000",
+      "currency_type": "CNY",
+      "orders": 53
+    },
+    {
+      "package_name": "1110011",
+      "amount": "1.000",
+      "currency_type": "CNY",
+      "orders": 168
+    },
+    {
+      "package_name": "1110012",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 49
+    },
+    {
+      "package_name": "1110013",
+      "amount": "18.000",
+      "currency_type": "CNY",
+      "orders": 4
+    },
+    {
+      "package_name": "131",
+      "amount": "18.000",
+      "currency_type": "CNY",
+      "orders": 74
+    },
+    {
+      "package_name": "1310019",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 13
+    },
+    {
+      "package_name": "1310034",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 37
+    },
+    {
+      "package_name": "1310035",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 10
+    },
+    {
+      "package_name": "1310036",
+      "amount": "98.000",
+      "currency_type": "CNY",
+      "orders": 2
+    },
+    {
+      "package_name": "1310037",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 28
+    },
+    {
+      "package_name": "1310038",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 8
+    },
+    {
+      "package_name": "1310039",
+      "amount": "98.000",
+      "currency_type": "CNY",
+      "orders": 3
+    },
+    {
+      "package_name": "132",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 100
+    },
+    {
+      "package_name": "134",
+      "amount": "12.000",
+      "currency_type": "CNY",
+      "orders": 72
+    },
+    {
+      "package_name": "135",
+      "amount": "18.000",
+      "currency_type": "CNY",
+      "orders": 13
+    },
+    {
+      "package_name": "136",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 15
+    },
+    {
+      "package_name": "138",
+      "amount": "12.000",
+      "currency_type": "CNY",
+      "orders": 21
+    },
+    {
+      "package_name": "139",
+      "amount": "18.000",
+      "currency_type": "CNY",
+      "orders": 32
+    },
+    {
+      "package_name": "140",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 33
+    },
+    {
+      "package_name": "1410004",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 1
+    },
+    {
+      "package_name": "142",
+      "amount": "12.000",
+      "currency_type": "CNY",
+      "orders": 29
+    },
+    {
+      "package_name": "16",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 68
+    },
+    {
+      "package_name": "1610006",
+      "amount": "68.000",
+      "currency_type": "CNY",
+      "orders": 1
+    },
+    {
+      "package_name": "1610008",
+      "amount": "68.000",
+      "currency_type": "CNY",
+      "orders": 5
+    },
+    {
+      "package_name": "1610009",
+      "amount": "68.000",
+      "currency_type": "CNY",
+      "orders": 5
+    },
+    {
+      "package_name": "1610010",
+      "amount": "68.000",
+      "currency_type": "CNY",
+      "orders": 7
+    },
+    {
+      "package_name": "1610011",
+      "amount": "68.000",
+      "currency_type": "CNY",
+      "orders": 1
+    },
+    {
+      "package_name": "1810001",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 4
+    },
+    {
+      "package_name": "1910001",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 92
+    },
+    {
+      "package_name": "1910002",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 35
+    },
+    {
+      "package_name": "1910004",
+      "amount": "328.000",
+      "currency_type": "CNY",
+      "orders": 6
+    },
+    {
+      "package_name": "1910011",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 6
+    },
+    {
+      "package_name": "1910012",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 4
+    },
+    {
+      "package_name": "2010004",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 37
+    },
+    {
+      "package_name": "2010005",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 4
+    },
+    {
+      "package_name": "2010006",
+      "amount": "98.000",
+      "currency_type": "CNY",
+      "orders": 2
+    },
+    {
+      "package_name": "2010007",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 40
+    },
+    {
+      "package_name": "2010008",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 3
+    },
+    {
+      "package_name": "2010009",
+      "amount": "98.000",
+      "currency_type": "CNY",
+      "orders": 1
+    },
+    {
+      "package_name": "2012001",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 63
+    },
+    {
+      "package_name": "2012002",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 15
+    },
+    {
+      "package_name": "2012003",
+      "amount": "98.000",
+      "currency_type": "CNY",
+      "orders": 1
+    },
+    {
+      "package_name": "3",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 4
+    },
+    {
+      "package_name": "40101",
+      "amount": "98.000",
+      "currency_type": "CNY",
+      "orders": 14
+    },
+    {
+      "package_name": "40402",
+      "amount": "98.000",
+      "currency_type": "CNY",
+      "orders": 4
+    },
+    {
+      "package_name": "500011",
+      "amount": "28.000",
+      "currency_type": "CNY",
+      "orders": 70
+    },
+    {
+      "package_name": "500012",
+      "amount": "68.000",
+      "currency_type": "CNY",
+      "orders": 30
+    },
+    {
+      "package_name": "6001",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 3
+    },
+    {
+      "package_name": "6002",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 3
+    },
+    {
+      "package_name": "6004",
+      "amount": "128.000",
+      "currency_type": "CNY",
+      "orders": 2
+    },
+    {
+      "package_name": "6020",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 5
+    },
+    {
+      "package_name": "6021",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 5
+    },
+    {
+      "package_name": "6022",
+      "amount": "98.000",
+      "currency_type": "CNY",
+      "orders": 21
+    },
+    {
+      "package_name": "6023",
+      "amount": "128.000",
+      "currency_type": "CNY",
+      "orders": 5
+    },
+    {
+      "package_name": "6024",
+      "amount": "328.000",
+      "currency_type": "CNY",
+      "orders": 2
+    },
+    {
+      "package_name": "6025",
+      "amount": "648.000",
+      "currency_type": "CNY",
+      "orders": 3
+    },
+    {
+      "package_name": "6101",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 10
+    },
+    {
+      "package_name": "6102",
+      "amount": "30.000",
+      "currency_type": "CNY",
+      "orders": 64
+    },
+    {
+      "package_name": "6103",
+      "amount": "68.000",
+      "currency_type": "CNY",
+      "orders": 17
+    },
+    {
+      "package_name": "6104",
+      "amount": "128.000",
+      "currency_type": "CNY",
+      "orders": 26
+    },
+    {
+      "package_name": "6105",
+      "amount": "328.000",
+      "currency_type": "CNY",
+      "orders": 1
+    },
+    {
+      "package_name": "6106",
+      "amount": "648.000",
+      "currency_type": "CNY",
+      "orders": 4
+    },
+    {
+      "package_name": "9",
+      "amount": "6.000",
+      "currency_type": "CNY",
+      "orders": 3
+    }
+  ]
+}

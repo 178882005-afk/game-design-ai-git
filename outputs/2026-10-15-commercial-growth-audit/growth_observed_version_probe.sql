@@ -1,0 +1,1 @@
+SELECT version,MIN(date_time) first_event,MAX(date_time) last_event,COUNT(*) rows_n FROM dwd_join_log_fh WHERE date_time >= '2026-09-24' AND date_time < '2026-10-15' AND platform_name='wxmjhwd' AND channel_name='355_1' AND type='主线副本' AND name='基础战斗信息' GROUP BY version ORDER BY first_event

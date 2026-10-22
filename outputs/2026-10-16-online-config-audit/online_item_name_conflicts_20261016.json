@@ -1,0 +1,42 @@
+{
+  "source": "dwd_virtual_items_fh",
+  "query": "SELECT item_id, item_name, COUNT(*) AS events, MIN(date_time) AS first_seen, MAX(date_time) AS last_seen FROM dwd_virtual_items_fh WHERE date_time >= '2026-07-19' AND date_time < '2026-10-17' AND item_id IN (47,59,5525002,5600078) GROUP BY item_id, item_name ORDER BY item_id, events DESC LIMIT 100",
+  "meta": {
+    "product_name": "fh",
+    "row_count": 4,
+    "truncated": false,
+    "table_refs": [
+      "dwd_virtual_items_fh"
+    ]
+  },
+  "rows": [
+    {
+      "item_id": 47,
+      "item_name": "织梦能量",
+      "events": 18173332,
+      "first_seen": "2026-07-19 00:00:00",
+      "last_seen": "2026-10-16 19:30:18"
+    },
+    {
+      "item_id": 59,
+      "item_name": "贪吃币",
+      "events": 10012884,
+      "first_seen": "2026-07-19 00:00:01",
+      "last_seen": "2026-10-16 19:30:17"
+    },
+    {
+      "item_id": 5525002,
+      "item_name": "咸鱼之王",
+      "events": 35885,
+      "first_seen": "2026-07-19 00:03:04",
+      "last_seen": "2026-10-16 19:23:37"
+    },
+    {
+      "item_id": 5600078,
+      "item_name": "小鱼干",
+      "events": 1,
+      "first_seen": "2026-08-27 20:01:40",
+      "last_seen": "2026-08-27 20:01:40"
+    }
+  ]
+}

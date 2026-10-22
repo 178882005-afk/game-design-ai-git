@@ -1,0 +1,3650 @@
+{
+  "status": "PASS",
+  "scope": "2026-10-10 new-server conditional model; four tiers; D1-D365; executed sources and allocations only",
+  "canonical_key": [
+    "date",
+    "tier",
+    "item_id"
+  ],
+  "source_provenance_key": "source_key",
+  "allocation_provenance_key": "allocation_id",
+  "source_rows": 70434,
+  "journal_rows": 488419,
+  "allocation_rows": 89294,
+  "ledger_rows": 183015,
+  "tiers": [
+    "large_r",
+    "mid_r",
+    "non_r",
+    "small_r"
+  ],
+  "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365
+  ],
+  "unique_items": 133,
+  "max_abs_daily_residual": 1.4551915228366852e-11,
+  "negative_ending_rows": 0,
+  "continuity_failures": [],
+  "reconciliation_failures": [],
+  "allocation_modules": {
+    "body_conversion": {
+      "rows": 38903,
+      "quantity": 39954.0
+    },
+    "container": {
+      "rows": 30108,
+      "quantity": 2497179.4000000004
+    },
+    "equipment": {
+      "rows": 6006,
+      "quantity": 52011909.0
+    },
+    "mainline": {
+      "rows": 1464,
+      "quantity": 595288.0
+    },
+    "recruit": {
+      "rows": 6512,
+      "quantity": 65120.0
+    },
+    "spirit_activation": {
+      "rows": 6,
+      "quantity": 90.0
+    },
+    "spirit_shop": {
+      "rows": 928,
+      "quantity": 2148600.0
+    },
+    "spirit_upgrade": {
+      "rows": 3784,
+      "quantity": 1499650.0
+    },
+    "weapon_research": {
+      "rows": 1444,
+      "quantity": 4871327.0
+    },
+    "wish": {
+      "rows": 139,
+      "quantity": 695.0
+    }
+  },
+  "item_totals": {
+    "large_r:1": {
+      "opening": 33129853.0,
+      "income": 164741.0,
+      "consumption": 0.0,
+      "ending": 164741.0
+    },
+    "large_r:100012": {
+      "opening": 266.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "large_r:100020": {
+      "opening": 206.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "large_r:100053": {
+      "opening": 126.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:100065": {
+      "opening": 853.0,
+      "income": 5.0,
+      "consumption": 0.0,
+      "ending": 5.0
+    },
+    "large_r:100090": {
+      "opening": 6830.0,
+      "income": 30.0,
+      "consumption": 0.0,
+      "ending": 30.0
+    },
+    "large_r:100104": {
+      "opening": 2813.0,
+      "income": 8.0,
+      "consumption": 0.0,
+      "ending": 8.0
+    },
+    "large_r:100109": {
+      "opening": 2700.0,
+      "income": 20.0,
+      "consumption": 0.0,
+      "ending": 20.0
+    },
+    "large_r:100120": {
+      "opening": 291.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:100124": {
+      "opening": 276.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:100157": {
+      "opening": 1800.0,
+      "income": 20.0,
+      "consumption": 0.0,
+      "ending": 20.0
+    },
+    "large_r:11": {
+      "opening": 1907.610000000045,
+      "income": 18836.670000000056,
+      "consumption": 18830.0,
+      "ending": 6.67
+    },
+    "large_r:1110100": {
+      "opening": 0.0,
+      "income": 581.0,
+      "consumption": 581.0,
+      "ending": 0.0
+    },
+    "large_r:11101001": {
+      "opening": 724550.0,
+      "income": 5920.0,
+      "consumption": 1060.0,
+      "ending": 4860.0
+    },
+    "large_r:1120100": {
+      "opening": 0.0,
+      "income": 78.0,
+      "consumption": 78.0,
+      "ending": 0.0
+    },
+    "large_r:11201001": {
+      "opening": 5330.0,
+      "income": 940.0,
+      "consumption": 880.0,
+      "ending": 60.0
+    },
+    "large_r:1130100": {
+      "opening": 0.0,
+      "income": 112.0,
+      "consumption": 112.0,
+      "ending": 0.0
+    },
+    "large_r:11301001": {
+      "opening": 24770.0,
+      "income": 1190.0,
+      "consumption": 940.0,
+      "ending": 250.0
+    },
+    "large_r:1130200": {
+      "opening": 0.0,
+      "income": 65.0,
+      "consumption": 65.0,
+      "ending": 0.0
+    },
+    "large_r:11302001": {
+      "opening": 7400.0,
+      "income": 870.0,
+      "consumption": 790.0,
+      "ending": 80.0
+    },
+    "large_r:1140100": {
+      "opening": 0.0,
+      "income": 125.0,
+      "consumption": 125.0,
+      "ending": 0.0
+    },
+    "large_r:11401001": {
+      "opening": 9600.0,
+      "income": 1310.0,
+      "consumption": 1300.0,
+      "ending": 10.0
+    },
+    "large_r:1140200": {
+      "opening": 0.0,
+      "income": 442.0,
+      "consumption": 442.0,
+      "ending": 0.0
+    },
+    "large_r:11402001": {
+      "opening": 398720.0,
+      "income": 4510.0,
+      "consumption": 1720.0,
+      "ending": 2790.0
+    },
+    "large_r:1210300": {
+      "opening": 0.0,
+      "income": 109.0,
+      "consumption": 109.0,
+      "ending": 0.0
+    },
+    "large_r:12103001": {
+      "opening": 9560.0,
+      "income": 1130.0,
+      "consumption": 1060.0,
+      "ending": 70.0
+    },
+    "large_r:1210400": {
+      "opening": 0.0,
+      "income": 1642.0,
+      "consumption": 1642.0,
+      "ending": 0.0
+    },
+    "large_r:12104001": {
+      "opening": 3002180.0,
+      "income": 16420.0,
+      "consumption": 2260.0,
+      "ending": 14160.0
+    },
+    "large_r:1210600": {
+      "opening": 0.0,
+      "income": 624.0,
+      "consumption": 624.0,
+      "ending": 0.0
+    },
+    "large_r:12106001": {
+      "opening": 845800.0,
+      "income": 6250.0,
+      "consumption": 1300.0,
+      "ending": 4950.0
+    },
+    "large_r:1210700": {
+      "opening": 0.0,
+      "income": 696.0,
+      "consumption": 696.0,
+      "ending": 0.0
+    },
+    "large_r:12107001": {
+      "opening": 974840.0,
+      "income": 6960.0,
+      "consumption": 1420.0,
+      "ending": 5540.0
+    },
+    "large_r:1230100": {
+      "opening": 0.0,
+      "income": 1640.0,
+      "consumption": 1640.0,
+      "ending": 0.0
+    },
+    "large_r:12301001": {
+      "opening": 2540940.0,
+      "income": 16400.0,
+      "consumption": 6580.0,
+      "ending": 9820.0
+    },
+    "large_r:1230400": {
+      "opening": 0.0,
+      "income": 650.0,
+      "consumption": 650.0,
+      "ending": 0.0
+    },
+    "large_r:12304001": {
+      "opening": 679690.0,
+      "income": 6500.0,
+      "consumption": 2740.0,
+      "ending": 3760.0
+    },
+    "large_r:13": {
+      "opening": 0.0,
+      "income": 149972.0,
+      "consumption": 149972.0,
+      "ending": 0.0
+    },
+    "large_r:1310100": {
+      "opening": 0.0,
+      "income": 1576.0,
+      "consumption": 1576.0,
+      "ending": 0.0
+    },
+    "large_r:13101001": {
+      "opening": 2891610.0,
+      "income": 15760.0,
+      "consumption": 2260.0,
+      "ending": 13500.0
+    },
+    "large_r:1310300": {
+      "opening": 0.0,
+      "income": 1214.0,
+      "consumption": 1214.0,
+      "ending": 0.0
+    },
+    "large_r:13103001": {
+      "opening": 1848750.0,
+      "income": 12160.0,
+      "consumption": 1300.0,
+      "ending": 10860.0
+    },
+    "large_r:1320100": {
+      "opening": 0.0,
+      "income": 630.0,
+      "consumption": 630.0,
+      "ending": 0.0
+    },
+    "large_r:13201001": {
+      "opening": 600540.0,
+      "income": 6330.0,
+      "consumption": 2500.0,
+      "ending": 3830.0
+    },
+    "large_r:14": {
+      "opening": 164058408.0,
+      "income": 899832.0,
+      "consumption": 0.0,
+      "ending": 899832.0
+    },
+    "large_r:1410200": {
+      "opening": 0.0,
+      "income": 80.0,
+      "consumption": 80.0,
+      "ending": 0.0
+    },
+    "large_r:14102001": {
+      "opening": 51100.0,
+      "income": 990.0,
+      "consumption": 510.0,
+      "ending": 480.0
+    },
+    "large_r:1420200": {
+      "opening": 0.0,
+      "income": 652.0,
+      "consumption": 652.0,
+      "ending": 0.0
+    },
+    "large_r:14202001": {
+      "opening": 864660.0,
+      "income": 6550.0,
+      "consumption": 1420.0,
+      "ending": 5130.0
+    },
+    "large_r:1420300": {
+      "opening": 0.0,
+      "income": 90.0,
+      "consumption": 90.0,
+      "ending": 0.0
+    },
+    "large_r:14203001": {
+      "opening": 109140.0,
+      "income": 1240.0,
+      "consumption": 510.0,
+      "ending": 730.0
+    },
+    "large_r:1430700": {
+      "opening": 0.0,
+      "income": 298.0,
+      "consumption": 298.0,
+      "ending": 0.0
+    },
+    "large_r:14307001": {
+      "opening": 176590.0,
+      "income": 3040.0,
+      "consumption": 1420.0,
+      "ending": 1620.0
+    },
+    "large_r:1530100": {
+      "opening": 0.0,
+      "income": 107.0,
+      "consumption": 107.0,
+      "ending": 0.0
+    },
+    "large_r:15301001": {
+      "opening": 28490.0,
+      "income": 1160.0,
+      "consumption": 940.0,
+      "ending": 220.0
+    },
+    "large_r:1530200": {
+      "opening": 0.0,
+      "income": 93.0,
+      "consumption": 93.0,
+      "ending": 0.0
+    },
+    "large_r:15302001": {
+      "opening": 108270.0,
+      "income": 1200.0,
+      "consumption": 510.0,
+      "ending": 690.0
+    },
+    "large_r:1550200": {
+      "opening": 0.0,
+      "income": 80.0,
+      "consumption": 80.0,
+      "ending": 0.0
+    },
+    "large_r:15502001": {
+      "opening": 43530.0,
+      "income": 940.0,
+      "consumption": 580.0,
+      "ending": 360.0
+    },
+    "large_r:16101001": {
+      "opening": 5765.0,
+      "income": 145.0,
+      "consumption": 51.0,
+      "ending": 94.0
+    },
+    "large_r:16201001": {
+      "opening": 5579.0,
+      "income": 149.0,
+      "consumption": 51.0,
+      "ending": 98.0
+    },
+    "large_r:2": {
+      "opening": 4415584.040000009,
+      "income": 16907948.179999985,
+      "consumption": 16899440.0,
+      "ending": 8508.180000000051
+    },
+    "large_r:20034": {
+      "opening": 3477.0,
+      "income": 11.0,
+      "consumption": 0.0,
+      "ending": 11.0
+    },
+    "large_r:21360": {
+      "opening": 10920.0,
+      "income": 30.0,
+      "consumption": 0.0,
+      "ending": 30.0
+    },
+    "large_r:21361": {
+      "opening": 146456.09999999902,
+      "income": 405.9,
+      "consumption": 0.0,
+      "ending": 405.9
+    },
+    "large_r:21362": {
+      "opening": 291331.5,
+      "income": 830.625,
+      "consumption": 0.0,
+      "ending": 830.625
+    },
+    "large_r:21363": {
+      "opening": 3647292.599999987,
+      "income": 21214.275,
+      "consumption": 0.0,
+      "ending": 21214.275
+    },
+    "large_r:24": {
+      "opening": 1862700.0,
+      "income": 624900.0,
+      "consumption": 622200.0,
+      "ending": 2700.0
+    },
+    "large_r:30": {
+      "opening": 18382.0,
+      "income": 91.0,
+      "consumption": 0.0,
+      "ending": 91.0
+    },
+    "large_r:35": {
+      "opening": 732.0,
+      "income": 202.0,
+      "consumption": 200.0,
+      "ending": 2.0
+    },
+    "large_r:44": {
+      "opening": 515479.4399999998,
+      "income": 3068.329999999999,
+      "consumption": 0.0,
+      "ending": 3068.329999999999
+    },
+    "large_r:50001": {
+      "opening": 931100.0,
+      "income": 7000.0,
+      "consumption": 0.0,
+      "ending": 7000.0
+    },
+    "large_r:50002": {
+      "opening": 0.0,
+      "income": 165211.0,
+      "consumption": 165211.0,
+      "ending": 0.0
+    },
+    "large_r:50003": {
+      "opening": 505175.7333333322,
+      "income": 35042.26666666671,
+      "consumption": 34859.0,
+      "ending": 183.266666666658
+    },
+    "large_r:50004": {
+      "opening": 568534.7333333286,
+      "income": 35037.26666666671,
+      "consumption": 34188.0,
+      "ending": 849.266666666636
+    },
+    "large_r:50005": {
+      "opening": 547578.7333333285,
+      "income": 35040.26666666671,
+      "consumption": 34859.0,
+      "ending": 181.26666666664
+    },
+    "large_r:50006": {
+      "opening": 592498.7333333286,
+      "income": 35042.26666666671,
+      "consumption": 34188.0,
+      "ending": 854.26666666663
+    },
+    "large_r:50007": {
+      "opening": 614646.7333333285,
+      "income": 35040.26666666671,
+      "consumption": 34188.0,
+      "ending": 852.266666666627
+    },
+    "large_r:50008": {
+      "opening": 526087.7333333303,
+      "income": 35045.26666666671,
+      "consumption": 34859.0,
+      "ending": 186.266666666651
+    },
+    "large_r:50015": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "large_r:50016": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "large_r:50017": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "large_r:50018": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "large_r:50019": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:50020": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:50025": {
+      "opening": 0.0,
+      "income": 44964.6,
+      "consumption": 44964.6,
+      "ending": 0.0
+    },
+    "large_r:50027": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:50028": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:50029": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:50030": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:50031": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:50032": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:5103001": {
+      "opening": 0.0,
+      "income": 444608.0,
+      "consumption": 444608.0,
+      "ending": 0.0
+    },
+    "large_r:5103003": {
+      "opening": 68357670.0,
+      "income": 374930.0,
+      "consumption": 0.0,
+      "ending": 374930.0
+    },
+    "large_r:5104001": {
+      "opening": 2028313.5199999975,
+      "income": 11723.890000000001,
+      "consumption": 0.0,
+      "ending": 11723.890000000001
+    },
+    "large_r:5113001": {
+      "opening": 753216.0000000094,
+      "income": 63515.42857142857,
+      "consumption": 61320.0,
+      "ending": 2195.428571428604
+    },
+    "large_r:5123001": {
+      "opening": 840558.0000000093,
+      "income": 63515.42857142857,
+      "consumption": 61140.0,
+      "ending": 2375.428571428563
+    },
+    "large_r:5133001": {
+      "opening": 995366.0000000017,
+      "income": 63565.42857142857,
+      "consumption": 61140.0,
+      "ending": 2425.428571428547
+    },
+    "large_r:5143001": {
+      "opening": 530589.0000000077,
+      "income": 63515.42857142857,
+      "consumption": 62028.0,
+      "ending": 1487.428571428631
+    },
+    "large_r:5153001": {
+      "opening": 6381408.00000008,
+      "income": 63515.42857142857,
+      "consumption": 41112.0,
+      "ending": 22403.428571429045
+    },
+    "large_r:5163001": {
+      "opening": 686820.0000000122,
+      "income": 63515.42857142857,
+      "consumption": 60624.0,
+      "ending": 2891.428571428632
+    },
+    "large_r:5173001": {
+      "opening": 6373980.000000081,
+      "income": 63515.42857142857,
+      "consumption": 35208.0,
+      "ending": 28307.428571429045
+    },
+    "large_r:5203001": {
+      "opening": 504645.0,
+      "income": 74986.0,
+      "consumption": 73773.0,
+      "ending": 1213.0
+    },
+    "large_r:5303001": {
+      "opening": 5470069.600000004,
+      "income": 29998.4,
+      "consumption": 0.0,
+      "ending": 29998.399999999998
+    },
+    "large_r:5305001": {
+      "opening": 41328.0,
+      "income": 240.0,
+      "consumption": 0.0,
+      "ending": 240.0
+    },
+    "large_r:5305008": {
+      "opening": 236.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "large_r:5305010": {
+      "opening": 1404.0,
+      "income": 7.0,
+      "consumption": 0.0,
+      "ending": 7.0
+    },
+    "large_r:5401001": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:5401002": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:5401003": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:5401004": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:5401005": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:5401006": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:5401007": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:5401008": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:5401009": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:5401019": {
+      "opening": 2731030.800000002,
+      "income": 14988.2,
+      "consumption": 0.0,
+      "ending": 14988.199999999999
+    },
+    "large_r:5523001": {
+      "opening": 2915100.0,
+      "income": 17100.0,
+      "consumption": 0.0,
+      "ending": 17100.0
+    },
+    "large_r:5523003": {
+      "opening": 20468.0,
+      "income": 119.0,
+      "consumption": 0.0,
+      "ending": 119.0
+    },
+    "large_r:5600005": {
+      "opening": 358.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:5600016": {
+      "opening": 17193.119999999988,
+      "income": 102.34,
+      "consumption": 0.0,
+      "ending": 102.34
+    },
+    "large_r:5600070": {
+      "opening": 1011.0,
+      "income": 3.0,
+      "consumption": 0.0,
+      "ending": 3.0
+    },
+    "large_r:5600077": {
+      "opening": 2333.0,
+      "income": 8.0,
+      "consumption": 0.0,
+      "ending": 8.0
+    },
+    "large_r:5600083": {
+      "opening": 2478.0,
+      "income": 7.0,
+      "consumption": 0.0,
+      "ending": 7.0
+    },
+    "large_r:5600100": {
+      "opening": 336.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:5600101": {
+      "opening": 351.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:5600200": {
+      "opening": 7425.0,
+      "income": 22.0,
+      "consumption": 0.0,
+      "ending": 22.0
+    },
+    "large_r:5600201": {
+      "opening": 3666.0,
+      "income": 12.0,
+      "consumption": 0.0,
+      "ending": 12.0
+    },
+    "large_r:5600208": {
+      "opening": 1228500.0,
+      "income": 7020.0,
+      "consumption": 0.0,
+      "ending": 7020.0
+    },
+    "large_r:5600229": {
+      "opening": 21301.0,
+      "income": 119.0,
+      "consumption": 0.0,
+      "ending": 119.0
+    },
+    "large_r:5800004": {
+      "opening": 2957.0,
+      "income": 9.0,
+      "consumption": 0.0,
+      "ending": 9.0
+    },
+    "large_r:6220001": {
+      "opening": 298.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "large_r:9": {
+      "opening": 409503.07999999874,
+      "income": 2189.819999999984,
+      "consumption": 0.0,
+      "ending": 2189.819999999984
+    },
+    "large_r:9800301": {
+      "opening": 66430.0,
+      "income": 365.0,
+      "consumption": 0.0,
+      "ending": 365.0
+    },
+    "mid_r:1": {
+      "opening": 32531212.0,
+      "income": 164741.0,
+      "consumption": 0.0,
+      "ending": 164741.0
+    },
+    "mid_r:100012": {
+      "opening": 266.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "mid_r:100020": {
+      "opening": 206.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "mid_r:100053": {
+      "opening": 126.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:100065": {
+      "opening": 853.0,
+      "income": 5.0,
+      "consumption": 0.0,
+      "ending": 5.0
+    },
+    "mid_r:100090": {
+      "opening": 6830.0,
+      "income": 30.0,
+      "consumption": 0.0,
+      "ending": 30.0
+    },
+    "mid_r:100104": {
+      "opening": 2813.0,
+      "income": 8.0,
+      "consumption": 0.0,
+      "ending": 8.0
+    },
+    "mid_r:100109": {
+      "opening": 2700.0,
+      "income": 20.0,
+      "consumption": 0.0,
+      "ending": 20.0
+    },
+    "mid_r:100120": {
+      "opening": 291.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:100124": {
+      "opening": 276.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:100157": {
+      "opening": 1800.0,
+      "income": 20.0,
+      "consumption": 0.0,
+      "ending": 20.0
+    },
+    "mid_r:11": {
+      "opening": 1822.07000000001,
+      "income": 18527.340000000007,
+      "consumption": 18520.0,
+      "ending": 7.340000000001
+    },
+    "mid_r:1110100": {
+      "opening": 0.0,
+      "income": 520.0,
+      "consumption": 520.0,
+      "ending": 0.0
+    },
+    "mid_r:11101001": {
+      "opening": 624710.0,
+      "income": 5320.0,
+      "consumption": 1060.0,
+      "ending": 4260.0
+    },
+    "mid_r:1120100": {
+      "opening": 0.0,
+      "income": 53.0,
+      "consumption": 53.0,
+      "ending": 0.0
+    },
+    "mid_r:11201001": {
+      "opening": 5710.0,
+      "income": 680.0,
+      "consumption": 650.0,
+      "ending": 30.0
+    },
+    "mid_r:1130100": {
+      "opening": 0.0,
+      "income": 124.0,
+      "consumption": 124.0,
+      "ending": 0.0
+    },
+    "mid_r:11301001": {
+      "opening": 46650.0,
+      "income": 1320.0,
+      "consumption": 940.0,
+      "ending": 380.0
+    },
+    "mid_r:1130200": {
+      "opening": 0.0,
+      "income": 75.0,
+      "consumption": 75.0,
+      "ending": 0.0
+    },
+    "mid_r:11302001": {
+      "opening": 7660.0,
+      "income": 940.0,
+      "consumption": 880.0,
+      "ending": 60.0
+    },
+    "mid_r:1140100": {
+      "opening": 0.0,
+      "income": 117.0,
+      "consumption": 117.0,
+      "ending": 0.0
+    },
+    "mid_r:11401001": {
+      "opening": 12240.0,
+      "income": 1240.0,
+      "consumption": 1180.0,
+      "ending": 60.0
+    },
+    "mid_r:1140200": {
+      "opening": 0.0,
+      "income": 453.0,
+      "consumption": 453.0,
+      "ending": 0.0
+    },
+    "mid_r:11402001": {
+      "opening": 456920.0,
+      "income": 4620.0,
+      "consumption": 1720.0,
+      "ending": 2900.0
+    },
+    "mid_r:1210300": {
+      "opening": 0.0,
+      "income": 119.0,
+      "consumption": 119.0,
+      "ending": 0.0
+    },
+    "mid_r:12103001": {
+      "opening": 11320.0,
+      "income": 1240.0,
+      "consumption": 1180.0,
+      "ending": 60.0
+    },
+    "mid_r:1210400": {
+      "opening": 0.0,
+      "income": 1584.0,
+      "consumption": 1584.0,
+      "ending": 0.0
+    },
+    "mid_r:12104001": {
+      "opening": 2848030.0,
+      "income": 15840.0,
+      "consumption": 2260.0,
+      "ending": 13580.0
+    },
+    "mid_r:1210600": {
+      "opening": 0.0,
+      "income": 684.0,
+      "consumption": 684.0,
+      "ending": 0.0
+    },
+    "mid_r:12106001": {
+      "opening": 958400.0,
+      "income": 6850.0,
+      "consumption": 1300.0,
+      "ending": 5550.0
+    },
+    "mid_r:1210700": {
+      "opening": 0.0,
+      "income": 615.0,
+      "consumption": 615.0,
+      "ending": 0.0
+    },
+    "mid_r:12107001": {
+      "opening": 838440.0,
+      "income": 6140.0,
+      "consumption": 1420.0,
+      "ending": 4720.0
+    },
+    "mid_r:1230100": {
+      "opening": 0.0,
+      "income": 1632.0,
+      "consumption": 1632.0,
+      "ending": 0.0
+    },
+    "mid_r:12301001": {
+      "opening": 2480460.0,
+      "income": 16320.0,
+      "consumption": 6580.0,
+      "ending": 9740.0
+    },
+    "mid_r:1230400": {
+      "opening": 0.0,
+      "income": 630.0,
+      "consumption": 630.0,
+      "ending": 0.0
+    },
+    "mid_r:12304001": {
+      "opening": 632780.0,
+      "income": 6290.0,
+      "consumption": 2740.0,
+      "ending": 3550.0
+    },
+    "mid_r:13": {
+      "opening": 0.0,
+      "income": 149972.0,
+      "consumption": 149972.0,
+      "ending": 0.0
+    },
+    "mid_r:1310100": {
+      "opening": 0.0,
+      "income": 1608.0,
+      "consumption": 1608.0,
+      "ending": 0.0
+    },
+    "mid_r:13101001": {
+      "opening": 3013090.0,
+      "income": 16080.0,
+      "consumption": 2260.0,
+      "ending": 13820.0
+    },
+    "mid_r:1310300": {
+      "opening": 0.0,
+      "income": 1190.0,
+      "consumption": 1190.0,
+      "ending": 0.0
+    },
+    "mid_r:13103001": {
+      "opening": 1849190.0,
+      "income": 11920.0,
+      "consumption": 1300.0,
+      "ending": 10620.0
+    },
+    "mid_r:1320100": {
+      "opening": 0.0,
+      "income": 595.0,
+      "consumption": 595.0,
+      "ending": 0.0
+    },
+    "mid_r:13201001": {
+      "opening": 576350.0,
+      "income": 5970.0,
+      "consumption": 2500.0,
+      "ending": 3470.0
+    },
+    "mid_r:14": {
+      "opening": 164058408.0,
+      "income": 899832.0,
+      "consumption": 0.0,
+      "ending": 899832.0
+    },
+    "mid_r:1410200": {
+      "opening": 0.0,
+      "income": 84.0,
+      "consumption": 84.0,
+      "ending": 0.0
+    },
+    "mid_r:14102001": {
+      "opening": 65400.0,
+      "income": 1010.0,
+      "consumption": 510.0,
+      "ending": 500.0
+    },
+    "mid_r:1420200": {
+      "opening": 0.0,
+      "income": 643.0,
+      "consumption": 643.0,
+      "ending": 0.0
+    },
+    "mid_r:14202001": {
+      "opening": 847520.0,
+      "income": 6450.0,
+      "consumption": 1420.0,
+      "ending": 5030.0
+    },
+    "mid_r:1420300": {
+      "opening": 0.0,
+      "income": 92.0,
+      "consumption": 92.0,
+      "ending": 0.0
+    },
+    "mid_r:14203001": {
+      "opening": 86160.0,
+      "income": 1220.0,
+      "consumption": 510.0,
+      "ending": 710.0
+    },
+    "mid_r:1430700": {
+      "opening": 0.0,
+      "income": 286.0,
+      "consumption": 286.0,
+      "ending": 0.0
+    },
+    "mid_r:14307001": {
+      "opening": 184890.0,
+      "income": 2940.0,
+      "consumption": 1420.0,
+      "ending": 1520.0
+    },
+    "mid_r:1530100": {
+      "opening": 0.0,
+      "income": 87.0,
+      "consumption": 87.0,
+      "ending": 0.0
+    },
+    "mid_r:15301001": {
+      "opening": 10460.0,
+      "income": 980.0,
+      "consumption": 940.0,
+      "ending": 40.0
+    },
+    "mid_r:1530200": {
+      "opening": 0.0,
+      "income": 102.0,
+      "consumption": 102.0,
+      "ending": 0.0
+    },
+    "mid_r:15302001": {
+      "opening": 120020.0,
+      "income": 1270.0,
+      "consumption": 510.0,
+      "ending": 760.0
+    },
+    "mid_r:1550200": {
+      "opening": 0.0,
+      "income": 88.0,
+      "consumption": 88.0,
+      "ending": 0.0
+    },
+    "mid_r:15502001": {
+      "opening": 46260.0,
+      "income": 1010.0,
+      "consumption": 580.0,
+      "ending": 430.0
+    },
+    "mid_r:16101001": {
+      "opening": 6665.0,
+      "income": 154.0,
+      "consumption": 51.0,
+      "ending": 103.0
+    },
+    "mid_r:16201001": {
+      "opening": 5496.0,
+      "income": 146.0,
+      "consumption": 51.0,
+      "ending": 95.0
+    },
+    "mid_r:2": {
+      "opening": 3744246.4400000055,
+      "income": 15557135.460000016,
+      "consumption": 15534530.0,
+      "ending": 22605.460000000123
+    },
+    "mid_r:20034": {
+      "opening": 3469.0,
+      "income": 11.0,
+      "consumption": 0.0,
+      "ending": 11.0
+    },
+    "mid_r:21360": {
+      "opening": 27074.10000000015,
+      "income": 74.4,
+      "consumption": 0.0,
+      "ending": 74.4
+    },
+    "mid_r:21361": {
+      "opening": 174151.5,
+      "income": 484.5,
+      "consumption": 0.0,
+      "ending": 484.5
+    },
+    "mid_r:21362": {
+      "opening": 407461.7999999975,
+      "income": 1177.8,
+      "consumption": 0.0,
+      "ending": 1177.8
+    },
+    "mid_r:21363": {
+      "opening": 3487312.8000000124,
+      "income": 20744.1,
+      "consumption": 0.0,
+      "ending": 20744.100000000002
+    },
+    "mid_r:24": {
+      "opening": 2034000.0,
+      "income": 614100.0,
+      "consumption": 612600.0,
+      "ending": 1500.0
+    },
+    "mid_r:30": {
+      "opening": 18377.0,
+      "income": 91.0,
+      "consumption": 0.0,
+      "ending": 91.0
+    },
+    "mid_r:35": {
+      "opening": 720.0,
+      "income": 199.0,
+      "consumption": 195.0,
+      "ending": 4.0
+    },
+    "mid_r:44": {
+      "opening": 339978.2399999998,
+      "income": 2023.68,
+      "consumption": 0.0,
+      "ending": 2023.68
+    },
+    "mid_r:50001": {
+      "opening": 931100.0,
+      "income": 7000.0,
+      "consumption": 0.0,
+      "ending": 7000.0
+    },
+    "mid_r:50002": {
+      "opening": 0.0,
+      "income": 165211.0,
+      "consumption": 165211.0,
+      "ending": 0.0
+    },
+    "mid_r:50003": {
+      "opening": 865417.7333333323,
+      "income": 35042.26666666671,
+      "consumption": 32223.0,
+      "ending": 2819.266666666641
+    },
+    "mid_r:50004": {
+      "opening": 927226.7333333326,
+      "income": 35037.26666666671,
+      "consumption": 31584.0,
+      "ending": 3453.266666666641
+    },
+    "mid_r:50005": {
+      "opening": 909570.7333333326,
+      "income": 35040.26666666671,
+      "consumption": 32223.0,
+      "ending": 2817.266666666641
+    },
+    "mid_r:50006": {
+      "opening": 954967.7333333329,
+      "income": 35042.26666666671,
+      "consumption": 31584.0,
+      "ending": 3458.266666666642
+    },
+    "mid_r:50007": {
+      "opening": 971685.7333333329,
+      "income": 35040.26666666671,
+      "consumption": 31584.0,
+      "ending": 3456.266666666642
+    },
+    "mid_r:50008": {
+      "opening": 886951.7333333322,
+      "income": 35045.26666666671,
+      "consumption": 32223.0,
+      "ending": 2822.26666666664
+    },
+    "mid_r:50015": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "mid_r:50016": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "mid_r:50017": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "mid_r:50018": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "mid_r:50019": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:50020": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:50025": {
+      "opening": 0.0,
+      "income": 44964.6,
+      "consumption": 44964.6,
+      "ending": 0.0
+    },
+    "mid_r:50027": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:50028": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:50029": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:50030": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:50031": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:50032": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:5103001": {
+      "opening": 0.0,
+      "income": 445083.0,
+      "consumption": 445083.0,
+      "ending": 0.0
+    },
+    "mid_r:5103003": {
+      "opening": 68357670.0,
+      "income": 374930.0,
+      "consumption": 0.0,
+      "ending": 374930.0
+    },
+    "mid_r:5104001": {
+      "opening": 1448523.920000003,
+      "income": 8275.439999999999,
+      "consumption": 0.0,
+      "ending": 8275.439999999999
+    },
+    "mid_r:5113001": {
+      "opening": 747821.4285714355,
+      "income": 63583.28571428573,
+      "consumption": 61320.0,
+      "ending": 2263.28571428575
+    },
+    "mid_r:5123001": {
+      "opening": 1114049.4285714184,
+      "income": 63583.28571428573,
+      "consumption": 61140.0,
+      "ending": 2443.285714285576
+    },
+    "mid_r:5133001": {
+      "opening": 802819.4285714419,
+      "income": 63633.28571428573,
+      "consumption": 61140.0,
+      "ending": 2493.285714285765
+    },
+    "mid_r:5143001": {
+      "opening": 529349.428571439,
+      "income": 63583.28571428573,
+      "consumption": 62028.0,
+      "ending": 1555.285714285787
+    },
+    "mid_r:5153001": {
+      "opening": 6706661.428571524,
+      "income": 63583.28571428573,
+      "consumption": 33072.0,
+      "ending": 30511.28571428634
+    },
+    "mid_r:5163001": {
+      "opening": 668993.4285714376,
+      "income": 63583.28571428573,
+      "consumption": 60624.0,
+      "ending": 2959.285714285777
+    },
+    "mid_r:5173001": {
+      "opening": 5680181.428571544,
+      "income": 63583.28571428573,
+      "consumption": 39192.0,
+      "ending": 24391.28571428644
+    },
+    "mid_r:5203001": {
+      "opening": 551617.0,
+      "income": 74986.0,
+      "consumption": 74633.0,
+      "ending": 353.0
+    },
+    "mid_r:5303001": {
+      "opening": 5470069.600000004,
+      "income": 29998.4,
+      "consumption": 0.0,
+      "ending": 29998.4
+    },
+    "mid_r:5305001": {
+      "opening": 41328.0,
+      "income": 240.0,
+      "consumption": 0.0,
+      "ending": 240.0
+    },
+    "mid_r:5305008": {
+      "opening": 236.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "mid_r:5305010": {
+      "opening": 1404.0,
+      "income": 7.0,
+      "consumption": 0.0,
+      "ending": 7.0
+    },
+    "mid_r:5401001": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:5401002": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:5401003": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:5401004": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:5401005": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:5401006": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:5401007": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:5401008": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:5401009": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:5401019": {
+      "opening": 2731030.800000002,
+      "income": 14988.2,
+      "consumption": 0.0,
+      "ending": 14988.2
+    },
+    "mid_r:5523001": {
+      "opening": 2915100.0,
+      "income": 17100.0,
+      "consumption": 0.0,
+      "ending": 17100.0
+    },
+    "mid_r:5523003": {
+      "opening": 20468.0,
+      "income": 119.0,
+      "consumption": 0.0,
+      "ending": 119.0
+    },
+    "mid_r:5600005": {
+      "opening": 358.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:5600016": {
+      "opening": 20106.23999999995,
+      "income": 119.68,
+      "consumption": 0.0,
+      "ending": 119.68
+    },
+    "mid_r:5600070": {
+      "opening": 1011.0,
+      "income": 3.0,
+      "consumption": 0.0,
+      "ending": 3.0
+    },
+    "mid_r:5600077": {
+      "opening": 2333.0,
+      "income": 8.0,
+      "consumption": 0.0,
+      "ending": 8.0
+    },
+    "mid_r:5600083": {
+      "opening": 2478.0,
+      "income": 7.0,
+      "consumption": 0.0,
+      "ending": 7.0
+    },
+    "mid_r:5600100": {
+      "opening": 336.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:5600101": {
+      "opening": 351.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:5600200": {
+      "opening": 7425.0,
+      "income": 22.0,
+      "consumption": 0.0,
+      "ending": 22.0
+    },
+    "mid_r:5600201": {
+      "opening": 3666.0,
+      "income": 12.0,
+      "consumption": 0.0,
+      "ending": 12.0
+    },
+    "mid_r:5600208": {
+      "opening": 1228500.0,
+      "income": 7020.0,
+      "consumption": 0.0,
+      "ending": 7020.0
+    },
+    "mid_r:5600229": {
+      "opening": 21301.0,
+      "income": 119.0,
+      "consumption": 0.0,
+      "ending": 119.0
+    },
+    "mid_r:5800004": {
+      "opening": 2951.0,
+      "income": 9.0,
+      "consumption": 0.0,
+      "ending": 9.0
+    },
+    "mid_r:6220001": {
+      "opening": 298.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "mid_r:9": {
+      "opening": 398941.07999999897,
+      "income": 2139.819999999985,
+      "consumption": 0.0,
+      "ending": 2139.819999999985
+    },
+    "mid_r:9800301": {
+      "opening": 66430.0,
+      "income": 365.0,
+      "consumption": 0.0,
+      "ending": 365.0
+    },
+    "non_r:1": {
+      "opening": 1601352.0,
+      "income": 9392.0,
+      "consumption": 0.0,
+      "ending": 9392.0
+    },
+    "non_r:100012": {
+      "opening": 266.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "non_r:100020": {
+      "opening": 206.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "non_r:100053": {
+      "opening": 126.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:100065": {
+      "opening": 853.0,
+      "income": 5.0,
+      "consumption": 0.0,
+      "ending": 5.0
+    },
+    "non_r:100090": {
+      "opening": 6830.0,
+      "income": 30.0,
+      "consumption": 0.0,
+      "ending": 30.0
+    },
+    "non_r:100104": {
+      "opening": 2813.0,
+      "income": 8.0,
+      "consumption": 0.0,
+      "ending": 8.0
+    },
+    "non_r:100109": {
+      "opening": 2700.0,
+      "income": 20.0,
+      "consumption": 0.0,
+      "ending": 20.0
+    },
+    "non_r:100120": {
+      "opening": 291.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:100124": {
+      "opening": 276.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:100157": {
+      "opening": 1800.0,
+      "income": 20.0,
+      "consumption": 0.0,
+      "ending": 20.0
+    },
+    "non_r:11": {
+      "opening": 1843.399999999994,
+      "income": 9579.049999999983,
+      "consumption": 9570.0,
+      "ending": 9.05
+    },
+    "non_r:1110100": {
+      "opening": 0.0,
+      "income": 226.0,
+      "consumption": 226.0,
+      "ending": 0.0
+    },
+    "non_r:11101001": {
+      "opening": 238400.0,
+      "income": 2410.0,
+      "consumption": 850.0,
+      "ending": 1560.0
+    },
+    "non_r:1120100": {
+      "opening": 0.0,
+      "income": 32.0,
+      "consumption": 32.0,
+      "ending": 0.0
+    },
+    "non_r:11201001": {
+      "opening": 2090.0,
+      "income": 410.0,
+      "consumption": 390.0,
+      "ending": 20.0
+    },
+    "non_r:1130100": {
+      "opening": 0.0,
+      "income": 44.0,
+      "consumption": 44.0,
+      "ending": 0.0
+    },
+    "non_r:11301001": {
+      "opening": 5550.0,
+      "income": 520.0,
+      "consumption": 490.0,
+      "ending": 30.0
+    },
+    "non_r:1130200": {
+      "opening": 0.0,
+      "income": 31.0,
+      "consumption": 31.0,
+      "ending": 0.0
+    },
+    "non_r:11302001": {
+      "opening": 3120.0,
+      "income": 450.0,
+      "consumption": 440.0,
+      "ending": 10.0
+    },
+    "non_r:1140100": {
+      "opening": 0.0,
+      "income": 47.0,
+      "consumption": 47.0,
+      "ending": 0.0
+    },
+    "non_r:11401001": {
+      "opening": 6140.0,
+      "income": 540.0,
+      "consumption": 490.0,
+      "ending": 50.0
+    },
+    "non_r:1140200": {
+      "opening": 0.0,
+      "income": 195.0,
+      "consumption": 195.0,
+      "ending": 0.0
+    },
+    "non_r:11402001": {
+      "opening": 102350.0,
+      "income": 2030.0,
+      "consumption": 1180.0,
+      "ending": 850.0
+    },
+    "non_r:1210300": {
+      "opening": 0.0,
+      "income": 35.0,
+      "consumption": 35.0,
+      "ending": 0.0
+    },
+    "non_r:12103001": {
+      "opening": 5560.0,
+      "income": 390.0,
+      "consumption": 370.0,
+      "ending": 20.0
+    },
+    "non_r:1210400": {
+      "opening": 0.0,
+      "income": 968.0,
+      "consumption": 968.0,
+      "ending": 0.0
+    },
+    "non_r:12104001": {
+      "opening": 1669650.0,
+      "income": 9680.0,
+      "consumption": 1780.0,
+      "ending": 7900.0
+    },
+    "non_r:1210600": {
+      "opening": 0.0,
+      "income": 324.0,
+      "consumption": 324.0,
+      "ending": 0.0
+    },
+    "non_r:12106001": {
+      "opening": 314040.0,
+      "income": 3240.0,
+      "consumption": 1060.0,
+      "ending": 2180.0
+    },
+    "non_r:1210700": {
+      "opening": 0.0,
+      "income": 298.0,
+      "consumption": 298.0,
+      "ending": 0.0
+    },
+    "non_r:12107001": {
+      "opening": 317760.0,
+      "income": 2970.0,
+      "consumption": 1060.0,
+      "ending": 1910.0
+    },
+    "non_r:1230100": {
+      "opening": 0.0,
+      "income": 966.0,
+      "consumption": 966.0,
+      "ending": 0.0
+    },
+    "non_r:12301001": {
+      "opening": 1259830.0,
+      "income": 9660.0,
+      "consumption": 3700.0,
+      "ending": 5960.0
+    },
+    "non_r:1230400": {
+      "opening": 0.0,
+      "income": 332.0,
+      "consumption": 332.0,
+      "ending": 0.0
+    },
+    "non_r:12304001": {
+      "opening": 242190.0,
+      "income": 3310.0,
+      "consumption": 1780.0,
+      "ending": 1530.0
+    },
+    "non_r:13": {
+      "opening": 0.0,
+      "income": 146322.0,
+      "consumption": 146322.0,
+      "ending": 0.0
+    },
+    "non_r:1310100": {
+      "opening": 0.0,
+      "income": 986.0,
+      "consumption": 986.0,
+      "ending": 0.0
+    },
+    "non_r:13101001": {
+      "opening": 1614270.0,
+      "income": 9860.0,
+      "consumption": 1780.0,
+      "ending": 8080.0
+    },
+    "non_r:1310300": {
+      "opening": 0.0,
+      "income": 572.0,
+      "consumption": 572.0,
+      "ending": 0.0
+    },
+    "non_r:13103001": {
+      "opening": 768990.0,
+      "income": 5740.0,
+      "consumption": 1060.0,
+      "ending": 4680.0
+    },
+    "non_r:1320100": {
+      "opening": 0.0,
+      "income": 290.0,
+      "consumption": 290.0,
+      "ending": 0.0
+    },
+    "non_r:13201001": {
+      "opening": 178370.0,
+      "income": 2920.0,
+      "consumption": 2020.0,
+      "ending": 900.0
+    },
+    "non_r:14": {
+      "opening": 160072608.0,
+      "income": 877932.0,
+      "consumption": 0.0,
+      "ending": 877932.0
+    },
+    "non_r:1410200": {
+      "opening": 0.0,
+      "income": 25.0,
+      "consumption": 25.0,
+      "ending": 0.0
+    },
+    "non_r:14102001": {
+      "opening": 7410.0,
+      "income": 370.0,
+      "consumption": 290.0,
+      "ending": 80.0
+    },
+    "non_r:1420200": {
+      "opening": 0.0,
+      "income": 311.0,
+      "consumption": 311.0,
+      "ending": 0.0
+    },
+    "non_r:14202001": {
+      "opening": 342940.0,
+      "income": 3130.0,
+      "consumption": 1180.0,
+      "ending": 1950.0
+    },
+    "non_r:1420300": {
+      "opening": 0.0,
+      "income": 23.0,
+      "consumption": 23.0,
+      "ending": 0.0
+    },
+    "non_r:14203001": {
+      "opening": 22650.0,
+      "income": 500.0,
+      "consumption": 390.0,
+      "ending": 110.0
+    },
+    "non_r:1430700": {
+      "opening": 0.0,
+      "income": 97.0,
+      "consumption": 97.0,
+      "ending": 0.0
+    },
+    "non_r:14307001": {
+      "opening": 10060.0,
+      "income": 1050.0,
+      "consumption": 940.0,
+      "ending": 110.0
+    },
+    "non_r:1530100": {
+      "opening": 0.0,
+      "income": 41.0,
+      "consumption": 41.0,
+      "ending": 0.0
+    },
+    "non_r:15301001": {
+      "opening": 6350.0,
+      "income": 510.0,
+      "consumption": 490.0,
+      "ending": 20.0
+    },
+    "non_r:1530200": {
+      "opening": 0.0,
+      "income": 29.0,
+      "consumption": 29.0,
+      "ending": 0.0
+    },
+    "non_r:15302001": {
+      "opening": 10760.0,
+      "income": 470.0,
+      "consumption": 340.0,
+      "ending": 130.0
+    },
+    "non_r:1550200": {
+      "opening": 0.0,
+      "income": 19.0,
+      "consumption": 19.0,
+      "ending": 0.0
+    },
+    "non_r:15502001": {
+      "opening": 1280.0,
+      "income": 260.0,
+      "consumption": 240.0,
+      "ending": 20.0
+    },
+    "non_r:16101001": {
+      "opening": 0.0,
+      "income": 0.0,
+      "consumption": 0.0,
+      "ending": 0.0
+    },
+    "non_r:16201001": {
+      "opening": 0.0,
+      "income": 0.0,
+      "consumption": 0.0,
+      "ending": 0.0
+    },
+    "non_r:2": {
+      "opening": 2574131.710000006,
+      "income": 10024258.719999995,
+      "consumption": 10014420.0,
+      "ending": 9838.720000000023
+    },
+    "non_r:20034": {
+      "opening": 2952.0,
+      "income": 11.0,
+      "consumption": 0.0,
+      "ending": 11.0
+    },
+    "non_r:21360": {
+      "opening": 102630.40000000052,
+      "income": 283.6,
+      "consumption": 0.0,
+      "ending": 283.6
+    },
+    "non_r:21361": {
+      "opening": 149520.0,
+      "income": 420.0,
+      "consumption": 0.0,
+      "ending": 420.0
+    },
+    "non_r:21362": {
+      "opening": 677790.375,
+      "income": 2018.625,
+      "consumption": 0.0,
+      "ending": 2018.625
+    },
+    "non_r:21363": {
+      "opening": 3058479.22499999,
+      "income": 19189.275,
+      "consumption": 0.0,
+      "ending": 19189.274999999998
+    },
+    "non_r:24": {
+      "opening": 1722300.0,
+      "income": 318600.0,
+      "consumption": 309600.0,
+      "ending": 9000.0
+    },
+    "non_r:30": {
+      "opening": 18048.0,
+      "income": 91.0,
+      "consumption": 0.0,
+      "ending": 91.0
+    },
+    "non_r:35": {
+      "opening": 671.0,
+      "income": 109.0,
+      "consumption": 105.0,
+      "ending": 4.0
+    },
+    "non_r:44": {
+      "opening": 234648.9599999994,
+      "income": 1396.72,
+      "consumption": 0.0,
+      "ending": 1396.72
+    },
+    "non_r:50001": {
+      "opening": 931100.0,
+      "income": 7000.0,
+      "consumption": 0.0,
+      "ending": 7000.0
+    },
+    "non_r:50002": {
+      "opening": 0.0,
+      "income": 163386.0,
+      "consumption": 163386.0,
+      "ending": 0.0
+    },
+    "non_r:50003": {
+      "opening": 2207870.4000000013,
+      "income": 34555.599999999926,
+      "consumption": 21450.0,
+      "ending": 13105.600000000035
+    },
+    "non_r:50004": {
+      "opening": 2261475.4000000022,
+      "income": 34550.599999999926,
+      "consumption": 20963.0,
+      "ending": 13587.600000000039
+    },
+    "non_r:50005": {
+      "opening": 2245056.4000000022,
+      "income": 34553.599999999926,
+      "consumption": 21450.0,
+      "ending": 13103.600000000037
+    },
+    "non_r:50006": {
+      "opening": 2279523.4000000027,
+      "income": 34555.599999999926,
+      "consumption": 20963.0,
+      "ending": 13592.600000000042
+    },
+    "non_r:50007": {
+      "opening": 2295279.4000000027,
+      "income": 34553.599999999926,
+      "consumption": 20963.0,
+      "ending": 13590.600000000039
+    },
+    "non_r:50008": {
+      "opening": 2226722.4000000022,
+      "income": 34558.599999999926,
+      "consumption": 21450.0,
+      "ending": 13108.600000000037
+    },
+    "non_r:50015": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "non_r:50016": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "non_r:50017": {
+      "opening": 727.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "non_r:50018": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "non_r:50019": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:50020": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:50025": {
+      "opening": 0.0,
+      "income": 43869.6,
+      "consumption": 43869.6,
+      "ending": 0.0
+    },
+    "non_r:50027": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:50028": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:50029": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:50030": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:50031": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:50032": {
+      "opening": 363.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:5103001": {
+      "opening": 0.0,
+      "income": 332908.0,
+      "consumption": 332908.0,
+      "ending": 0.0
+    },
+    "non_r:5103003": {
+      "opening": 66696920.0,
+      "income": 365805.0,
+      "consumption": 0.0,
+      "ending": 365805.0
+    },
+    "non_r:5104001": {
+      "opening": 1111566.1600000008,
+      "income": 6478.369999999998,
+      "consumption": 0.0,
+      "ending": 6478.369999999998
+    },
+    "non_r:5113001": {
+      "opening": 611912.4285714322,
+      "income": 47558.28571428574,
+      "consumption": 45168.0,
+      "ending": 2390.285714285734
+    },
+    "non_r:5123001": {
+      "opening": 1341452.4285714147,
+      "income": 47558.28571428574,
+      "consumption": 41640.0,
+      "ending": 5918.285714285538
+    },
+    "non_r:5133001": {
+      "opening": 1307212.4285714154,
+      "income": 47608.28571428574,
+      "consumption": 40320.0,
+      "ending": 7288.285714285541
+    },
+    "non_r:5143001": {
+      "opening": 465044.4285714323,
+      "income": 47558.28571428574,
+      "consumption": 44568.0,
+      "ending": 2990.285714285747
+    },
+    "non_r:5153001": {
+      "opening": 6618704.4285714505,
+      "income": 47558.28571428574,
+      "consumption": 15840.0,
+      "ending": 31718.28571428582
+    },
+    "non_r:5163001": {
+      "opening": 1661276.4285714072,
+      "income": 47558.28571428574,
+      "consumption": 41184.0,
+      "ending": 6374.285714285505
+    },
+    "non_r:5173001": {
+      "opening": 7024904.4285714505,
+      "income": 47558.28571428574,
+      "consumption": 15072.0,
+      "ending": 32486.2857142858
+    },
+    "non_r:5203001": {
+      "opening": 730114.0,
+      "income": 73161.0,
+      "consumption": 72918.0,
+      "ending": 243.0
+    },
+    "non_r:5303001": {
+      "opening": 5337209.600000002,
+      "income": 29268.4,
+      "consumption": 0.0,
+      "ending": 29268.4
+    },
+    "non_r:5305001": {
+      "opening": 41328.0,
+      "income": 240.0,
+      "consumption": 0.0,
+      "ending": 240.0
+    },
+    "non_r:5305008": {
+      "opening": 236.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "non_r:5305010": {
+      "opening": 1404.0,
+      "income": 7.0,
+      "consumption": 0.0,
+      "ending": 7.0
+    },
+    "non_r:5401001": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:5401002": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:5401003": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:5401004": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:5401005": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:5401006": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:5401007": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:5401008": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:5401009": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:5401019": {
+      "opening": 2664600.800000001,
+      "income": 14623.2,
+      "consumption": 0.0,
+      "ending": 14623.2
+    },
+    "non_r:5523001": {
+      "opening": 2915100.0,
+      "income": 17100.0,
+      "consumption": 0.0,
+      "ending": 17100.0
+    },
+    "non_r:5523003": {
+      "opening": 20468.0,
+      "income": 119.0,
+      "consumption": 0.0,
+      "ending": 119.0
+    },
+    "non_r:5600005": {
+      "opening": 358.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:5600016": {
+      "opening": 17764.319999999985,
+      "income": 105.74,
+      "consumption": 0.0,
+      "ending": 105.74
+    },
+    "non_r:5600070": {
+      "opening": 1011.0,
+      "income": 3.0,
+      "consumption": 0.0,
+      "ending": 3.0
+    },
+    "non_r:5600077": {
+      "opening": 2333.0,
+      "income": 8.0,
+      "consumption": 0.0,
+      "ending": 8.0
+    },
+    "non_r:5600083": {
+      "opening": 2478.0,
+      "income": 7.0,
+      "consumption": 0.0,
+      "ending": 7.0
+    },
+    "non_r:5600100": {
+      "opening": 336.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:5600101": {
+      "opening": 351.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:5600200": {
+      "opening": 7425.0,
+      "income": 22.0,
+      "consumption": 0.0,
+      "ending": 22.0
+    },
+    "non_r:5600201": {
+      "opening": 3666.0,
+      "income": 12.0,
+      "consumption": 0.0,
+      "ending": 12.0
+    },
+    "non_r:5600208": {
+      "opening": 1228500.0,
+      "income": 7020.0,
+      "consumption": 0.0,
+      "ending": 7020.0
+    },
+    "non_r:5600229": {
+      "opening": 21301.0,
+      "income": 119.0,
+      "consumption": 0.0,
+      "ending": 119.0
+    },
+    "non_r:5800004": {
+      "opening": 2638.0,
+      "income": 9.0,
+      "consumption": 0.0,
+      "ending": 9.0
+    },
+    "non_r:6220001": {
+      "opening": 298.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "non_r:9": {
+      "opening": 355148.0800000014,
+      "income": 1927.32,
+      "consumption": 0.0,
+      "ending": 1927.32
+    },
+    "small_r:1": {
+      "opening": 11587272.0,
+      "income": 72272.0,
+      "consumption": 0.0,
+      "ending": 72272.0
+    },
+    "small_r:100012": {
+      "opening": 266.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "small_r:100020": {
+      "opening": 206.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "small_r:100053": {
+      "opening": 126.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:100065": {
+      "opening": 853.0,
+      "income": 5.0,
+      "consumption": 0.0,
+      "ending": 5.0
+    },
+    "small_r:100090": {
+      "opening": 6830.0,
+      "income": 30.0,
+      "consumption": 0.0,
+      "ending": 30.0
+    },
+    "small_r:100104": {
+      "opening": 2813.0,
+      "income": 8.0,
+      "consumption": 0.0,
+      "ending": 8.0
+    },
+    "small_r:100109": {
+      "opening": 2700.0,
+      "income": 20.0,
+      "consumption": 0.0,
+      "ending": 20.0
+    },
+    "small_r:100120": {
+      "opening": 291.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:100124": {
+      "opening": 276.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:100157": {
+      "opening": 1800.0,
+      "income": 20.0,
+      "consumption": 0.0,
+      "ending": 20.0
+    },
+    "small_r:11": {
+      "opening": 1822.48000000006,
+      "income": 18207.410000000138,
+      "consumption": 18200.0,
+      "ending": 7.41
+    },
+    "small_r:1110100": {
+      "opening": 0.0,
+      "income": 515.0,
+      "consumption": 515.0,
+      "ending": 0.0
+    },
+    "small_r:11101001": {
+      "opening": 616790.0,
+      "income": 5270.0,
+      "consumption": 1060.0,
+      "ending": 4210.0
+    },
+    "small_r:1120100": {
+      "opening": 0.0,
+      "income": 80.0,
+      "consumption": 80.0,
+      "ending": 0.0
+    },
+    "small_r:11201001": {
+      "opening": 8710.0,
+      "income": 950.0,
+      "consumption": 880.0,
+      "ending": 70.0
+    },
+    "small_r:1130100": {
+      "opening": 0.0,
+      "income": 113.0,
+      "consumption": 113.0,
+      "ending": 0.0
+    },
+    "small_r:11301001": {
+      "opening": 30270.0,
+      "income": 1210.0,
+      "consumption": 850.0,
+      "ending": 360.0
+    },
+    "small_r:1130200": {
+      "opening": 0.0,
+      "income": 68.0,
+      "consumption": 68.0,
+      "ending": 0.0
+    },
+    "small_r:11302001": {
+      "opening": 6400.0,
+      "income": 890.0,
+      "consumption": 880.0,
+      "ending": 10.0
+    },
+    "small_r:1140100": {
+      "opening": 0.0,
+      "income": 100.0,
+      "consumption": 100.0,
+      "ending": 0.0
+    },
+    "small_r:11401001": {
+      "opening": 10440.0,
+      "income": 1070.0,
+      "consumption": 1060.0,
+      "ending": 10.0
+    },
+    "small_r:1140200": {
+      "opening": 0.0,
+      "income": 463.0,
+      "consumption": 463.0,
+      "ending": 0.0
+    },
+    "small_r:11402001": {
+      "opening": 432120.0,
+      "income": 4680.0,
+      "consumption": 1540.0,
+      "ending": 3140.0
+    },
+    "small_r:1210300": {
+      "opening": 0.0,
+      "income": 112.0,
+      "consumption": 112.0,
+      "ending": 0.0
+    },
+    "small_r:12103001": {
+      "opening": 10150.0,
+      "income": 1170.0,
+      "consumption": 1060.0,
+      "ending": 110.0
+    },
+    "small_r:1210400": {
+      "opening": 0.0,
+      "income": 1600.0,
+      "consumption": 1600.0,
+      "ending": 0.0
+    },
+    "small_r:12104001": {
+      "opening": 2951490.0,
+      "income": 16000.0,
+      "consumption": 2020.0,
+      "ending": 13980.0
+    },
+    "small_r:1210600": {
+      "opening": 0.0,
+      "income": 658.0,
+      "consumption": 658.0,
+      "ending": 0.0
+    },
+    "small_r:12106001": {
+      "opening": 885160.0,
+      "income": 6590.0,
+      "consumption": 1300.0,
+      "ending": 5290.0
+    },
+    "small_r:1210700": {
+      "opening": 0.0,
+      "income": 588.0,
+      "consumption": 588.0,
+      "ending": 0.0
+    },
+    "small_r:12107001": {
+      "opening": 811000.0,
+      "income": 5880.0,
+      "consumption": 1300.0,
+      "ending": 4580.0
+    },
+    "small_r:1230100": {
+      "opening": 0.0,
+      "income": 1554.0,
+      "consumption": 1554.0,
+      "ending": 0.0
+    },
+    "small_r:12301001": {
+      "opening": 2294810.0,
+      "income": 15540.0,
+      "consumption": 6580.0,
+      "ending": 8960.0
+    },
+    "small_r:1230400": {
+      "opening": 0.0,
+      "income": 604.0,
+      "consumption": 604.0,
+      "ending": 0.0
+    },
+    "small_r:12304001": {
+      "opening": 588330.0,
+      "income": 6040.0,
+      "consumption": 2740.0,
+      "ending": 3300.0
+    },
+    "small_r:13": {
+      "opening": 0.0,
+      "income": 149022.0,
+      "consumption": 149022.0,
+      "ending": 0.0
+    },
+    "small_r:1310100": {
+      "opening": 0.0,
+      "income": 1560.0,
+      "consumption": 1560.0,
+      "ending": 0.0
+    },
+    "small_r:13101001": {
+      "opening": 2799070.0,
+      "income": 15600.0,
+      "consumption": 2260.0,
+      "ending": 13340.0
+    },
+    "small_r:1310300": {
+      "opening": 0.0,
+      "income": 1148.0,
+      "consumption": 1148.0,
+      "ending": 0.0
+    },
+    "small_r:13103001": {
+      "opening": 1733120.0,
+      "income": 11500.0,
+      "consumption": 1300.0,
+      "ending": 10200.0
+    },
+    "small_r:1320100": {
+      "opening": 0.0,
+      "income": 656.0,
+      "consumption": 656.0,
+      "ending": 0.0
+    },
+    "small_r:13201001": {
+      "opening": 718680.0,
+      "income": 6590.0,
+      "consumption": 2260.0,
+      "ending": 4330.0
+    },
+    "small_r:14": {
+      "opening": 162602508.0,
+      "income": 894132.0,
+      "consumption": 0.0,
+      "ending": 894132.0
+    },
+    "small_r:1410200": {
+      "opening": 0.0,
+      "income": 76.0,
+      "consumption": 76.0,
+      "ending": 0.0
+    },
+    "small_r:14102001": {
+      "opening": 50230.0,
+      "income": 940.0,
+      "consumption": 510.0,
+      "ending": 430.0
+    },
+    "small_r:1420200": {
+      "opening": 0.0,
+      "income": 604.0,
+      "consumption": 604.0,
+      "ending": 0.0
+    },
+    "small_r:14202001": {
+      "opening": 829490.0,
+      "income": 6070.0,
+      "consumption": 1420.0,
+      "ending": 4650.0
+    },
+    "small_r:1420300": {
+      "opening": 0.0,
+      "income": 76.0,
+      "consumption": 76.0,
+      "ending": 0.0
+    },
+    "small_r:14203001": {
+      "opening": 91250.0,
+      "income": 1070.0,
+      "consumption": 510.0,
+      "ending": 560.0
+    },
+    "small_r:1430700": {
+      "opening": 0.0,
+      "income": 259.0,
+      "consumption": 259.0,
+      "ending": 0.0
+    },
+    "small_r:14307001": {
+      "opening": 150990.0,
+      "income": 2670.0,
+      "consumption": 1420.0,
+      "ending": 1250.0
+    },
+    "small_r:1530100": {
+      "opening": 0.0,
+      "income": 101.0,
+      "consumption": 101.0,
+      "ending": 0.0
+    },
+    "small_r:15301001": {
+      "opening": 17630.0,
+      "income": 1130.0,
+      "consumption": 850.0,
+      "ending": 280.0
+    },
+    "small_r:1530200": {
+      "opening": 0.0,
+      "income": 88.0,
+      "consumption": 88.0,
+      "ending": 0.0
+    },
+    "small_r:15302001": {
+      "opening": 103310.0,
+      "income": 1140.0,
+      "consumption": 510.0,
+      "ending": 630.0
+    },
+    "small_r:1550200": {
+      "opening": 0.0,
+      "income": 75.0,
+      "consumption": 75.0,
+      "ending": 0.0
+    },
+    "small_r:15502001": {
+      "opening": 28750.0,
+      "income": 880.0,
+      "consumption": 580.0,
+      "ending": 300.0
+    },
+    "small_r:16101001": {
+      "opening": 5529.0,
+      "income": 146.0,
+      "consumption": 51.0,
+      "ending": 95.0
+    },
+    "small_r:16201001": {
+      "opening": 4313.0,
+      "income": 131.0,
+      "consumption": 51.0,
+      "ending": 80.0
+    },
+    "small_r:2": {
+      "opening": 3392948.3050000127,
+      "income": 13491114.250000019,
+      "consumption": 13446440.0,
+      "ending": 44674.25000000016
+    },
+    "small_r:20034": {
+      "opening": 3454.0,
+      "income": 11.0,
+      "consumption": 0.0,
+      "ending": 11.0
+    },
+    "small_r:21360": {
+      "opening": 48300.60000000032,
+      "income": 132.9,
+      "consumption": 0.0,
+      "ending": 132.9
+    },
+    "small_r:21361": {
+      "opening": 169896.0,
+      "income": 474.0,
+      "consumption": 0.0,
+      "ending": 474.0
+    },
+    "small_r:21362": {
+      "opening": 513553.9500000035,
+      "income": 1501.515,
+      "consumption": 0.0,
+      "ending": 1501.515
+    },
+    "small_r:21363": {
+      "opening": 3327852.1499999864,
+      "income": 20229.885000000002,
+      "consumption": 0.0,
+      "ending": 20229.885000000002
+    },
+    "small_r:24": {
+      "opening": 1955400.0,
+      "income": 604500.0,
+      "consumption": 604200.0,
+      "ending": 300.0
+    },
+    "small_r:30": {
+      "opening": 18368.0,
+      "income": 91.0,
+      "consumption": 0.0,
+      "ending": 91.0
+    },
+    "small_r:35": {
+      "opening": 725.0,
+      "income": 196.0,
+      "consumption": 195.0,
+      "ending": 1.0
+    },
+    "small_r:44": {
+      "opening": 278488.55999999994,
+      "income": 1657.67,
+      "consumption": 0.0,
+      "ending": 1657.67
+    },
+    "small_r:50001": {
+      "opening": 931100.0,
+      "income": 7000.0,
+      "consumption": 0.0,
+      "ending": 7000.0
+    },
+    "small_r:50002": {
+      "opening": 0.0,
+      "income": 164736.0,
+      "consumption": 164736.0,
+      "ending": 0.0
+    },
+    "small_r:50003": {
+      "opening": 1292329.3999999992,
+      "income": 34915.60000000002,
+      "consumption": 27918.0,
+      "ending": 6997.599999999952
+    },
+    "small_r:50004": {
+      "opening": 1353786.3999999985,
+      "income": 34910.60000000002,
+      "consumption": 27918.0,
+      "ending": 6992.599999999947
+    },
+    "small_r:50005": {
+      "opening": 1331104.399999999,
+      "income": 34913.60000000002,
+      "consumption": 27918.0,
+      "ending": 6995.599999999949
+    },
+    "small_r:50006": {
+      "opening": 1373389.3999999985,
+      "income": 34915.60000000002,
+      "consumption": 27918.0,
+      "ending": 6997.599999999946
+    },
+    "small_r:50007": {
+      "opening": 1395325.399999998,
+      "income": 34913.60000000002,
+      "consumption": 27918.0,
+      "ending": 6995.599999999943
+    },
+    "small_r:50008": {
+      "opening": 1315102.399999999,
+      "income": 34918.60000000002,
+      "consumption": 27918.0,
+      "ending": 7000.599999999949
+    },
+    "small_r:50015": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "small_r:50016": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "small_r:50017": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "small_r:50018": {
+      "opening": 728.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "small_r:50019": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:50020": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:50025": {
+      "opening": 0.0,
+      "income": 44679.6,
+      "consumption": 44679.6,
+      "ending": 0.0
+    },
+    "small_r:50027": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:50028": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:50029": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:50030": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:50031": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:50032": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:5103001": {
+      "opening": 0.0,
+      "income": 437558.0,
+      "consumption": 437558.0,
+      "ending": 0.0
+    },
+    "small_r:5103003": {
+      "opening": 67751045.0,
+      "income": 372555.0,
+      "consumption": 0.0,
+      "ending": 372555.0
+    },
+    "small_r:5104001": {
+      "opening": 1245312.0799999963,
+      "income": 7070.310000000001,
+      "consumption": 0.0,
+      "ending": 7070.310000000001
+    },
+    "small_r:5113001": {
+      "opening": 752914.8571428602,
+      "income": 62508.28571428574,
+      "consumption": 59808.0,
+      "ending": 2700.285714285706
+    },
+    "small_r:5123001": {
+      "opening": 994978.857142851,
+      "income": 62508.28571428574,
+      "consumption": 58308.0,
+      "ending": 4200.285714285651
+    },
+    "small_r:5133001": {
+      "opening": 955764.8571428591,
+      "income": 62558.28571428575,
+      "consumption": 59508.0,
+      "ending": 3050.285714285681
+    },
+    "small_r:5143001": {
+      "opening": 517813.8571428611,
+      "income": 62508.28571428574,
+      "consumption": 60372.0,
+      "ending": 2136.285714285732
+    },
+    "small_r:5153001": {
+      "opening": 6153382.857142834,
+      "income": 62508.28571428574,
+      "consumption": 37368.0,
+      "ending": 25140.285714285375
+    },
+    "small_r:5163001": {
+      "opening": 742426.8571428668,
+      "income": 62508.28571428574,
+      "consumption": 58752.0,
+      "ending": 3756.285714285732
+    },
+    "small_r:5173001": {
+      "opening": 6244366.857142847,
+      "income": 62508.28571428574,
+      "consumption": 37368.0,
+      "ending": 25140.285714285423
+    },
+    "small_r:5203001": {
+      "opening": 583551.0,
+      "income": 74511.0,
+      "consumption": 73773.0,
+      "ending": 738.0
+    },
+    "small_r:5303001": {
+      "opening": 5421539.600000003,
+      "income": 29808.4,
+      "consumption": 0.0,
+      "ending": 29808.399999999998
+    },
+    "small_r:5305001": {
+      "opening": 41328.0,
+      "income": 240.0,
+      "consumption": 0.0,
+      "ending": 240.0
+    },
+    "small_r:5305008": {
+      "opening": 236.0,
+      "income": 2.0,
+      "consumption": 0.0,
+      "ending": 2.0
+    },
+    "small_r:5305010": {
+      "opening": 1404.0,
+      "income": 7.0,
+      "consumption": 0.0,
+      "ending": 7.0
+    },
+    "small_r:5401001": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:5401002": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:5401003": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:5401004": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:5401005": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:5401006": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:5401007": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:5401008": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:5401009": {
+      "opening": 364.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:5401019": {
+      "opening": 2706765.8000000017,
+      "income": 14893.2,
+      "consumption": 0.0,
+      "ending": 14893.199999999999
+    },
+    "small_r:5523001": {
+      "opening": 2915100.0,
+      "income": 17100.0,
+      "consumption": 0.0,
+      "ending": 17100.0
+    },
+    "small_r:5523003": {
+      "opening": 20468.0,
+      "income": 119.0,
+      "consumption": 0.0,
+      "ending": 119.0
+    },
+    "small_r:5600005": {
+      "opening": 358.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:5600016": {
+      "opening": 21077.280000000053,
+      "income": 125.46,
+      "consumption": 0.0,
+      "ending": 125.46
+    },
+    "small_r:5600070": {
+      "opening": 1011.0,
+      "income": 3.0,
+      "consumption": 0.0,
+      "ending": 3.0
+    },
+    "small_r:5600077": {
+      "opening": 2333.0,
+      "income": 8.0,
+      "consumption": 0.0,
+      "ending": 8.0
+    },
+    "small_r:5600083": {
+      "opening": 2478.0,
+      "income": 7.0,
+      "consumption": 0.0,
+      "ending": 7.0
+    },
+    "small_r:5600100": {
+      "opening": 336.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:5600101": {
+      "opening": 351.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:5600200": {
+      "opening": 7425.0,
+      "income": 22.0,
+      "consumption": 0.0,
+      "ending": 22.0
+    },
+    "small_r:5600201": {
+      "opening": 3666.0,
+      "income": 12.0,
+      "consumption": 0.0,
+      "ending": 12.0
+    },
+    "small_r:5600208": {
+      "opening": 1228500.0,
+      "income": 7020.0,
+      "consumption": 0.0,
+      "ending": 7020.0
+    },
+    "small_r:5600229": {
+      "opening": 21301.0,
+      "income": 119.0,
+      "consumption": 0.0,
+      "ending": 119.0
+    },
+    "small_r:5800004": {
+      "opening": 2943.0,
+      "income": 9.0,
+      "consumption": 0.0,
+      "ending": 9.0
+    },
+    "small_r:6220001": {
+      "opening": 298.0,
+      "income": 1.0,
+      "consumption": 0.0,
+      "ending": 1.0
+    },
+    "small_r:9": {
+      "opening": 397876.5799999998,
+      "income": 2155.319999999988,
+      "consumption": 0.0,
+      "ending": 2155.319999999988
+    },
+    "small_r:9800301": {
+      "opening": 406.0,
+      "income": 28.0,
+      "consumption": 0.0,
+      "ending": 28.0
+    }
+  },
+  "checks": [
+    {
+      "check": "source keys unique",
+      "result": true
+    },
+    {
+      "check": "allocation keys unique",
+      "result": true
+    },
+    {
+      "check": "daily conservation residual",
+      "result": true
+    },
+    {
+      "check": "no negative ending inventory",
+      "result": true
+    },
+    {
+      "check": "date and opening continuity",
+      "result": true
+    },
+    {
+      "check": "journal and ledger reconciliation",
+      "result": true
+    }
+  ],
+  "interpretation": "An unexecuted use remains outside this scenario; zero consumption is not a claim that players never consume the item."
+}

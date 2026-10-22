@@ -1,0 +1,29 @@
+{
+  "checks": [
+    {
+      "check": "source keys unique",
+      "result": true
+    },
+    {
+      "check": "allocation keys unique",
+      "result": true
+    },
+    {
+      "check": "daily conservation residual",
+      "result": true
+    },
+    {
+      "check": "no negative ending inventory",
+      "result": true
+    },
+    {
+      "check": "date and opening continuity",
+      "result": true
+    },
+    {
+      "check": "journal and ledger reconciliation",
+      "result": true
+    }
+  ],
+  "status": "PASS"
+}

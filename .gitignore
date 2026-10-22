@@ -1,0 +1,25 @@
+# ==== 依赖 / 运行时 ====
+node_modules/
+*.pyc
+__pycache__/
+
+# ==== 本地临时与算表中间产物（体积大、可重算，不上传）====
+.scratch/
+.tmp_prd_template/
+.workbuddy/
+.agents/
+.superpowers/
+.codex/
+**/_work/
+**/.workbook_tmp/
+*.inspect.ndjson
+
+# ==== 内嵌 git 仓库（其内容已单独发布在本仓库 main 分支）====
+game-design-ai-git/
+
+# ==== 单文件 > 5MB，仅保留本地（清单见 LOCAL_ONLY_FILES.md）====
+outputs/2026-10-19-resource-closure/统一收支明细.tsv
+outputs/2026-10-19-resource-closure/统一逐日资源账.tsv
+outputs/2026-10-19-resource-closure/统一来源流水.tsv
+outputs/2026-10-19-resource-closure/资源分配流水.tsv
+outputs/01a0bddf-f90c-7af2-a6cc-a7ef653175d8/sources/supp.xlsx

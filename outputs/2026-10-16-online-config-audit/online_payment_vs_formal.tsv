@@ -1,0 +1,54 @@
+﻿module	product	planned_price_rmb	pay_id	gm_alias	gm_pay_type	gm_view_present	oct_prices_rmb	oct_orders	oct_first_date	oct_last_date	oct16_prices_rmb	oct16_orders	comparison	formal_config_source	scope_key
+首充	6元首充	6				False		0				0	NO_PAY_ID_IN_FORMAL_SCOPE	S_首充_first_pay_data.xml/首充!36; C_充值_pay_data.xml/pay_id=16	core:首充:1
+每日特惠	超值礼包	1				False		0				0	NO_PAY_ID_IN_FORMAL_SCOPE	A_活动商店_activity_shop_data.xml/活动商城!20; C_充值_pay_data.xml/pay_id=1110011	core:每日特惠:1806
+每日特惠	优选礼包	6				False		0				0	NO_PAY_ID_IN_FORMAL_SCOPE	A_活动商店_activity_shop_data.xml/活动商城!21; C_充值_pay_data.xml/pay_id=1110012	core:每日特惠:1807
+每日特惠	尊享礼包	18				False		0				0	NO_PAY_ID_IN_FORMAL_SCOPE	A_活动商店_activity_shop_data.xml/活动商城!22; C_充值_pay_data.xml/pay_id=1110013	core:每日特惠:1808
+月卡	特权月卡	18				False		0				0	NO_PAY_ID_IN_FORMAL_SCOPE	Y_月卡_month_card_data.xml/月卡!37; C_充值_pay_data.xml/pay_id=139	core:月卡:1
+月卡	福利月卡	30				False		0				0	NO_PAY_ID_IN_FORMAL_SCOPE	Y_月卡_month_card_data.xml/月卡!38; C_充值_pay_data.xml/pay_id=140	core:月卡:3
+周卡	签到战令周卡	12				False		0				0	NO_PAY_ID_IN_FORMAL_SCOPE	Z_周签到战令_week_bp_data.xml/方案配置!7; Y_月卡_month_card_data.xml/月卡!39; C_充值_pay_data.xml/pay_id=142	core:周卡:180005
+体力战令	体力战令28元轨	28				False		0				0	NO_PAY_ID_IN_FORMAL_SCOPE	Z_战令_common_war_order_data.xml/战令!15; C_充值_pay_data.xml/pay_id=500011	core:体力战令:28元轨
+体力战令	体力战令68元轨	68				False		0				0	NO_PAY_ID_IN_FORMAL_SCOPE	Z_战令_common_war_order_data.xml/战令!15; C_充值_pay_data.xml/pay_id=500012	core:体力战令:68元轨
+基金	钻石基金	98	40101	98元钻石基金	1	True	98.000	255	2026-10-01	2026-10-16	98.000	14	OCT_AMOUNT_MATCH	J_基金_foundation_data.xml/基金显示条件!A15:I15; J_基金_foundation_data.xml/基金!A171:G190 (r63194)	extra:基金:40101
+基金	钻石基金II	98	40402	98元钻石基金II	1	True	98.000	110	2026-10-01	2026-10-16	98.000	4	OCT_AMOUNT_MATCH	J_基金_foundation_data.xml/基金显示条件!A16:I16; J_基金_foundation_data.xml/基金!A192:G211 (r63194)	extra:基金:40402
+基金	钻石基金Ⅲ	98	40403	98元钻石基金Ⅲ	1	True	98.000	55	2026-10-01	2026-10-14		0	OCT_AMOUNT_MATCH	J_基金_foundation_data.xml/基金显示条件!A17:I17; J_基金_foundation_data.xml/基金!A213:G232 (r63194)	extra:基金:40403
+钻石直充	6元	6	1000	6元60宝石	1	True	6.000	294	2026-10-01	2026-10-16	6.000	9	OCT_AMOUNT_MATCH	S_商店_shopping_new_data.xml/充值商店!A3:L3 (r64860)	extra:钻石直充:1000
+钻石直充	30元	30	1001	30元300宝石	1	True	30.000	60	2026-10-01	2026-10-16	30.000	1	OCT_AMOUNT_MATCH	S_商店_shopping_new_data.xml/充值商店!A4:L4 (r64860)	extra:钻石直充:1001
+钻石直充	98元	98	1006	98元980宝石	1	True	98.000	38	2026-10-01	2026-10-16	98.000	1	OCT_AMOUNT_MATCH	S_商店_shopping_new_data.xml/充值商店!A5:L5 (r64860)	extra:钻石直充:1006
+钻石直充	128元	128	1003	128元1280宝石	1	True	128.000	33	2026-10-01	2026-10-16	128.000	2	OCT_AMOUNT_MATCH	S_商店_shopping_new_data.xml/充值商店!A6:L6 (r64860)	extra:钻石直充:1003
+钻石直充	328元	328	1004	328元3280宝石	1	True	328.000	42	2026-10-01	2026-10-16	328.000	2	OCT_AMOUNT_MATCH	S_商店_shopping_new_data.xml/充值商店!A7:L7 (r64860)	extra:钻石直充:1004
+钻石直充	648元	648	1005	648元6480宝石	1	True	648.000	92	2026-10-01	2026-10-16	648.000	4	OCT_AMOUNT_MATCH	S_商店_shopping_new_data.xml/充值商店!A8:L8 (r64860)	extra:钻石直充:1005
+寻梦礼包	寻梦礼包Ⅱ	6	1910001	6元寻梦礼包Ⅰ	1	True	6.000	1054	2026-10-01	2026-10-16	6.000	92	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!127	event:21020:2102003
+寻梦礼包	寻梦礼包Ⅳ	30	1910002	30元寻梦礼包IV	1	True	30.000	315	2026-10-01	2026-10-16	30.000	35	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!129	event:21020:2102005
+寻梦礼包	寻梦礼包Ⅶ	328	1910004	328元寻梦礼包VII	1	True	328.000	31	2026-10-04	2026-10-16	328.000	6	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!132	event:21020:2102008
+寻珍礼包	寻珍礼包Ⅰ	6	2012001	6元寻珍礼包Ⅰ	1	True	6.000	725	2026-10-01	2026-10-16	6.000	63	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!209	event:21032:2103201
+寻珍礼包	寻珍礼包Ⅱ	30	2012002	30元寻珍礼包Ⅱ	1	True	30.000	138	2026-10-01	2026-10-16	30.000	15	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!210	event:21032:2103202
+寻珍礼包	寻珍礼包Ⅲ	98	2012003	98元寻珍礼包Ⅲ	1	True	98.000	71	2026-10-01	2026-10-16	98.000	1	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!211	event:21032:2103203
+许愿补给	许愿礼包Ⅰ	6	2010004	6元许愿礼包Ⅰ	1	True	6.000	989	2026-10-01	2026-10-16	6.000	37	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!250	event:21037:2103701
+许愿补给	许愿礼包Ⅱ	30	2010005	30元许愿礼包Ⅱ	1	True	30.000	205	2026-10-01	2026-10-16	30.000	4	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!251	event:21037:2103702
+许愿补给	许愿礼包Ⅲ	98	2010006	98元许愿礼包Ⅲ	1	True	98.000	58	2026-10-01	2026-10-16	98.000	2	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!252	event:21037:2103703
+炼梦礼包	炼梦礼包Ⅰ	6	1310037			False	6.000	841	2026-10-01	2026-10-16	6.000	28	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!271	event:21902:2190201
+炼梦礼包	炼梦礼包Ⅱ	30	1310038	30元炼梦礼包Ⅱ	1	True	30.000	284	2026-10-01	2026-10-16	30.000	8	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!272	event:21902:2190202
+炼梦礼包	炼梦礼包Ⅲ	98	1310039			False	98.000	80	2026-10-01	2026-10-16	98.000	3	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!273	event:21902:2190203
+星轨礼包	星轨礼包Ⅰ	6	1310019	6元星轨探测礼包I	1	True	6.000	306	2026-10-01	2026-10-16	6.000	13	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!283	event:21901:2190101
+星轨礼包	星轨礼包Ⅱ	30	1310020	30元星轨探测礼包Ⅱ	1	True	30.000	74	2026-10-01	2026-10-15		0	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!284	event:21901:2190102
+星轨礼包	星轨礼包Ⅲ	98	1310021	98元星轨探测礼包Ⅲ	1	True	98.000	10	2026-10-01	2026-10-11		0	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!285	event:21901:2190103
+寻珍助礼战令	寻珍助礼	68	1610008	68元寻珍助礼	1	True	68.000	79	2026-10-01	2026-10-16	68.000	5	OCT_AMOUNT_MATCH	A_活动战令_activity_war_order_data.xml/活动方案!13;活动奖励!107:131付费列	event:120008:120008付费轨道25级
+活动商城	祈星礼包Ⅰ	6	1810001	6元祈星礼包Ⅰ	1	True	6.000	119	2026-10-01	2026-10-16	6.000	4	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!109	remaining:活动商城:21011:210111
+活动商城	祈星礼包Ⅱ	30	1810002	30元祈星礼包Ⅱ	1	True	30.000	37	2026-10-01	2026-10-14		0	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!110	remaining:活动商城:21011:210112
+活动商城	祈星礼包Ⅲ	98	1810003	98元祈星礼包Ⅲ	1	True	98.000	23	2026-10-01	2026-10-12		0	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!111	remaining:活动商城:21011:210113
+活动商城	许愿礼包Ⅰ	6	2010001	6元许愿礼包Ⅰ	1	True	6.000	71	2026-10-01	2026-10-14		0	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!173	remaining:活动商城:21030:2103001
+活动商城	许愿礼包Ⅱ	30	2010002	30元许愿礼包Ⅱ	1	True	30.000	21	2026-10-01	2026-10-14		0	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!174	remaining:活动商城:21030:2103002
+活动商城	许愿礼包Ⅲ	98	2010003	98元许愿礼包Ⅲ	1	True	98.000	12	2026-10-01	2026-10-14		0	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!175	remaining:活动商城:21030:2103003
+活动商城	提速礼包Ⅰ	6	1410004			False	6.000	49	2026-10-06	2026-10-16	6.000	1	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!256	remaining:活动商城:21039:2103901
+活动商城	提速礼包Ⅱ	30	1410005			False	30.000	5	2026-10-07	2026-10-12		0	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!257	remaining:活动商城:21039:2103902
+活动商城	提速礼包Ⅲ	98	1410006			False		0				0	NO_OCT_ORDER	A_活动商店_activity_shop_data.xml/活动商城!258	remaining:活动商城:21039:2103903
+活动商城	寻梦礼包Ⅱ	6	1910011	6元寻梦礼包Ⅰ	1	True	6.000	338	2026-10-01	2026-10-16	6.000	6	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!261	remaining:活动商城:21035:2103503
+活动商城	寻梦礼包Ⅳ	30	1910012	30元寻梦礼包Ⅱ	1	True	30.000	63	2026-10-01	2026-10-16	30.000	4	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!263	remaining:活动商城:21035:2103505
+活动商城	寻梦礼包Ⅶ	328	1910014	328元寻梦礼包Ⅳ	1	True	328.000	3	2026-10-07	2026-10-10		0	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!266	remaining:活动商城:21035:2103508
+活动商城	星海礼包Ⅰ	6	2010007	6元许愿礼包Ⅰ	1	True	6.000	1050	2026-10-01	2026-10-16	6.000	40	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!268	remaining:活动商城:21036:2103601
+活动商城	星海礼包Ⅱ	30	2010008	30元许愿礼包Ⅱ	1	True	30.000	119	2026-10-01	2026-10-16	30.000	3	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!269	remaining:活动商城:21036:2103602
+活动商城	星海礼包Ⅲ	98	2010009	98元许愿礼包Ⅲ	1	True	98.000	27	2026-10-01	2026-10-16	98.000	1	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!270	remaining:活动商城:21036:2103603
+活动商城	巡游礼包Ⅰ	6	2013101			False	6.000	1096	2026-10-01	2026-10-14		0	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!300	remaining:活动商城:25180:2518002
+活动商城	巡游礼包Ⅱ	30	2013102			False	30.000	570	2026-10-01	2026-10-14		0	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!301	remaining:活动商城:25180:2518003
+活动商城	巡游礼包Ⅲ	98	2013103			False	98.000	196	2026-10-01	2026-10-12		0	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!302	remaining:活动商城:25180:2518004
+活动商城	巡游礼包Ⅳ	328	2013104			False	328.000	57	2026-10-01	2026-10-10		0	OCT_AMOUNT_MATCH	A_活动商店_activity_shop_data.xml/活动商城!303	remaining:活动商城:25180:2518005

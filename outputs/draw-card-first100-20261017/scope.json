@@ -1,0 +1,1289 @@
+[
+  {
+    "level": "1",
+    "id": "50010000",
+    "pool_row": 6,
+    "name": "射手特饮×50",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100001"
+  },
+  {
+    "level": "1",
+    "id": "50010001",
+    "pool_row": 9,
+    "name": "金币×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100011"
+  },
+  {
+    "level": "1",
+    "id": "50010002",
+    "pool_row": 10,
+    "name": "星之初愿×1",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100021"
+  },
+  {
+    "level": "1",
+    "id": "50010003",
+    "pool_row": 11,
+    "name": "能量特饮×25",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100031"
+  },
+  {
+    "level": "1",
+    "id": "50010004",
+    "pool_row": 12,
+    "name": "能量特饮×50",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100041"
+  },
+  {
+    "level": "1",
+    "id": "50010005",
+    "pool_row": 13,
+    "name": "能量特饮×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100051"
+  },
+  {
+    "level": "1",
+    "id": "50010006",
+    "pool_row": 14,
+    "name": "稀有梦灵",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "500100061"
+  },
+  {
+    "level": "1",
+    "id": "50010007",
+    "pool_row": 15,
+    "name": "史诗梦灵",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "500100071"
+  },
+  {
+    "level": "1",
+    "id": "50010008",
+    "pool_row": 16,
+    "name": "稀有梦灵",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "500100061"
+  },
+  {
+    "level": "1",
+    "id": "51010001",
+    "pool_row": 19,
+    "name": "寒冰射手",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "510100011"
+  },
+  {
+    "level": "1",
+    "id": "51010002",
+    "pool_row": 20,
+    "name": "炽焰巫师",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "510100021"
+  },
+  {
+    "level": "1",
+    "id": "51010003",
+    "pool_row": 21,
+    "name": "吟游诗人",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "510100031"
+  },
+  {
+    "level": "1",
+    "id": "51010004",
+    "pool_row": 22,
+    "name": "摇滚巨石",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "510100041"
+  },
+  {
+    "level": "1",
+    "id": "51010005",
+    "pool_row": 23,
+    "name": "泥巴少女",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "510100051"
+  },
+  {
+    "level": "1",
+    "id": "51010006",
+    "pool_row": 24,
+    "name": "雷震子",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "510100061"
+  },
+  {
+    "level": "1",
+    "id": "51010007",
+    "pool_row": 25,
+    "name": "甜心护士",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "510100071"
+  },
+  {
+    "level": "1",
+    "id": "51010008",
+    "pool_row": 26,
+    "name": "忍者鲨手1",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "510100081"
+  },
+  {
+    "level": "1",
+    "id": "51010009",
+    "pool_row": 27,
+    "name": "关羽",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "510100091"
+  },
+  {
+    "level": "2",
+    "id": "50020001",
+    "pool_row": 31,
+    "name": "金币×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100011"
+  },
+  {
+    "level": "2",
+    "id": "50020002",
+    "pool_row": 32,
+    "name": "星之初愿×1",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100021"
+  },
+  {
+    "level": "2",
+    "id": "50020003",
+    "pool_row": 33,
+    "name": "能量特饮×25",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100031"
+  },
+  {
+    "level": "2",
+    "id": "50020004",
+    "pool_row": 34,
+    "name": "能量特饮×50",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100041"
+  },
+  {
+    "level": "2",
+    "id": "50020005",
+    "pool_row": 35,
+    "name": "能量特饮×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100051"
+  },
+  {
+    "level": "2",
+    "id": "50020006",
+    "pool_row": 36,
+    "name": "稀有梦灵",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "500100061"
+  },
+  {
+    "level": "2",
+    "id": "50020007",
+    "pool_row": 37,
+    "name": "史诗梦灵",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "500100071"
+  },
+  {
+    "level": "2",
+    "id": "50020008",
+    "pool_row": 38,
+    "name": "传说梦灵",
+    "qualities": [
+      "5"
+    ],
+    "quality_color": "5",
+    "content_group": "500100081"
+  },
+  {
+    "level": "3",
+    "id": "50030001",
+    "pool_row": 44,
+    "name": "金币×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100011"
+  },
+  {
+    "level": "3",
+    "id": "50030002",
+    "pool_row": 45,
+    "name": "星之初愿×1",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100021"
+  },
+  {
+    "level": "3",
+    "id": "50030003",
+    "pool_row": 46,
+    "name": "能量特饮×25",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100031"
+  },
+  {
+    "level": "3",
+    "id": "50030004",
+    "pool_row": 47,
+    "name": "能量特饮×50",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100041"
+  },
+  {
+    "level": "3",
+    "id": "50030005",
+    "pool_row": 48,
+    "name": "能量特饮×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100051"
+  },
+  {
+    "level": "3",
+    "id": "50030006",
+    "pool_row": 49,
+    "name": "稀有梦灵",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "500100061"
+  },
+  {
+    "level": "3",
+    "id": "50030007",
+    "pool_row": 50,
+    "name": "史诗梦灵",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "500100071"
+  },
+  {
+    "level": "3",
+    "id": "50030008",
+    "pool_row": 51,
+    "name": "传说梦灵",
+    "qualities": [
+      "5"
+    ],
+    "quality_color": "5",
+    "content_group": "500100081"
+  },
+  {
+    "level": "4",
+    "id": "50040001",
+    "pool_row": 57,
+    "name": "金币×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100011"
+  },
+  {
+    "level": "4",
+    "id": "50040002",
+    "pool_row": 58,
+    "name": "星之初愿×1",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100021"
+  },
+  {
+    "level": "4",
+    "id": "50040003",
+    "pool_row": 59,
+    "name": "能量特饮×25",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100031"
+  },
+  {
+    "level": "4",
+    "id": "50040004",
+    "pool_row": 60,
+    "name": "能量特饮×50",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100041"
+  },
+  {
+    "level": "4",
+    "id": "50040005",
+    "pool_row": 61,
+    "name": "能量特饮×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100051"
+  },
+  {
+    "level": "4",
+    "id": "50040006",
+    "pool_row": 62,
+    "name": "稀有梦灵",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "500100061"
+  },
+  {
+    "level": "4",
+    "id": "50040007",
+    "pool_row": 63,
+    "name": "史诗梦灵",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "500100071"
+  },
+  {
+    "level": "4",
+    "id": "50040008",
+    "pool_row": 64,
+    "name": "传说梦灵",
+    "qualities": [
+      "5"
+    ],
+    "quality_color": "5",
+    "content_group": "500100081"
+  },
+  {
+    "level": "4",
+    "id": "50040009",
+    "pool_row": 65,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "5",
+    "id": "50050001",
+    "pool_row": 71,
+    "name": "金币×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100011"
+  },
+  {
+    "level": "5",
+    "id": "50050002",
+    "pool_row": 72,
+    "name": "星之初愿×1",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100021"
+  },
+  {
+    "level": "5",
+    "id": "50050003",
+    "pool_row": 73,
+    "name": "能量特饮×25",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100031"
+  },
+  {
+    "level": "5",
+    "id": "50050004",
+    "pool_row": 74,
+    "name": "能量特饮×50",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100041"
+  },
+  {
+    "level": "5",
+    "id": "50050005",
+    "pool_row": 75,
+    "name": "能量特饮×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100051"
+  },
+  {
+    "level": "5",
+    "id": "50050006",
+    "pool_row": 76,
+    "name": "稀有梦灵",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "500100061"
+  },
+  {
+    "level": "5",
+    "id": "50050007",
+    "pool_row": 77,
+    "name": "史诗梦灵",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "500100071"
+  },
+  {
+    "level": "5",
+    "id": "50050008",
+    "pool_row": 78,
+    "name": "传说梦灵",
+    "qualities": [
+      "5"
+    ],
+    "quality_color": "5",
+    "content_group": "500100081"
+  },
+  {
+    "level": "5",
+    "id": "50050009",
+    "pool_row": 79,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "6",
+    "id": "50060001",
+    "pool_row": 85,
+    "name": "金币×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100011"
+  },
+  {
+    "level": "6",
+    "id": "50060002",
+    "pool_row": 86,
+    "name": "星之初愿×1",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100021"
+  },
+  {
+    "level": "6",
+    "id": "50060003",
+    "pool_row": 87,
+    "name": "能量特饮×25",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100031"
+  },
+  {
+    "level": "6",
+    "id": "50060004",
+    "pool_row": 88,
+    "name": "能量特饮×50",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100041"
+  },
+  {
+    "level": "6",
+    "id": "50060005",
+    "pool_row": 89,
+    "name": "能量特饮×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100051"
+  },
+  {
+    "level": "6",
+    "id": "50060006",
+    "pool_row": 90,
+    "name": "稀有梦灵",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "500100061"
+  },
+  {
+    "level": "6",
+    "id": "50060007",
+    "pool_row": 91,
+    "name": "史诗梦灵",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "500100071"
+  },
+  {
+    "level": "6",
+    "id": "50060008",
+    "pool_row": 92,
+    "name": "传说梦灵",
+    "qualities": [
+      "5"
+    ],
+    "quality_color": "5",
+    "content_group": "500100081"
+  },
+  {
+    "level": "6",
+    "id": "50060009",
+    "pool_row": 93,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "6",
+    "id": "50060010",
+    "pool_row": 95,
+    "name": "创世梦灵",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "7",
+    "content_group": "500100101"
+  },
+  {
+    "level": "6",
+    "id": "50060011",
+    "pool_row": 94,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "6",
+    "id": "50060012",
+    "pool_row": 97,
+    "name": "金币×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100011"
+  },
+  {
+    "level": "6",
+    "id": "50060013",
+    "pool_row": 98,
+    "name": "星之初愿×1",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100021"
+  },
+  {
+    "level": "6",
+    "id": "50060014",
+    "pool_row": 99,
+    "name": "能量特饮×25",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100031"
+  },
+  {
+    "level": "6",
+    "id": "50060015",
+    "pool_row": 100,
+    "name": "能量特饮×50",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100041"
+  },
+  {
+    "level": "6",
+    "id": "50060016",
+    "pool_row": 101,
+    "name": "能量特饮×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100051"
+  },
+  {
+    "level": "6",
+    "id": "50060017",
+    "pool_row": 102,
+    "name": "稀有梦灵",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "500100061"
+  },
+  {
+    "level": "6",
+    "id": "50060018",
+    "pool_row": 103,
+    "name": "史诗梦灵",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "500100071"
+  },
+  {
+    "level": "6",
+    "id": "50060019",
+    "pool_row": 104,
+    "name": "传说梦灵",
+    "qualities": [
+      "5"
+    ],
+    "quality_color": "5",
+    "content_group": "500100081"
+  },
+  {
+    "level": "6",
+    "id": "50060020",
+    "pool_row": 105,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "6",
+    "id": "50060021",
+    "pool_row": 106,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "7",
+    "id": "50060020",
+    "pool_row": 105,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "7",
+    "id": "50070001",
+    "pool_row": 109,
+    "name": "金币×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100011"
+  },
+  {
+    "level": "7",
+    "id": "50070002",
+    "pool_row": 110,
+    "name": "星之初愿×1",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100021"
+  },
+  {
+    "level": "7",
+    "id": "50070003",
+    "pool_row": 111,
+    "name": "能量特饮×25",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100031"
+  },
+  {
+    "level": "7",
+    "id": "50070004",
+    "pool_row": 112,
+    "name": "能量特饮×50",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100041"
+  },
+  {
+    "level": "7",
+    "id": "50070005",
+    "pool_row": 113,
+    "name": "能量特饮×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100051"
+  },
+  {
+    "level": "7",
+    "id": "50070006",
+    "pool_row": 114,
+    "name": "稀有梦灵",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "500100061"
+  },
+  {
+    "level": "7",
+    "id": "50070007",
+    "pool_row": 115,
+    "name": "史诗梦灵",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "500100071"
+  },
+  {
+    "level": "7",
+    "id": "50070008",
+    "pool_row": 116,
+    "name": "传说梦灵",
+    "qualities": [
+      "5"
+    ],
+    "quality_color": "5",
+    "content_group": "500100081"
+  },
+  {
+    "level": "7",
+    "id": "50070009",
+    "pool_row": 117,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "7",
+    "id": "50070010",
+    "pool_row": 119,
+    "name": "创世梦灵",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "7",
+    "content_group": "500100101"
+  },
+  {
+    "level": "7",
+    "id": "50070011",
+    "pool_row": 118,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "7",
+    "id": "50070012",
+    "pool_row": 122,
+    "name": "金币×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100011"
+  },
+  {
+    "level": "7",
+    "id": "50070013",
+    "pool_row": 123,
+    "name": "星之初愿×1",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100021"
+  },
+  {
+    "level": "7",
+    "id": "50070014",
+    "pool_row": 124,
+    "name": "能量特饮×25",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100031"
+  },
+  {
+    "level": "7",
+    "id": "50070015",
+    "pool_row": 125,
+    "name": "能量特饮×50",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100041"
+  },
+  {
+    "level": "7",
+    "id": "50070016",
+    "pool_row": 126,
+    "name": "能量特饮×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100051"
+  },
+  {
+    "level": "7",
+    "id": "50070017",
+    "pool_row": 127,
+    "name": "稀有梦灵",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "500100061"
+  },
+  {
+    "level": "7",
+    "id": "50070018",
+    "pool_row": 128,
+    "name": "史诗梦灵",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "500100071"
+  },
+  {
+    "level": "7",
+    "id": "50070019",
+    "pool_row": 129,
+    "name": "传说梦灵",
+    "qualities": [
+      "5"
+    ],
+    "quality_color": "5",
+    "content_group": "500100081"
+  },
+  {
+    "level": "7",
+    "id": "50070020",
+    "pool_row": 130,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "7",
+    "id": "50070021",
+    "pool_row": 131,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "8",
+    "id": "50060021",
+    "pool_row": 106,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "8",
+    "id": "50080001",
+    "pool_row": 134,
+    "name": "金币×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100011"
+  },
+  {
+    "level": "8",
+    "id": "50080002",
+    "pool_row": 135,
+    "name": "星之初愿×1",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100021"
+  },
+  {
+    "level": "8",
+    "id": "50080003",
+    "pool_row": 136,
+    "name": "能量特饮×25",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100031"
+  },
+  {
+    "level": "8",
+    "id": "50080004",
+    "pool_row": 137,
+    "name": "能量特饮×50",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100041"
+  },
+  {
+    "level": "8",
+    "id": "50080005",
+    "pool_row": 138,
+    "name": "能量特饮×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100051"
+  },
+  {
+    "level": "8",
+    "id": "50080006",
+    "pool_row": 139,
+    "name": "稀有梦灵",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "500100061"
+  },
+  {
+    "level": "8",
+    "id": "50080007",
+    "pool_row": 140,
+    "name": "史诗梦灵",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "500100071"
+  },
+  {
+    "level": "8",
+    "id": "50080008",
+    "pool_row": 141,
+    "name": "传说梦灵",
+    "qualities": [
+      "5"
+    ],
+    "quality_color": "5",
+    "content_group": "500100081"
+  },
+  {
+    "level": "8",
+    "id": "50080009",
+    "pool_row": 142,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "8",
+    "id": "50080010",
+    "pool_row": 144,
+    "name": "创世梦灵",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "7",
+    "content_group": "500100101"
+  },
+  {
+    "level": "8",
+    "id": "50080011",
+    "pool_row": 143,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "8",
+    "id": "50080012",
+    "pool_row": 146,
+    "name": "金币×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100011"
+  },
+  {
+    "level": "8",
+    "id": "50080013",
+    "pool_row": 147,
+    "name": "星之初愿×1",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100021"
+  },
+  {
+    "level": "8",
+    "id": "50080014",
+    "pool_row": 148,
+    "name": "能量特饮×25",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100031"
+  },
+  {
+    "level": "8",
+    "id": "50080015",
+    "pool_row": 149,
+    "name": "能量特饮×50",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100041"
+  },
+  {
+    "level": "8",
+    "id": "50080016",
+    "pool_row": 150,
+    "name": "能量特饮×100",
+    "qualities": [
+      "item"
+    ],
+    "quality_color": "3",
+    "content_group": "500100051"
+  },
+  {
+    "level": "8",
+    "id": "50080017",
+    "pool_row": 151,
+    "name": "稀有梦灵",
+    "qualities": [
+      "3"
+    ],
+    "quality_color": "3",
+    "content_group": "500100061"
+  },
+  {
+    "level": "8",
+    "id": "50080018",
+    "pool_row": 152,
+    "name": "史诗梦灵",
+    "qualities": [
+      "4"
+    ],
+    "quality_color": "4",
+    "content_group": "500100071"
+  },
+  {
+    "level": "8",
+    "id": "50080019",
+    "pool_row": 153,
+    "name": "传说梦灵",
+    "qualities": [
+      "5"
+    ],
+    "quality_color": "5",
+    "content_group": "500100081"
+  },
+  {
+    "level": "8",
+    "id": "50080020",
+    "pool_row": 154,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  },
+  {
+    "level": "8",
+    "id": "50080021",
+    "pool_row": 155,
+    "name": "神话梦灵",
+    "qualities": [
+      "6"
+    ],
+    "quality_color": "6",
+    "content_group": "500100091"
+  }
+]

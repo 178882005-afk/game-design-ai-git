@@ -1,0 +1,412 @@
+[
+  {
+    "key": "main",
+    "download": "D:\\Administrator\\Downloads\\_梦境护卫队_微小版本活动优化方案_v1.xlsx",
+    "snapshot": "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\.scratch\\commercial-review\\sources\\main.xlsx",
+    "sha256": "ae8ccabfa462828664b7e044a8716c6c451bf6201730ebde2dbc32bb5ec61903",
+    "captured_at": "2026-09-21T16:09:18.236448",
+    "sheets": [
+      {
+        "name": "路线图",
+        "rows": 200,
+        "cols": 34,
+        "nonempty": 205,
+        "images": 0
+      },
+      {
+        "name": "活动设计标准",
+        "rows": 208,
+        "cols": 21,
+        "nonempty": 72,
+        "images": 0
+      },
+      {
+        "name": "优化总内容",
+        "rows": 200,
+        "cols": 19,
+        "nonempty": 126,
+        "images": 6
+      },
+      {
+        "name": "追求表",
+        "rows": 361,
+        "cols": 64,
+        "nonempty": 335,
+        "images": 0
+      },
+      {
+        "name": "道具价值表-汇总",
+        "rows": 205,
+        "cols": 22,
+        "nonempty": 1048,
+        "images": 0
+      },
+      {
+        "name": "item",
+        "rows": 2615,
+        "cols": 20,
+        "nonempty": 7240,
+        "images": 0
+      },
+      {
+        "name": "特惠+充值",
+        "rows": 225,
+        "cols": 26,
+        "nonempty": 575,
+        "images": 4
+      },
+      {
+        "name": "首充+三卡",
+        "rows": 207,
+        "cols": 23,
+        "nonempty": 439,
+        "images": 2
+      },
+      {
+        "name": "日周月礼包",
+        "rows": 196,
+        "cols": 20,
+        "nonempty": 496,
+        "images": 0
+      },
+      {
+        "name": "心梦商店",
+        "rows": 26,
+        "cols": 13,
+        "nonempty": 197,
+        "images": 0
+      },
+      {
+        "name": "招募狂欢",
+        "rows": 196,
+        "cols": 19,
+        "nonempty": 338,
+        "images": 0
+      },
+      {
+        "name": "橙卡试炼活动",
+        "rows": 200,
+        "cols": 23,
+        "nonempty": 189,
+        "images": 2
+      },
+      {
+        "name": "红卡试炼活动",
+        "rows": 201,
+        "cols": 23,
+        "nonempty": 211,
+        "images": 0
+      },
+      {
+        "name": "冲刺活动",
+        "rows": 270,
+        "cols": 29,
+        "nonempty": 2207,
+        "images": 0
+      },
+      {
+        "name": "悬赏活动",
+        "rows": 203,
+        "cols": 27,
+        "nonempty": 885,
+        "images": 0
+      },
+      {
+        "name": "月光炼梦",
+        "rows": 79,
+        "cols": 16,
+        "nonempty": 588,
+        "images": 2
+      },
+      {
+        "name": "星轨探测",
+        "rows": 200,
+        "cols": 20,
+        "nonempty": 1226,
+        "images": 1
+      },
+      {
+        "name": "首月活动",
+        "rows": 206,
+        "cols": 24,
+        "nonempty": 1408,
+        "images": 0
+      },
+      {
+        "name": "微信小游戏独立数值",
+        "rows": 23,
+        "cols": 8,
+        "nonempty": 24,
+        "images": 0
+      },
+      {
+        "name": "符文规划",
+        "rows": 25,
+        "cols": 24,
+        "nonempty": 77,
+        "images": 2
+      },
+      {
+        "name": "活动时间",
+        "rows": 204,
+        "cols": 20,
+        "nonempty": 353,
+        "images": 0
+      },
+      {
+        "name": "活动页签",
+        "rows": 1,
+        "cols": 2,
+        "nonempty": 1,
+        "images": 0
+      }
+    ]
+  },
+  {
+    "key": "supp",
+    "download": "D:\\Administrator\\Downloads\\梦境护卫队线上活动梳理_v1.xlsx",
+    "snapshot": "D:\\Administrator\\Documents\\ChatGPT\\MJ Game  Design AGENT\\.scratch\\commercial-review\\sources\\supp.xlsx",
+    "sha256": "df4b800ca8cde11a478d301e98c35ac3129deace95597afcc719791ae6139758",
+    "captured_at": "2026-09-21T16:09:22.582476",
+    "sheets": [
+      {
+        "name": "活动设计标准",
+        "rows": 201,
+        "cols": 21,
+        "nonempty": 0,
+        "images": 0
+      },
+      {
+        "name": "活动详细",
+        "rows": 29,
+        "cols": 13,
+        "nonempty": 145,
+        "images": 6
+      },
+      {
+        "name": "投放道具投放规划",
+        "rows": 8,
+        "cols": 1,
+        "nonempty": 7,
+        "images": 0
+      },
+      {
+        "name": "活动甘特图",
+        "rows": 262,
+        "cols": 25,
+        "nonempty": 385,
+        "images": 0
+      },
+      {
+        "name": "活动定位",
+        "rows": 44,
+        "cols": 20,
+        "nonempty": 118,
+        "images": 0
+      },
+      {
+        "name": "道具价值表-汇总",
+        "rows": 129,
+        "cols": 21,
+        "nonempty": 754,
+        "images": 0
+      },
+      {
+        "name": "活动转化率",
+        "rows": 66,
+        "cols": 33,
+        "nonempty": 2178,
+        "images": 0
+      },
+      {
+        "name": "原始道具价值表",
+        "rows": 81,
+        "cols": 13,
+        "nonempty": 371,
+        "images": 0
+      },
+      {
+        "name": "item",
+        "rows": 2424,
+        "cols": 20,
+        "nonempty": 4448,
+        "images": 0
+      },
+      {
+        "name": "心梦商店购买",
+        "rows": 62,
+        "cols": 40,
+        "nonempty": 564,
+        "images": 5
+      },
+      {
+        "name": "累充档次",
+        "rows": 24,
+        "cols": 16,
+        "nonempty": 131,
+        "images": 0
+      },
+      {
+        "name": "首充修改原因",
+        "rows": 86,
+        "cols": 8,
+        "nonempty": 3,
+        "images": 4
+      },
+      {
+        "name": "首充+三卡",
+        "rows": 70,
+        "cols": 23,
+        "nonempty": 299,
+        "images": 1
+      },
+      {
+        "name": "战令",
+        "rows": 176,
+        "cols": 19,
+        "nonempty": 1206,
+        "images": 2
+      },
+      {
+        "name": "特惠礼包",
+        "rows": 70,
+        "cols": 18,
+        "nonempty": 356,
+        "images": 0
+      },
+      {
+        "name": "每日特惠",
+        "rows": 27,
+        "cols": 9,
+        "nonempty": 79,
+        "images": 1
+      },
+      {
+        "name": "七日活动",
+        "rows": 1,
+        "cols": 1,
+        "nonempty": 0,
+        "images": 0
+      },
+      {
+        "name": "累充+连充",
+        "rows": 35,
+        "cols": 22,
+        "nonempty": 191,
+        "images": 4
+      },
+      {
+        "name": "招募狂欢",
+        "rows": 200,
+        "cols": 13,
+        "nonempty": 333,
+        "images": 0
+      },
+      {
+        "name": "悬赏活动",
+        "rows": 200,
+        "cols": 20,
+        "nonempty": 379,
+        "images": 1
+      },
+      {
+        "name": "七日活动挑战",
+        "rows": 296,
+        "cols": 21,
+        "nonempty": 3668,
+        "images": 0
+      },
+      {
+        "name": "冲刺活动",
+        "rows": 209,
+        "cols": 28,
+        "nonempty": 2106,
+        "images": 0
+      },
+      {
+        "name": "试炼活动-橙卡",
+        "rows": 16,
+        "cols": 22,
+        "nonempty": 182,
+        "images": 4
+      },
+      {
+        "name": "试炼活动-红卡",
+        "rows": 14,
+        "cols": 22,
+        "nonempty": 181,
+        "images": 4
+      },
+      {
+        "name": "月光炼梦",
+        "rows": 187,
+        "cols": 22,
+        "nonempty": 1212,
+        "images": 0
+      },
+      {
+        "name": "星轨探测",
+        "rows": 200,
+        "cols": 20,
+        "nonempty": 920,
+        "images": 4
+      },
+      {
+        "name": "星光炼梦",
+        "rows": 152,
+        "cols": 22,
+        "nonempty": 770,
+        "images": 0
+      },
+      {
+        "name": "月度活动【首月】",
+        "rows": 245,
+        "cols": 24,
+        "nonempty": 1436,
+        "images": 0
+      },
+      {
+        "name": "章节礼包",
+        "rows": 14,
+        "cols": 21,
+        "nonempty": 203,
+        "images": 0
+      },
+      {
+        "name": "关卡宝箱",
+        "rows": 302,
+        "cols": 33,
+        "nonempty": 6503,
+        "images": 0
+      },
+      {
+        "name": "月度活动2",
+        "rows": 352,
+        "cols": 46,
+        "nonempty": 3249,
+        "images": 7
+      },
+      {
+        "name": "基础框架",
+        "rows": 1831,
+        "cols": 22,
+        "nonempty": 16366,
+        "images": 0
+      },
+      {
+        "name": "推送礼包",
+        "rows": 15,
+        "cols": 5,
+        "nonempty": 1,
+        "images": 1
+      },
+      {
+        "name": "数据建模",
+        "rows": 13,
+        "cols": 13,
+        "nonempty": 2,
+        "images": 0
+      }
+    ]
+  }
+]

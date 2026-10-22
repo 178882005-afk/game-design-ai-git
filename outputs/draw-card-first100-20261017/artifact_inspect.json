@@ -1,0 +1,10 @@
+[
+  "{\"kind\":\"table\",\"sheet\":\"奖池\",\"address\":\"R583\",\"rows\":1,\"cols\":1,\"values\":[[\"[{acc_draw_count,1108,[{101,2147483647}]}]\"]]}",
+  "{\"kind\":\"table\",\"sheet\":\"奖池\",\"address\":\"R592\",\"rows\":1,\"cols\":1,\"values\":[[\"[{acc_draw_count,1108,[{101,2147483647}]}]\"]]}",
+  "{\"kind\":\"table\",\"sheet\":\"奖池\",\"address\":\"R602\",\"rows\":1,\"cols\":1,\"values\":[[\"[{acc_draw_count,1108,[{101,2147483647}]}]\"]]}",
+  "{\"kind\":\"table\",\"sheet\":\"奖池\",\"address\":\"R612\",\"rows\":1,\"cols\":1,\"values\":[[\"[{acc_draw_count,1108,[{101,2147483647}]}]\"]]}",
+  "{\"kind\":\"table\",\"sheet\":\"奖池\",\"address\":\"R622\",\"rows\":1,\"cols\":1,\"values\":[[\"[{acc_draw_count,1108,[{101,2147483647}]}]\"]]}",
+  "{\"kind\":\"table\",\"sheet\":\"奖池\",\"address\":\"R632\",\"rows\":1,\"cols\":1,\"values\":[[\"[{acc_draw_count,1108,[{101,2147483647}]}]\"]]}",
+  "{\"kind\":\"table\",\"sheet\":\"奖池\",\"address\":\"R642\",\"rows\":1,\"cols\":1,\"values\":[[\"[{acc_draw_count,1108,[{101,2147483647}]}]\"]]}",
+  "{\"kind\":\"table\",\"sheet\":\"卡池等级机制\",\"address\":\"E49\",\"rows\":1,\"cols\":1,\"values\":[[\"[{[59010108],101},{[59010107],10},{[59010106],10}]\"]]}"
+]

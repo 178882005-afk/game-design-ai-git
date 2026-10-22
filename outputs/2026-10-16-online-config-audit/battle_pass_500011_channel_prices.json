@@ -1,0 +1,198 @@
+{
+  "source": "dwd_payment_incr_unique_v4_empty_fh",
+  "query": "SELECT amount, platform_name, channel_name, COUNT(*) AS orders, MIN(the_date) AS first_date, MAX(the_date) AS last_date FROM dwd_payment_incr_unique_v4_empty_fh WHERE the_date >= '2026-10-01' AND the_date < '2026-10-17' AND pay_category = '1' AND package_name = '500011' GROUP BY amount, platform_name, channel_name ORDER BY amount, orders DESC LIMIT 100",
+  "meta": {
+    "product_name": "fh",
+    "row_count": 23,
+    "truncated": false,
+    "table_refs": [
+      "dwd_payment_incr_unique_v4_empty_fh"
+    ]
+  },
+  "rows": [
+    {
+      "amount": "25.000",
+      "platform_name": "wxmjhwd",
+      "channel_name": "355_1",
+      "orders": 77,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-15"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "239_1",
+      "orders": 413,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-16"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "mix",
+      "channel_name": "268_1",
+      "orders": 179,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-16"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "337_1",
+      "orders": 124,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-16"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "345_3",
+      "orders": 91,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-16"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "330_1",
+      "orders": 71,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-16"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "mix",
+      "channel_name": "318_1",
+      "orders": 65,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-16"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "mix",
+      "channel_name": "315_1",
+      "orders": 64,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-15"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "345_1",
+      "orders": 61,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-16"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "mix",
+      "channel_name": "259_1",
+      "orders": 58,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-16"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "341_1",
+      "orders": 22,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-15"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "mix",
+      "channel_name": "316_1",
+      "orders": 15,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-16"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "347_3",
+      "orders": 14,
+      "first_date": "2026-10-02",
+      "last_date": "2026-10-16"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "335_2",
+      "orders": 14,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-15"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "347_1",
+      "orders": 13,
+      "first_date": "2026-10-03",
+      "last_date": "2026-10-15"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "175_84",
+      "orders": 12,
+      "first_date": "2026-10-04",
+      "last_date": "2026-10-15"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "344_4",
+      "orders": 8,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-14"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "mix",
+      "channel_name": "261_1",
+      "orders": 7,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-11"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "345_8",
+      "orders": 6,
+      "first_date": "2026-10-03",
+      "last_date": "2026-10-16"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "mix",
+      "channel_name": "328_1",
+      "orders": 5,
+      "first_date": "2026-10-02",
+      "last_date": "2026-10-12"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "345_4",
+      "orders": 3,
+      "first_date": "2026-10-06",
+      "last_date": "2026-10-13"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "338_7",
+      "orders": 2,
+      "first_date": "2026-10-02",
+      "last_date": "2026-10-16"
+    },
+    {
+      "amount": "28.000",
+      "platform_name": "sy",
+      "channel_name": "345_7",
+      "orders": 1,
+      "first_date": "2026-10-05",
+      "last_date": "2026-10-05"
+    }
+  ]
+}

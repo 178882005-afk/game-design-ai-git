@@ -1,0 +1,90 @@
+﻿模块	商品ID	商品名	奖励ID	道具名	数量	单价钻石	道具价值钻石	价格等级	估值方法	锚价来源	奖励配置来源	未闭合说明
+首充	1	6元首充	11	梦境招募器	30.0	30	900.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D19,F19	S_首充_first_pay_data.xml/奖励!86; S_首充_first_pay_data.xml/奖励!87	
+首充	1	6元首充	100040	当天特权卡	1.0			缺价	未定价		S_首充_first_pay_data.xml/奖励!86	当天特权服务，无独立直售价/固定使用量
+首充	1	6元首充	5104001	超能特饮	1500.0	2	3000.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D15,F15	S_首充_first_pay_data.xml/奖励!87; S_首充_first_pay_data.xml/奖励!88	
+首充	1	6元首充	5304237	史诗符文	1.0	1024	1024.0	严格	同名/同品质映射	《梦境护卫队》6-1商业化数值.xlsx/价值表!C66,F66; D_道具_item_data.xml/道具信息	S_首充_first_pay_data.xml/奖励!86	
+首充	1	6元首充	5505001	喵喵锤	1.0	4000	4000.0	条件	品质类目映射	《梦境护卫队》6-1商业化数值.xlsx/价值表!F99; D_道具/道具信息!112	S_首充_first_pay_data.xml/奖励!86	
+首充	1	6元首充	5600022	随机传说梦灵	1.0	240	240.0	条件	品质类目映射	《梦境护卫队》6-1商业化数值.xlsx/价值表!F24; B_宝箱/宝箱!325/奖励内容!79:81	S_首充_first_pay_data.xml/奖励!88	
+首充	2	累充30元	2	金币	3000.0	0.05	150.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D6,F6	S_首充_first_pay_data.xml/奖励!89	
+首充	2	累充30元	9	星之初愿	5.0	50	250.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D55,F55	S_首充_first_pay_data.xml/奖励!90	
+首充	2	累充30元	11	梦境招募器	10.0	30	300.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D19,F19	S_首充_first_pay_data.xml/奖励!91	
+首充	2	累充30元	50002	装备图纸	250.0	3	750.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D41,F41	S_首充_first_pay_data.xml/奖励!90; S_首充_first_pay_data.xml/奖励!91	
+首充	2	累充30元	1530100	镭射	1.0	240	240.0	条件	品质类目映射	《梦境护卫队》6-1商业化数值.xlsx/价值表!F24; D_道具/道具信息!2434	S_首充_first_pay_data.xml/奖励!89	
+首充	2	累充30元	5104001	超能特饮	300.0	2	600.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D15,F15	S_首充_first_pay_data.xml/奖励!89	
+首充	3	累充68元	2	金币	5000.0	0.05	250.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D6,F6	S_首充_first_pay_data.xml/奖励!92	
+首充	3	累充68元	11	梦境招募器	30.0	30	900.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D19,F19	S_首充_first_pay_data.xml/奖励!93; S_首充_first_pay_data.xml/奖励!94	
+首充	3	累充68元	30	星辉秘契	5.0	280	1400.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D56,F56	S_首充_first_pay_data.xml/奖励!93; S_首充_first_pay_data.xml/奖励!94	
+首充	3	累充68元	50002	装备图纸	100.0	3	300.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D41,F41	S_首充_first_pay_data.xml/奖励!92	
+首充	3	累充68元	15301011	无心睡眠	1.0	4000	4000.0	条件	品质类目映射	《梦境护卫队》6-1商业化数值.xlsx/价值表!F96; D_道具/道具信息!2556	S_首充_first_pay_data.xml/奖励!92	
+首充	4	累充128元	2	金币	12000.0	0.05	600.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D6,F6	S_首充_first_pay_data.xml/奖励!95; S_首充_first_pay_data.xml/奖励!96; S_首充_first_pay_data.xml/奖励!97	
+首充	4	累充128元	30	星辉秘契	8.0	280	2240.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D56,F56	S_首充_first_pay_data.xml/奖励!96; S_首充_first_pay_data.xml/奖励!97	
+首充	4	累充128元	10140370	咕勇者服饰	1.0			缺价	未定价		S_首充_first_pay_data.xml/奖励!95	首充特殊促销外观；暂不设跨商品基础锚，不以攻击代理价硬套
+首充	4	累充128元	10340370	咕勇者头饰	1.0			缺价	未定价		S_首充_first_pay_data.xml/奖励!95	首充特殊促销外观；暂不设跨商品基础锚，不以攻击代理价硬套
+每日特惠	1806	超值礼包	11	梦境招募器	5.0	30	150.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D19,F19	A_活动商店_activity_shop_data.xml/活动商城!20	
+每日特惠	1806	超值礼包	13	体力	10.0	2	20.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D5,F5	A_活动商店_activity_shop_data.xml/活动商城!20	
+每日特惠	1806	超值礼包	44	心梦宝石	2.0	10	20.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D7,F7	A_活动商店_activity_shop_data.xml/活动商城!20	
+每日特惠	1806	超值礼包	20038	梦境惊喜宝箱	1.0	80	80.0	严格	奖池期望	B_宝箱奖励_chest_data.xml/宝箱!88/奖池!189/奖励内容!3487:3494	A_活动商店_activity_shop_data.xml/活动商城!20	
+每日特惠	1807	优选礼包	11	梦境招募器	15.0	30	450.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D19,F19	A_活动商店_activity_shop_data.xml/活动商城!21	
+每日特惠	1807	优选礼包	13	体力	15.0	2	30.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D5,F5	A_活动商店_activity_shop_data.xml/活动商城!21	
+每日特惠	1807	优选礼包	44	心梦宝石	6.0	10	60.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D7,F7	A_活动商店_activity_shop_data.xml/活动商城!21	
+每日特惠	1807	优选礼包	20038	梦境惊喜宝箱	2.0	80	160.0	严格	奖池期望	B_宝箱奖励_chest_data.xml/宝箱!88/奖池!189/奖励内容!3487:3494	A_活动商店_activity_shop_data.xml/活动商城!21	
+每日特惠	1808	尊享礼包	13	体力	25.0	2	50.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D5,F5	A_活动商店_activity_shop_data.xml/活动商城!22	
+每日特惠	1808	尊享礼包	30	星辉秘契	2.0	280	560.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D56,F56	A_活动商店_activity_shop_data.xml/活动商城!22	
+每日特惠	1808	尊享礼包	44	心梦宝石	15.0	10	150.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D7,F7	A_活动商店_activity_shop_data.xml/活动商城!22	
+每日特惠	1808	尊享礼包	20038	梦境惊喜宝箱	3.0	80	240.0	严格	奖池期望	B_宝箱奖励_chest_data.xml/宝箱!88/奖池!189/奖励内容!3487:3494	A_活动商店_activity_shop_data.xml/活动商城!22	
+日周月礼包	1002	日礼包·体力	13	体力	60.0	2	120.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D5,F5	R_日周月礼包_period_package_data.xml/礼包!54	
+日周月礼包	1003	日礼包·金币	2	金币	5000.0	0.05	250.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D6,F6	R_日周月礼包_period_package_data.xml/礼包!55	
+日周月礼包	1004	日礼包·招募器	11	梦境招募器	20.0	30	600.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D19,F19	R_日周月礼包_period_package_data.xml/礼包!56	
+日周月礼包	1005	日礼包·能量特饮	5103002	随机能量特饮	400.0	1	400.0	严格	同奖池	B_宝箱奖励_chest_data.xml/宝箱!6:7/奖池510300101; 6-1/价值表!D16,F16	R_日周月礼包_period_package_data.xml/礼包!57	
+日周月礼包	1006	日礼包·能量特饮	5104001	超能特饮	200.0	2	400.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D15,F15	R_日周月礼包_period_package_data.xml/礼包!58	
+日周月礼包	1007	日礼包·装备图纸	50002	装备图纸	100.0	3	300.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D41,F41	R_日周月礼包_period_package_data.xml/礼包!59	
+日周月礼包	1008	日礼包·星辉秘契	30	星辉秘契	2.0	280	560.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D56,F56	R_日周月礼包_period_package_data.xml/礼包!60	
+日周月礼包	1009	日礼包·星辉秘契	30	星辉秘契	5.0	280	1400.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D56,F56	R_日周月礼包_period_package_data.xml/礼包!61	
+日周月礼包	1010	日礼包·符引结晶	5303001	符引结晶	50.0	5	250.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D57,F57	R_日周月礼包_period_package_data.xml/礼包!62	
+日周月礼包	1011	日礼包·织梦微尘	5203001	织梦微尘	50.0	3	150.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D76,F76	R_日周月礼包_period_package_data.xml/礼包!63	
+日周月礼包	1012	日礼包·锻造晶石	50001	锻造晶石	500.0	0.1	50.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D42,F42	R_日周月礼包_period_package_data.xml/礼包!64	
+日周月礼包	1013	日礼包·幻梦晶核	5305001	幻梦晶核	6.0	60	360.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D58,F58	R_日周月礼包_period_package_data.xml/礼包!65	
+日周月礼包	1014	日礼包·转运石	5523001	转运石	1000.0	0.33	330.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D35,F35	R_日周月礼包_period_package_data.xml/礼包!66	
+日周月礼包	1015	日礼包·智械发条	62	智械发条	3.0	150	450.0	严格	同名/同品质映射	《梦境护卫队》6-1商业化数值.xlsx/价值表!C114,F114; D_道具_item_data.xml/道具信息	R_日周月礼包_period_package_data.xml/礼包!67	
+日周月礼包	2001	周礼包·体力	13	体力	60.0	2	120.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D5,F5	R_日周月礼包_period_package_data.xml/礼包!69	
+日周月礼包	2002	周礼包·金币	2	金币	10000.0	0.05	500.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D6,F6	R_日周月礼包_period_package_data.xml/礼包!70	
+日周月礼包	2003	周礼包·招募器	11	梦境招募器	50.0	30	1500.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D19,F19	R_日周月礼包_period_package_data.xml/礼包!71	
+日周月礼包	2004	周礼包·招募器	11	梦境招募器	100.0	30	3000.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D19,F19	R_日周月礼包_period_package_data.xml/礼包!72	
+日周月礼包	2005	周礼包·能量特饮	5104001	超能特饮	400.0	2	800.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D15,F15	R_日周月礼包_period_package_data.xml/礼包!73	
+日周月礼包	2006	周礼包·装备图纸	50002	装备图纸	200.0	3	600.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D41,F41	R_日周月礼包_period_package_data.xml/礼包!74	
+日周月礼包	2007	周礼包·星辉秘契	30	星辉秘契	10.0	280	2800.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D56,F56	R_日周月礼包_period_package_data.xml/礼包!75	
+日周月礼包	2008	周礼包·星辉秘契	30	星辉秘契	20.0	280	5600.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D56,F56	R_日周月礼包_period_package_data.xml/礼包!76	
+日周月礼包	2009	周礼包·符引结晶	5303001	符引结晶	100.0	5	500.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D57,F57	R_日周月礼包_period_package_data.xml/礼包!77	
+日周月礼包	2010	周礼包·幻梦晶核	5305001	幻梦晶核	12.0	60	720.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D58,F58	R_日周月礼包_period_package_data.xml/礼包!78	
+日周月礼包	2011	周礼包·织梦微尘	5203001	织梦微尘	200.0	3	600.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D76,F76	R_日周月礼包_period_package_data.xml/礼包!79	
+日周月礼包	2012	周礼包·加速沙漏	5204001	加速沙漏	24.0	5	120.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D78,F78	R_日周月礼包_period_package_data.xml/礼包!80	
+日周月礼包	2013	周礼包·梦境衣橱盒	100009	梦境衣橱礼包	1.0	1500	1500.0	条件	品质类目映射	《梦境护卫队》6-1商业化数值.xlsx/价值表!F95; B_宝箱/宝箱!247/奖励内容!2108:2110	R_日周月礼包_period_package_data.xml/礼包!81	
+日周月礼包	2014	周礼包·转运石	5523001	转运石	3000.0	0.33	990.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D35,F35	R_日周月礼包_period_package_data.xml/礼包!82	
+日周月礼包	2015	周礼包·智械发条	62	智械发条	10.0	150	1500.0	严格	同名/同品质映射	《梦境护卫队》6-1商业化数值.xlsx/价值表!C114,F114; D_道具_item_data.xml/道具信息	R_日周月礼包_period_package_data.xml/礼包!83	
+日周月礼包	2016	周礼包·随机史诗藏品	6220021	随机史诗藏品箱	1.0	2400	2400.0	条件	历史藏品锚交叉验证	《梦境护卫队》6-1商业化数值.xlsx/价值表!B181,G181/商店!N186,P186	R_日周月礼包_period_package_data.xml/礼包!84	
+日周月礼包	2017	周礼包·万象自选宝盒Ⅰ	100143	万象自选宝盒Ⅰ	1.0	6000	6000.0	条件	品质类目映射	《梦境护卫队》6-1商业化数值.xlsx/价值表!F105; D_道具/自选内容!362:364	R_日周月礼包_period_package_data.xml/礼包!85	
+日周月礼包	3001	月礼包·招募器	11	梦境招募器	50.0	30	1500.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D19,F19	R_日周月礼包_period_package_data.xml/礼包!87	
+日周月礼包	3002	月礼包·招募器	11	梦境招募器	200.0	30	6000.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D19,F19	R_日周月礼包_period_package_data.xml/礼包!88	
+日周月礼包	3003	月礼包·能量特饮	5104001	超能特饮	1000.0	2	2000.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D15,F15	R_日周月礼包_period_package_data.xml/礼包!89	
+日周月礼包	3004	月礼包·装备图纸	50002	装备图纸	400.0	3	1200.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D41,F41	R_日周月礼包_period_package_data.xml/礼包!90	
+日周月礼包	3005	月礼包·幻梦晶核	5305001	幻梦晶核	30.0	60	1800.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D58,F58	R_日周月礼包_period_package_data.xml/礼包!91	
+日周月礼包	3006	月礼包·幻梦晶核	5305001	幻梦晶核	130.0	60	7800.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D58,F58	R_日周月礼包_period_package_data.xml/礼包!92	
+日周月礼包	3007	月礼包·绮梦衣橱盒	100008	绮梦衣橱盒Ⅰ	1.0	4000	4000.0	条件	品质类目映射	《梦境护卫队》6-1商业化数值.xlsx/价值表!F96; B_宝箱/宝箱!246/奖励内容!2105:2107	R_日周月礼包_period_package_data.xml/礼包!93	
+日周月礼包	3008	月礼包·星辉秘契	30	星辉秘契	10.0	280	2800.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D56,F56	R_日周月礼包_period_package_data.xml/礼包!94	
+日周月礼包	3009	月礼包·星辉秘契	30	星辉秘契	40.0	280	11200.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D56,F56	R_日周月礼包_period_package_data.xml/礼包!95	
+日周月礼包	3010	月礼包·传说符文	5305000	传说符文	1.0	4096	4096.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D67,F67	R_日周月礼包_period_package_data.xml/礼包!96	
+日周月礼包	3011	月礼包·神话符文	5306000	神话符文	1.0	16384	16384.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D68,F68	R_日周月礼包_period_package_data.xml/礼包!97	
+日周月礼包	3012	月礼包·转运石	5523001	转运石	10000.0	0.33	3300.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D35,F35	R_日周月礼包_period_package_data.xml/礼包!98	
+日周月礼包	3013	月礼包·智械发条	62	智械发条	10.0	150	1500.0	严格	同名/同品质映射	《梦境护卫队》6-1商业化数值.xlsx/价值表!C114,F114; D_道具_item_data.xml/道具信息	R_日周月礼包_period_package_data.xml/礼包!99	
+日周月礼包	3014	月礼包·智械发条	62	智械发条	20.0	150	3000.0	严格	同名/同品质映射	《梦境护卫队》6-1商业化数值.xlsx/价值表!C114,F114; D_道具_item_data.xml/道具信息	R_日周月礼包_period_package_data.xml/礼包!100	
+日周月礼包	3015	月礼包·怦怦时刻	6200012	怦怦时刻	1.0	4800	4800.0	条件	历史藏品锚交叉验证	《梦境护卫队》6-1商业化数值.xlsx/价值表!B149,G149/商店!N154,P154; _10_养成_10_藏品.xlsx/道具词典!A25:F25	R_日周月礼包_period_package_data.xml/礼包!101	
+月卡	1	特权月卡	1	钻石	1980.0	1	1980.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D4,F4	Y_月卡_month_card_data.xml/月卡!37/reward; Y_月卡_month_card_data.xml/月卡!37/day_reward×30	
+月卡	1	特权月卡	11	梦境招募器	60.0	30	1800.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D19,F19	Y_月卡_month_card_data.xml/月卡!37/day_reward×30	
+月卡	3	福利月卡	1	钻石	3300.0	1	3300.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D4,F4	Y_月卡_month_card_data.xml/月卡!38/reward; Y_月卡_month_card_data.xml/月卡!38/day_reward×30	
+月卡	3	福利月卡	13	体力	300.0	2	600.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D5,F5	Y_月卡_month_card_data.xml/月卡!38/day_reward×30	
+周卡	180005	签到战令周卡	1	钻石	900.0	1	900.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D4,F4	Z_周签到战令_week_bp_data.xml/周签到奖励配置!31; Z_周签到战令_week_bp_data.xml/周签到奖励配置!32; Z_周签到战令_week_bp_data.xml/周签到奖励配置!33; Z_周签到战令_week_bp_data.xml/周签到奖励配置!34; Z_周签到战令_week_bp_data.xml/周签到奖励配置!35; Z_周签到战令_week_bp_data.xml/周签到奖励配置!36; Z_周签到战令_week_bp_data.xml/周签到奖励配置!37	
+周卡	180005	签到战令周卡	9800301	金币吸收器	7.0	50	350.0	严格	同名/同品质映射	《梦境护卫队》6-1商业化数值.xlsx/价值表!C112,F112; D_道具_item_data.xml/道具信息	Z_周签到战令_week_bp_data.xml/周签到奖励配置!31; Z_周签到战令_week_bp_data.xml/周签到奖励配置!32; Z_周签到战令_week_bp_data.xml/周签到奖励配置!33; Z_周签到战令_week_bp_data.xml/周签到奖励配置!34; Z_周签到战令_week_bp_data.xml/周签到奖励配置!35; Z_周签到战令_week_bp_data.xml/周签到奖励配置!36; Z_周签到战令_week_bp_data.xml/周签到奖励配置!37	
+体力战令	28元轨	体力战令28元轨	1	钻石	300.0	1	300.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D4,F4	Z_战令_common_war_order_data.xml/战令奖励!211/pay_reward_high	
+体力战令	28元轨	体力战令28元轨	11	梦境招募器	295.0	30	8850.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D19,F19	Z_战令_common_war_order_data.xml/战令奖励!212/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!213/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!214/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!215/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!216/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!217/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!218/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!219/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!220/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!221/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!222/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!223/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!224/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!225/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!226/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!227/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!228/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!229/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!230/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!231/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!232/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!233/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!234/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!235/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!236/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!237/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!238/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!239/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!240/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!241/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!242/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!243/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!244/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!245/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!246/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!247/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!248/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!249/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!250/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!251/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!252/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!253/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!254/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!255/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!256/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!257/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!258/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!259/pay_reward_high; Z_战令_common_war_order_data.xml/战令奖励!260/pay_reward_high	
+体力战令	68元轨	体力战令68元轨	1	钻石	680.0	1	680.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D4,F4	Z_战令_common_war_order_data.xml/战令奖励!211/pay_reward	
+体力战令	68元轨	体力战令68元轨	30	星辉秘契	59.0	280	16520.0	严格	ID锚	《梦境护卫队》6-1商业化数值.xlsx/价值表!D56,F56	Z_战令_common_war_order_data.xml/战令奖励!212/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!213/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!214/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!215/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!216/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!217/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!218/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!219/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!220/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!221/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!222/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!223/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!224/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!225/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!226/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!227/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!228/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!229/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!230/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!231/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!232/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!233/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!234/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!235/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!236/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!237/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!238/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!239/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!240/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!241/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!242/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!243/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!244/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!245/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!246/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!247/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!248/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!249/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!250/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!251/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!252/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!253/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!254/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!255/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!256/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!257/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!258/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!259/pay_reward; Z_战令_common_war_order_data.xml/战令奖励!260/pay_reward	

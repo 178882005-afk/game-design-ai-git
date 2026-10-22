@@ -1,0 +1,197 @@
+﻿道具ID	名称	需求模块	已记外部来源	账内生成与转换	已执行消耗模块	来源状态	分配状态	non_r_D365样本结余	small_r_D365样本结余	mid_r_D365样本结余	large_r_D365样本结余
+1	钻石	recruit	activity_signin_free,paid_direct_claim			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	9392.0	72272.0	164741.0	164741.0
+2	金币	antique,equipment,vehicle,weapon_research	activity_signin_free,mainline_first_clear,mainline_repeat_top_stage,paid_stamina_repeat,patrol_nominal	mainline,recruit,star_road,wish	equipment,weapon_research	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	9838.720000000023	44674.25000000016	22605.460000000123	8508.180000000051
+9	星之初愿	recruit	activity_signin_free,mainline_first_clear,mainline_repeat_top_stage,paid_stamina_repeat,week_bp_180005_free_signin	mainline,recruit,star_road,wish		已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1927.32	2155.3199999999883	2139.819999999985	2189.8199999999842
+11	梦境招募器	recruit	activity_shop_free,activity_signin_free,cycle_rank_85102,daily_login_task_1001,mainline_first_clear,mainline_repeat_top_stage,paid_direct_claim,paid_stamina_repeat,week_bp_180005_free_signin	mainline	recruit	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	9.049999999999855	7.41000000000048	7.3400000000006855	6.6700000000001864
+13	体力		activity_signin_free,ad_energy_full_attendance,free_daily_pack_1001,natural_regen_full_attendance,paid_direct_claim,role_creation_initial,timed_grants_full_attendance	star_road	mainline	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+14	等级经验	player_level	exp_from_all_stamina_spent,paid_stamina_xp	mainline		已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	877932.0	894132.0	899832.0	899832.0
+24	招募积分			recruit,wish	spirit_shop	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	9000.0	300.0	1500.0	2700.0
+30	星辉秘契	recruit	activity_signin_free	star_road		已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	91.0	91.0	91.0	91.0
+35	梦愿水晶	recruit	activity_signin_free	recruit,star_road	wish	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	4.0	1.0	4.0	2.0
+42	限时招募令	recruit				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+44	心梦宝石		cycle_rank_85102			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1396.72	1657.67	2023.6799999999996	3068.329999999999
+62	智械发条	recruit				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+63	精密齿轮	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+20034	筑梦快递箱			star_road		已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	11.0	11.0	11.0	11.0
+21360	随机装备		mainline_first_clear,mainline_repeat_top_stage,paid_stamina_repeat	mainline		已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	283.6	132.9	74.39999999999999	30.0
+21361	随机装备		mainline_first_clear,mainline_repeat_top_stage,paid_stamina_repeat	mainline		已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	420.0	474.0	484.5	405.9
+21362	随机装备		mainline_first_clear,mainline_repeat_top_stage,paid_stamina_repeat			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	2018.625	1501.515	1177.8	830.625
+21363	随机装备		mainline_first_clear,mainline_repeat_top_stage,paid_stamina_repeat			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	19189.274999999998	20229.885000000002	20744.100000000002	21214.275
+50001	锻造晶石	equipment	activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	7000.0	7000.0	7000.0	7000.0
+50002	装备图纸		activity_signin_free,mainline_first_clear,mainline_repeat_top_stage,paid_stamina_repeat,patrol_nominal,week_bp_180005_free_signin	mainline	container	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+50003	头盔图纸	equipment	mainline_first_clear	container	equipment	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	13105.600000000035	6997.599999999952	2819.266666666641	183.26666666665832
+50004	衣服图纸	equipment	mainline_first_clear	container	equipment	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	13587.600000000039	6992.599999999947	3453.2666666666414	849.2666666666361
+50005	护臂图纸	equipment	mainline_first_clear	container	equipment	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	13103.600000000037	6995.5999999999485	2817.2666666666414	181.2666666666397
+50006	裤子图纸	equipment	mainline_first_clear	container	equipment	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	13592.600000000042	6997.599999999946	3458.2666666666423	854.2666666666296
+50007	鞋子图纸	equipment	mainline_first_clear	container	equipment	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	13590.600000000039	6995.599999999943	3456.2666666666423	852.266666666627
+50008	手套图纸	equipment	mainline_first_clear	container	equipment	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	13108.600000000037	7000.599999999949	2822.26666666664	186.2666666666514
+50015	随机普通装备		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	2.0	2.0	2.0	2.0
+50016	随机普通装备		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	2.0	2.0	2.0	2.0
+50017	随机普通装备		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	2.0	2.0	2.0	2.0
+50018	随机普通装备		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	2.0	2.0	2.0	2.0
+50019	随机普通装备		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+50020	随机普通装备		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+50025	装备图纸		mainline_first_clear,mainline_repeat_top_stage,paid_stamina_repeat	mainline	container	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+50027	随机优秀装备		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+50028	随机优秀装备		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+50029	随机优秀装备		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+50030	随机优秀装备		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+50031	随机优秀装备		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+50032	随机优秀装备		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+100012	万象宝盒Ⅰ		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	2.0	2.0	2.0	2.0
+100020	繁星衣橱盒Ⅰ		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	2.0	2.0	2.0	2.0
+100053	繁星衣橱盒Ⅱ		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+100065	万象宝盒Ⅱ		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	5.0	5.0	5.0	5.0
+100090	寻珍画券		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	30.0	30.0	30.0	30.0
+100104	许愿券		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	8.0	8.0	8.0	8.0
+100109	贝壳券		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	20.0	20.0	20.0	20.0
+100120	绮梦随机礼盒Ⅰ		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+100124	繁星随机礼盒Ⅰ		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+100157	6月抽奖券		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	20.0	20.0	20.0	20.0
+1110100	关羽			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1120100	妲己			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1130100	东方宫主			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1130200	我爱沙			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1140100	唐小僧			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1140200	神灯王子			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1210300	亚瑟			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1210400	炽焰巫师			recruit,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1210600	忍者鲨手			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1210700	路人甲			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1230100	吟游诗人			recruit,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1230400	甜心护士			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1310100	寒冰射手			recruit,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1310300	雷震子			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1320100	果冻少女			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1410200	海拉			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1420200	摇滚巨石			recruit,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1420300	神算诸葛			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1430700	蜘蛛女王			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1530100	镭射			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1530200	后羿			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+1550200	白素贞			recruit,star_road,wish	body_conversion	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+5103001	随机能量特饮		mainline_first_clear,mainline_repeat_top_stage,paid_stamina_repeat,week_bp_180005_free_signin	mainline,recruit,star_road,wish	container	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	0.0	0.0	0.0
+5103003	随机能量特饮		mainline_first_clear,mainline_repeat_top_stage,paid_stamina_repeat	mainline		已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	365805.0	372555.0	374930.0	374930.0
+5104001	超能特饮		activity_signin_free,cycle_rank_85102	star_road		已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	6478.369999999998	7070.310000000001	8275.439999999999	11723.890000000001
+5113001	战士特饮	spirit		container	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	2390.285714285734	2700.285714285706	2263.2857142857497	2195.4285714286043
+5123001	法师特饮	spirit		container	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	5918.285714285538	4200.285714285651	2443.285714285576	2375.428571428563
+5133001	射手特饮	spirit		container,recruit	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	7288.285714285541	3050.2857142856815	2493.285714285765	2425.428571428547
+5143001	辅助特饮	spirit		container	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	2990.2857142857474	2136.2857142857324	1555.2857142857865	1487.4285714286311
+5153001	控制特饮	spirit		container	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	31718.28571428582	25140.285714285375	30511.28571428634	22403.428571429045
+5163001	毒系特饮	spirit		container	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	6374.2857142855055	3756.2857142857324	2959.2857142857774	2891.428571428632
+5173001	召唤特饮	spirit		container	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	32486.2857142858	25140.285714285423	24391.28571428644	28307.428571429045
+5203001	织梦微尘	weapon_research	mainline_first_clear,mainline_repeat_top_stage,paid_stamina_repeat	mainline	weapon_research	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	243.0	738.0	353.0	1213.0
+5205001	潜能棱晶	weapon_research				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+5303001	符引结晶	rune	mainline_first_clear,mainline_repeat_top_stage,paid_stamina_repeat	mainline		已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	29268.4	29808.399999999998	29998.4	29998.399999999998
+5305001	幻梦晶核	rune	activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	240.0	240.0	240.0	240.0
+5305008	神话祝福石	rune	activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	2.0	2.0	2.0	2.0
+5305010	传说祝福石	rune	activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	7.0	7.0	7.0	7.0
+5401001	优秀符文		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+5401002	普通符文		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+5401003	普通符文		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+5401004	普通符文		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+5401005	普通符文		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+5401006	普通符文		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+5401007	普通符文		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+5401008	优秀符文		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+5401009	普通符文		mainline_first_clear			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+5401019	符文宝箱		mainline_first_clear,mainline_repeat_top_stage,paid_stamina_repeat	mainline		已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	14623.2	14893.199999999999	14988.2	14988.199999999999
+5523001	转运石	treasure	activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	17100.0	17100.0	17100.0	17100.0
+5523003	欧气补给袋		activity_shop_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	119.0	119.0	119.0	119.0
+5525002	咸鱼之王	treasure				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+5600005	随机传说梦灵		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+5600016	随机神话梦灵碎片		cycle_rank_85102			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	105.74	125.45999999999997	119.68000000000005	102.33999999999996
+5600070	探测仪		activity_login_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	3.0	3.0	3.0	3.0
+5600077	星路通票		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	8.0	8.0	8.0	8.0
+5600083	炼梦魔药		activity_login_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	7.0	7.0	7.0	7.0
+5600100	神话梦灵自选		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+5600101	随机神话梦灵		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+5600200	寻梦探仪	recruit	activity_shop_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	22.0	22.0	22.0	22.0
+5600201	星光魔杖		activity_login_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	12.0	12.0	12.0	12.0
+5600208	悬赏线索		activity_login_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	7020.0	7020.0	7020.0	7020.0
+5600229	火拼入门券		activity_shop_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	119.0	119.0	119.0	119.0
+5800004	咩菲特的雕像			star_road		已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	9.0	9.0	9.0	9.0
+6010011	六角螺栓·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010012	维修扳手·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010013	十字螺丝刀·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010014	橡胶密封圈·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010015	小齿轮·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010016	减震弹簧·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010017	扭矩扳手·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010018	散热风扇·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010019	刹车油管·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010020	诊断扫描仪·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010021	校准芯片·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010022	侦察摄像头·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010023	激光雷达头·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010024	仪表控制面板·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010025	轮毂电机·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010026	燃料箱组件·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010027	高能蓄电池·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010028	主推进喷射器·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010029	尾翼稳定器·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010030	屏障发生器·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6010031	反应堆核心·碎片	vehicle				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210001	奏响胜利·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210002	小鸟栖息地·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210003	嘀嗒时光·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210004	咯咯哒争霸·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210005	星期八计划·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210006	独家零食·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210007	秘仪初成·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210008	记载胜利·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210009	再来一箭·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210010	越毒越痛·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210011	万福摇摇机·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210012	怦怦时刻·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210013	意外之喜·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210014	双倍碰撞·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210015	酣眠的祝福·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210016	抵达深空·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210017	潮玩挂板·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6210018	奇点铃铛·碎片	antique				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+6220001	随机史诗藏品箱		activity_signin_free			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线	1.0	1.0	1.0	1.0
+9800301	金币吸收器		paid_direct_claim			已有条件来源或账内生成	本情景保留库存；其他操作尚未接线		28.0	365.0	365.0
+11101001	关羽碎片	spirit		recruit,spirit_shop,star_road,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	1560.0	4210.0	4260.0	4860.0
+11101011	战神归来	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+11201001	妲己碎片	spirit		recruit,spirit_shop,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	20.0	70.0	30.0	60.0
+11201011	青丘九尾	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+11301001	东方宫主碎片	spirit		recruit,spirit_shop,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	30.0	360.0	380.0	250.0
+11301011	瓶安针好	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+11302001	我爱沙碎片	spirit		recruit,spirit_shop,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	10.0	10.0	60.0	80.0
+11302011	滑雪新星	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+11401001	唐小僧碎片	spirit		recruit,spirit_shop,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	50.0	10.0	60.0	10.0
+11401011	秃击长空	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+11402001	神灯王子碎片	spirit		recruit,spirit_shop,star_road,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	850.0	3140.0	2900.0	2790.0
+11402011	好戏开场	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+12103001	亚瑟碎片	spirit		recruit,spirit_shop,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	20.0	110.0	60.0	70.0
+12103011	荒漠行者	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+12104001	炽焰巫师碎片	spirit		recruit,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	7900.0	13980.0	13580.0	14160.0
+12106001	忍者鲨手碎片	spirit		recruit,spirit_shop,star_road,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	2180.0	5290.0	5550.0	4950.0
+12106011	怪盗猫	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+12107001	路人甲碎片	spirit		recruit,spirit_shop,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	1910.0	4580.0	4720.0	5540.0
+12107011	钓鱼佬	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+12301001	吟游诗人碎片	spirit		recruit,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	5960.0	8960.0	9740.0	9820.0
+12304001	甜心护士	spirit		recruit,spirit_shop,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	1530.0	3300.0	3550.0	3760.0
+12304011	大饱口福	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+13101001	寒冰射手碎片	spirit		recruit,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	8080.0	13340.0	13820.0	13500.0
+13103001	雷震子碎片	spirit		recruit,spirit_shop,star_road,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	4680.0	10200.0	10620.0	10860.0
+13103011	醒狮少年	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+13201001	果冻少女碎片	spirit		recruit,spirit_shop,star_road,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	900.0	4330.0	3470.0	3830.0
+14102001	海拉碎片	spirit		recruit,spirit_shop,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	80.0	430.0	500.0	480.0
+14102011	激赞占卜	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+14202001	摇滚巨石碎片	spirit		recruit,spirit_shop,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	1950.0	4650.0	5030.0	5130.0
+14203001	神算诸葛碎片	spirit		recruit,spirit_shop,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	110.0	560.0	710.0	730.0
+14203011	魔法幻彩	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+14307001	蜘蛛女王碎片	spirit		recruit,spirit_shop,star_road,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	110.0	1250.0	1520.0	1620.0
+14307011	诡夜玩偶	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+15301001	镭射碎片	spirit		recruit,spirit_shop,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	20.0	280.0	40.0	220.0
+15301011	无心睡眠	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+15302001	后羿碎片	spirit		recruit,spirit_shop,star_road,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	130.0	630.0	760.0	690.0
+15302111	驭灵骇客	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+15502001	白素贞碎片	spirit		recruit,spirit_shop,wish	spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	20.0	300.0	430.0	360.0
+15502011	八方来财	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+16101001	零日骇客梦魄	spirit		recruit,spirit_shop,wish	spirit_activation,spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	95.0	103.0	94.0
+16101011	落子黑白	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				
+16201001	雅典娜梦魄	spirit		recruit,spirit_shop,wish	spirit_activation,spirit_upgrade	已有条件来源或账内生成	已有同库存扣款；未执行用途另核	0.0	80.0	95.0	98.0
+16201011	海岸圣域	skin				本账未记录来源；先核容器与未接来源	本情景保留库存；其他操作尚未接线				

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dreamguard_knowledge": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "http://10.0.254.177:8787/mcp", "--allow-http"]
+    }
+  }
+}

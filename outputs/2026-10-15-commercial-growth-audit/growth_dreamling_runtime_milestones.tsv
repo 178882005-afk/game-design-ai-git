@@ -1,0 +1,9 @@
+cohort_id	target	level	cohort_n	d1_reached	d7_reached	d14_reached	d14_censored	d7_rate_pct	d14_rate_pct	d14_achiever_median_day
+wxmjhwd_355_1_s1-6_open24h	任一梦灵	10	9656	728	1192	1233	8423	12.34	12.77	1
+wxmjhwd_355_1_s1-6_open24h	任一梦灵	30	9656	0	0	8	9648	0.00	0.08	11
+wxmjhwd_355_1_s1-6_open24h	任一橙梦灵	10	9656	13	303	470	9186	3.14	4.87	6
+wxmjhwd_355_1_s1-6_open24h	任一橙梦灵	30	9656	0	0	0	9656	0.00	0.00	
+wxmjhwd_355_1_s1-6_open24h	关羽	10	9656	0	23	107	9549	0.24	1.11	10
+wxmjhwd_355_1_s1-6_open24h	关羽	30	9656	0	0	0	9656	0.00	0.00	
+wxmjhwd_355_1_s1-6_open24h	吟游诗人	10	9656	461	856	892	8764	8.86	9.24	1
+wxmjhwd_355_1_s1-6_open24h	吟游诗人	30	9656	0	0	8	9648	0.00	0.08	11

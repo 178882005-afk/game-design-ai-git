@@ -1,0 +1,147 @@
+﻿sheet	cell	package_id	local_name	local_price	price_unit	source_price_cell	period_context	kind	reward_raw	notes	package_id_scope	id_occurrences	alias_price_occurrences	join_recommendation
+首充	D3		首充6元	6	RMB_tier		首充6元	recharge_milestone		工作簿价格列按钻石等价额录入：I4=60；无商品 ID；应按档位+类型配对		0	1	sheet+period_context+local_name+local_price+reward_signature
+首充	D17		累充30元	30	RMB_tier		累充30元	recharge_milestone		工作簿价格列按钻石等价额录入：I18=300；无商品 ID；应按档位+类型配对		0	1	sheet+period_context+local_name+local_price+reward_signature
+首充	D31		累充98元	98	RMB_tier		累充98元	recharge_milestone		工作簿价格列按钻石等价额录入：I32=980；无商品 ID；应按档位+类型配对		0	1	sheet+period_context+local_name+local_price+reward_signature
+首充	O31		直充128元	128	RMB_tier		直充128元	recharge_milestone		工作簿价格列按钻石等价额录入：T32=1980；无商品 ID；应按档位+类型配对		0	1	sheet+period_context+local_name+local_price+reward_signature
+日月周礼包	D21	1001	免费体力		diamond_tuple	F21	开服节点1	shop_goods	[{13,10}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	2	1	sheet+package_id
+日月周礼包	D22	1002	体力	[{1,96}]	diamond_tuple	F22	开服节点1	shop_goods	[{13,60}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	2	1	sheet+package_id
+日月周礼包	D23	1003	金币	[{1,125}]	diamond_tuple	F23	开服节点1	shop_goods	[{2,5000}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	2	1	sheet+package_id
+日月周礼包	D24	1004	招募令	[{1,480}]	diamond_tuple	F24	开服节点1	shop_goods	[{11,20}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	2	1	sheet+package_id
+日月周礼包	D25	1005	能量特饮	[{1,200}]	diamond_tuple	F25	开服节点1	shop_goods	[{5103001,400}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	2	2	sheet+package_id
+日月周礼包	D26	1006	能量特饮	[{1,200}]	diamond_tuple	F26	开服节点1	shop_goods	[{5104001,200}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	2	2	sheet+package_id
+日月周礼包	D27	1007	装备图纸	[{1,240}]	diamond_tuple	F27	开服节点1	shop_goods	[{50002,100}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	2	1	sheet+package_id
+日月周礼包	D28	1008	星辉秘契	[{1,392}]	diamond_tuple	F28	开服节点1	shop_goods	[{30,2}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	2	1	sheet+package_id
+日月周礼包	D29	1009	星辉秘契	[{1,840}]	diamond_tuple	F29	开服节点1	shop_goods	[{30,5}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	2	2	sheet+package_id
+日月周礼包	D30	1010	符引结晶	[{1,225}]	diamond_tuple	F30	开服节点1	shop_goods	[{5303001,50}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D31	1011	织梦微尘	[{1,210}]	diamond_tuple	F31	开服节点1	shop_goods	[{5203001,100}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D32	1012	锻造晶石	[{1,300}]	diamond_tuple	F32	开服节点1	shop_goods	[{50001,500}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D33	1013	幻梦晶核	[{1,216}]	diamond_tuple	F33	开服节点1	shop_goods	[{5305001,6}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D34	1014	转运石	[{1,198}]	diamond_tuple	F34	开服节点1	shop_goods	[{5523001,1000}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D36	2001	体力	[{1,84}]	diamond_tuple	F36	开服节点1	shop_goods	[{13,60}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D37	2002	金币	[{1,200}]	diamond_tuple	F37	开服节点1	shop_goods	[{2,10000}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D38	2003	招募令	[{1,1050}]	diamond_tuple	F38	开服节点1	shop_goods	[{11,50}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D39	2004	招募令	[{1,1800}]	diamond_tuple	F39	开服节点1	shop_goods	[{11,100}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D40	2005	能量特饮	[{1,320}]	diamond_tuple	F40	开服节点1	shop_goods	[{5104001,400}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D41	2006	装备图纸	[{1,360}]	diamond_tuple	F41	开服节点1	shop_goods	[{50002,200}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D42	2007	星辉秘契	[{1,1400}]	diamond_tuple	F42	开服节点1	shop_goods	[{30,10}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D43	2008	星辉秘契	[{1,2240}]	diamond_tuple	F43	开服节点1	shop_goods	[{30,20}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D44	2009	符引结晶	[{1,400}]	diamond_tuple	F44	开服节点1	shop_goods	[{5303001,100}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D45	2010	幻梦晶核	[{1,360}]	diamond_tuple	F45	开服节点1	shop_goods	[{5305001,12}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D46	2011	织梦微尘	[{1,360}]	diamond_tuple	F46	开服节点1	shop_goods	[{5203001,200}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D47	2012	加速沙漏	[{1,200}]	diamond_tuple	F47	开服节点1	shop_goods	[{5204001,24}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D48	2013	梦境衣橱盒	[{1,980}]	diamond_tuple	F48	开服节点1	shop_goods	[{100009,1}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D49	2014	转运石	[{1,500}]	diamond_tuple	F49	开服节点1	shop_goods	[{5523001,3000}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D51	3001	招募令	[{1,750}]	diamond_tuple	F51	开服节点1	shop_goods	[{11,50}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D52	3002	招募令	[{1,3300}]	diamond_tuple	F52	开服节点1	shop_goods	[{11,200}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D53	3003	能量特饮	[{1,600}]	diamond_tuple	F53	开服节点1	shop_goods	[{5104001,1000}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D54	3004	装备图纸	[{1,600}]	diamond_tuple	F54	开服节点1	shop_goods	[{50002,400}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D55	3005	幻梦晶核	[{1,900}]	diamond_tuple	F55	开服节点1	shop_goods	[{5305001,30}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D56	3006	幻梦晶核	[{1,3120}]	diamond_tuple	F56	开服节点1	shop_goods	[{5305001,130}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D57	3007	梦境衣橱盒	[{1,3280}]	diamond_tuple	F57	开服节点1	shop_goods	[{100008,1}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D58	3008	星辉秘契	[{1,840}]	diamond_tuple	F58	开服节点1	shop_goods	[{30,10}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	2	sheet+package_id
+日月周礼包	D59	3009	星辉秘契	[{1,4480}]	diamond_tuple	F59	开服节点1	shop_goods	[{30,40}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D60	3010	传说符文	[{1,1380}]	diamond_tuple	F60	开服节点1	shop_goods	[{5305000,1}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D61	3011	神话符文	[{1,6480}]	diamond_tuple	F61	开服节点1	shop_goods	[{5306000,1}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+日月周礼包	D62	3012	转运石	[{1,1320}]	diamond_tuple	F62	开服节点1	shop_goods	[{5523001,10000}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	日月周礼包	1	1	sheet+package_id
+大小月卡	D18		特权月卡	18	RMB	H18	月卡权益	monthly_card	60钻石+30体力	无商品 ID，名称+售价+权益比对		0	1	sheet+period_context+local_name+local_price+reward_signature
+大小月卡	D21		福利月卡	30	RMB	H21	月卡权益	monthly_card	100钻石+抽奖券*10	无商品 ID，名称+售价+权益比对		0	1	sheet+period_context+local_name+local_price+reward_signature
+每周周卡	B7	180001	每周周卡		RMB_derived		登录天1–7	weekly_card_plan		方案 ID 180001 在 B7:B13 重复，每行是每日奖励；计算式分母 120 钻石对应 12 RMB，售价未独立录入	每周周卡	1	1	sheet+package_id
+体力战令	G14		25元档	25	RMB_label		25元档	battle_pass		仅档位标签，商品 ID 缺失		0	1	sheet+period_context+local_name+local_price+reward_signature
+体力战令	M14		68元档	68	RMB_label		68元档	battle_pass		仅档位标签，商品 ID 缺失		0	1	sheet+period_context+local_name+local_price+reward_signature
+钻石基金	H9		钻石基金方案198元	98	RMB	H9	钻石基金方案1	diamond_fund		相同 98 元两列方案，不能按价格去重		0	1	sheet+period_context+local_name+local_price+reward_signature
+钻石基金	P9		钻石基金方案298元	98	RMB	P9	钻石基金方案2	diamond_fund		相同 98 元两列方案，不能按价格去重		0	1	sheet+period_context+local_name+local_price+reward_signature
+每日特惠	B12		免费礼包	0	RMB_label	G12	每日特惠	daily_special	44	G列为钻石等价：；RMB 从行名提取；无商品 ID		0	1	sheet+period_context+local_name+local_price+reward_signature
+每日特惠	B14		1元礼包	1	RMB_label	G14	每日特惠	daily_special	44	G列为钻石等价：10；RMB 从行名提取；无商品 ID		0	1	sheet+period_context+local_name+local_price+reward_signature
+每日特惠	B18		6元礼包	6	RMB_label	G18	每日特惠	daily_special	44	G列为钻石等价：60；RMB 从行名提取；无商品 ID		0	6	sheet+period_context+local_name+local_price+reward_signature
+每日特惠	B22		18元礼包	18	RMB_label	G22	每日特惠	daily_special	44	G列为钻石等价：180；RMB 从行名提取；无商品 ID		0	1	sheet+period_context+local_name+local_price+reward_signature
+章节礼包	E14	1001	梦泊远航	[{1,680}]	diamond_tuple	D14	触发章节4	chapter_gift	[{11,30},{5104001,400},{50026,120}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	章节礼包	2	1	sheet+package_id
+章节礼包	E15	1002	船长幻想	[{1,980}]	diamond_tuple	D15	触发章节8	chapter_gift	[{100009,1},{5104001,600},{50026,200}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	章节礼包	2	1	sheet+package_id
+章节礼包	E16	1003	海誓蓝梦	[{1,980}]	diamond_tuple	D16	触发章节10	chapter_gift	[{11,50},{5104001,800},{50026,240}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	章节礼包	2	1	sheet+package_id
+章节礼包	E17	1004	码头梦启	[{1,1280}]	diamond_tuple	D17	触发章节15	chapter_gift	[{11,80},{5104001,1000},{50026,280}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	章节礼包	2	1	sheet+package_id
+章节礼包	E18	1005	梦港归帆	[{1,1680}]	diamond_tuple	D18	触发章节20	chapter_gift	[{11,100},{5104001,1200},{50026,350}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	章节礼包	2	1	sheet+package_id
+章节礼包	E19	1006	航梦无涯	[{1,1800}]	diamond_tuple	D19	触发章节24	chapter_gift	[{30,20},{5305001,6},{50026,400}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	章节礼包	2	1	sheet+package_id
+章节礼包	E20	1007	孤独童心	[{1,1980}]	diamond_tuple	D20	触发章节28	chapter_gift	[{5305000,1},{5305001,12},{50026,500}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	章节礼包	2	1	sheet+package_id
+章节礼包	E21	1008	孤独童心	[{1,3280}]	diamond_tuple	D21	触发章节32	chapter_gift	[{5305000,2},{5305001,24},{50026,600}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	章节礼包	2	1	sheet+package_id
+章节礼包	E22	1009	孤独童心	[{1,6480}]	diamond_tuple	D22	触发章节36	chapter_gift	[{5306000,1},{5104001,2000},{50026,1200}]	ID 仅在本配置表/商品类型内唯一；不能裸 ID 跨表关联	章节礼包	2	1	sheet+package_id
+红卡皮肤转盘	C43		12元礼包	12	RMB	D43	红卡皮肤转盘	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	1	sheet+period_context+local_name+local_price+reward_signature
+红卡皮肤转盘	C44		30元礼包	30	RMB	D44	红卡皮肤转盘	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	6	sheet+period_context+local_name+local_price+reward_signature
+红卡皮肤转盘	C45		98元礼包	98	RMB	D45	红卡皮肤转盘	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	3	sheet+period_context+local_name+local_price+reward_signature
+1.1首发抽奖	D117		6元礼包	6	RMB	E117	首月首发抽奖	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	6	sheet+period_context+local_name+local_price+reward_signature
+1.1首发抽奖	D118		30元礼包	30	RMB	E118	首月首发抽奖	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	6	sheet+period_context+local_name+local_price+reward_signature
+1.1首发抽奖	D119		98元礼包	98	RMB	E119	首月首发抽奖	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	3	sheet+period_context+local_name+local_price+reward_signature
+2.0次月活动	D101		6元礼包	6	RMB	E101	次月活动抽奖	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	6	sheet+period_context+local_name+local_price+reward_signature
+2.0次月活动	D102		30元礼包	30	RMB	E102	次月活动抽奖	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	6	sheet+period_context+local_name+local_price+reward_signature
+2.0次月活动	D103		98元礼包	98	RMB	E103	次月活动抽奖	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	3	sheet+period_context+local_name+local_price+reward_signature
+招募冲刺	N17		每日免费礼包	0	free_or_unspecified	O17	招募冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	4	sheet+period_context+local_name+local_price+reward_signature
+招募冲刺	N18		钻石礼包	268	diamond	O18	招募冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	1	sheet+period_context+local_name+local_price+reward_signature
+招募冲刺	N19		6元礼包	6	RMB	O19	招募冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	6	sheet+period_context+local_name+local_price+reward_signature
+招募冲刺	N20		钻石礼包	688	diamond	O20	招募冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	3	sheet+period_context+local_name+local_price+reward_signature
+招募冲刺	N21		30元礼包	30	RMB	O21	招募冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	6	sheet+period_context+local_name+local_price+reward_signature
+招募冲刺	N22		钻石礼包	1588	diamond	O22	招募冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	2	sheet+period_context+local_name+local_price+reward_signature
+招募冲刺	N23		钻石礼包	2288	diamond	O23	招募冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	2	sheet+period_context+local_name+local_price+reward_signature
+招募冲刺	N24		98元礼包	328	RMB	O24	招募冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；N24=98元礼包但 O24=328，标签与数值不一致		0	3	sheet+period_context+local_name+local_price+reward_signature
+招募冲刺	N25		钻石礼包	4888	diamond	O25	招募冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	1	sheet+period_context+local_name+local_price+reward_signature
+符文冲刺	C40		每日免费礼包	0	free_or_unspecified	D40	符文冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	4	sheet+period_context+local_name+local_price+reward_signature
+符文冲刺	C41		钻石礼包	228	diamond	D41	符文冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	4	sheet+period_context+local_name+local_price+reward_signature
+符文冲刺	C42		6元礼包	6	RMB	D42	符文冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	6	sheet+period_context+local_name+local_price+reward_signature
+符文冲刺	C43		钻石礼包	888	diamond	D43	符文冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	2	sheet+period_context+local_name+local_price+reward_signature
+符文冲刺	C44		30元礼包	30	RMB	D44	符文冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	6	sheet+period_context+local_name+local_price+reward_signature
+符文冲刺	C45		钻石礼包	1888	diamond	D45	符文冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	1	sheet+period_context+local_name+local_price+reward_signature
+符文冲刺	C46		钻石礼包	3188	diamond	D46	符文冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	1	sheet+period_context+local_name+local_price+reward_signature
+符文冲刺	C47		98元礼包	328	RMB	D47	符文冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	3	sheet+period_context+local_name+local_price+reward_signature
+符文冲刺	C48		钻石礼包	5888	diamond	D48	符文冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	1	sheet+period_context+local_name+local_price+reward_signature
+秘宝冲刺	D54		每日免费礼包	0	diamond	J54	秘宝冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	4	sheet+period_context+local_name+local_price+reward_signature
+秘宝冲刺	D55		钻石礼包	168	diamond	J55	秘宝冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	1	sheet+period_context+local_name+local_price+reward_signature
+秘宝冲刺	D56		直购礼包	6	RMB	K56	秘宝冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	5	sheet+period_context+local_name+local_price+reward_signature
+秘宝冲刺	D57		钻石礼包	528	diamond	J57	秘宝冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	1	sheet+period_context+local_name+local_price+reward_signature
+秘宝冲刺	D58		直购礼包	30	RMB	K58	秘宝冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	5	sheet+period_context+local_name+local_price+reward_signature
+秘宝冲刺	D59		钻石礼包	1388	diamond	J59	秘宝冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	3	sheet+period_context+local_name+local_price+reward_signature
+秘宝冲刺	D60		钻石礼包	2988	diamond	J60	秘宝冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	1	sheet+period_context+local_name+local_price+reward_signature
+秘宝冲刺	D61		直购礼包	328	RMB	K61	秘宝冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	5	sheet+period_context+local_name+local_price+reward_signature
+秘宝冲刺	D62		钻石礼包	5488	diamond	J62	秘宝冲刺	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	1	sheet+period_context+local_name+local_price+reward_signature
+1.0联动活动	C13		战令	18	RMB	F13	葫芦娃联动战令	battle_pass		单个活动方案，商品 ID 缺失		0	1	sheet+period_context+local_name+local_price+reward_signature
+2.0大富翁抽奖	D37		战令购买	68	RMB	I37	大富翁战令	battle_pass		战令价格在 I37，商品 ID 缺失；与 D48:D53 热卖礼包不同		0	1	sheet+period_context+local_name+local_price+reward_signature
+2.0大富翁抽奖	D48		每日免费		free_or_unspecified	E48	大富翁热卖礼包	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	4	sheet+period_context+local_name+local_price+reward_signature
+2.0大富翁抽奖	D50		直购礼包	6	free_or_unspecified	E50	大富翁热卖礼包	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	5	sheet+period_context+local_name+local_price+reward_signature
+2.0大富翁抽奖	D51		直购礼包	30	free_or_unspecified	E51	大富翁热卖礼包	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	5	sheet+period_context+local_name+local_price+reward_signature
+2.0大富翁抽奖	D52		直购礼包	98	free_or_unspecified	E52	大富翁热卖礼包	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	1	sheet+period_context+local_name+local_price+reward_signature
+2.0大富翁抽奖	D53		直购礼包	328	free_or_unspecified	E53	大富翁热卖礼包	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	5	sheet+period_context+local_name+local_price+reward_signature
+粉卡抽奖	D25		每日免费		diamond	F25	粉卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	4	sheet+period_context+local_name+local_price+reward_signature
+粉卡抽奖	D26		钻石礼包	228	diamond	F26	粉卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	4	sheet+period_context+local_name+local_price+reward_signature
+粉卡抽奖	D27		直购礼包	6	RMB	E27	粉卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	5	sheet+period_context+local_name+local_price+reward_signature
+粉卡抽奖	D28		钻石礼包	688	diamond	F28	粉卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	3	sheet+period_context+local_name+local_price+reward_signature
+粉卡抽奖	D29		直购礼包	30	RMB	E29	粉卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	5	sheet+period_context+local_name+local_price+reward_signature
+粉卡抽奖	D30		钻石礼包	1388	diamond	F30	粉卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	3	sheet+period_context+local_name+local_price+reward_signature
+粉卡抽奖	D31		钻石礼包	2688	diamond	F31	粉卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	2	sheet+period_context+local_name+local_price+reward_signature
+粉卡抽奖	D32		直购礼包	328	RMB	E32	粉卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	5	sheet+period_context+local_name+local_price+reward_signature
+粉卡抽奖	D33		钻石礼包	5688	diamond	F33	粉卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	2	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D32		每日免费		diamond	F32	红卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	4	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D33		钻石礼包	300	diamond	F33	红卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	1	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D34		直购礼包	6	RMB	E34	红卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	5	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D36		直购礼包	30	RMB	E36	红卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	5	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D38		直购礼包	128	RMB	E38	红卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	1	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D40		直购礼包	328	RMB	E40	红卡抽奖主方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	5	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D45		lv1	0	RMB	E45	红卡链式推送	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；链式推送 lv 档位，同一系列多行		0	1	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D46		lv2	6	RMB	E46	红卡链式推送	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；链式推送 lv 档位，同一系列多行		0	1	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D47		lv3	0	RMB	E47	红卡链式推送	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；链式推送 lv 档位，同一系列多行		0	1	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D48		lv4	30	RMB	E48	红卡链式推送	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；链式推送 lv 档位，同一系列多行		0	1	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D49		lv5	0	RMB	E49	红卡链式推送	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；链式推送 lv 档位，同一系列多行		0	1	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D50		lv6	60	RMB	E50	红卡链式推送	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；链式推送 lv 档位，同一系列多行		0	1	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D227		每日免费		diamond	F227	红卡抽奖尾部重复方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；该块与前段重复，疑似保留方案，不可与在线主方案自动合并		0	4	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D228		钻石礼包	228	diamond	F228	红卡抽奖尾部重复方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；该块与前段重复，疑似保留方案，不可与在线主方案自动合并		0	4	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D229		直购礼包	6	RMB	E229	红卡抽奖尾部重复方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；该块与前段重复，疑似保留方案，不可与在线主方案自动合并		0	5	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D230		钻石礼包	688	diamond	F230	红卡抽奖尾部重复方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；该块与前段重复，疑似保留方案，不可与在线主方案自动合并		0	3	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D231		直购礼包	30	RMB	E231	红卡抽奖尾部重复方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；该块与前段重复，疑似保留方案，不可与在线主方案自动合并		0	5	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D232		钻石礼包	1388	diamond	F232	红卡抽奖尾部重复方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；该块与前段重复，疑似保留方案，不可与在线主方案自动合并		0	3	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D233		钻石礼包	2688	diamond	F233	红卡抽奖尾部重复方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；该块与前段重复，疑似保留方案，不可与在线主方案自动合并		0	2	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D234		直购礼包	328	RMB	E234	红卡抽奖尾部重复方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；该块与前段重复，疑似保留方案，不可与在线主方案自动合并		0	5	sheet+period_context+local_name+local_price+reward_signature
+红卡抽奖up (2)	D235		钻石礼包	5688	diamond	F235	红卡抽奖尾部重复方案	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对；该块与前段重复，疑似保留方案，不可与在线主方案自动合并		0	2	sheet+period_context+local_name+local_price+reward_signature
+符文焕新	C66		每日免费礼包	0	free_or_unspecified	D66	符文焕新	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	4	sheet+period_context+local_name+local_price+reward_signature
+符文焕新	C67		钻石礼包	228	diamond	D67	符文焕新	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	4	sheet+period_context+local_name+local_price+reward_signature
+符文焕新	C68		6元礼包	6	RMB	D68	符文焕新	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	6	sheet+period_context+local_name+local_price+reward_signature
+符文焕新	C69		钻石礼包	888	diamond	D69	符文焕新	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	2	sheet+period_context+local_name+local_price+reward_signature
+符文焕新	C70		30元礼包	30	RMB	D70	符文焕新	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	6	sheet+period_context+local_name+local_price+reward_signature
+符文焕新	C71		钻石礼包	1588	diamond	D71	符文焕新	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	2	sheet+period_context+local_name+local_price+reward_signature
+符文焕新	C72		钻石礼包	2288	diamond	D72	符文焕新	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	2	sheet+period_context+local_name+local_price+reward_signature
+符文焕新	C73		98元礼包	328	RMB	D73	符文焕新	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	3	sheet+period_context+local_name+local_price+reward_signature
+符文焕新	C74		钻石礼包	3888	diamond	D74	符文焕新	event_package		无显式商品 ID；别名多为泛称，需期次+价格+奖励组合核对		0	1	sheet+period_context+local_name+local_price+reward_signature
