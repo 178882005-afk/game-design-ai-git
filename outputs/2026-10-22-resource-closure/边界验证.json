@@ -1,0 +1,118 @@
+[
+  {
+    "check": "first ten-pull consumes exactly ten tickets",
+    "result": "PASS"
+  },
+  {
+    "check": "fixed first bonus count is two",
+    "result": "PASS"
+  },
+  {
+    "check": "scripted epic copy exists",
+    "result": "PASS"
+  },
+  {
+    "check": "scripted archer duplicates are fragments",
+    "result": "PASS"
+  },
+  {
+    "check": "no pre-unlock cumulative wish crystal",
+    "result": "PASS"
+  },
+  {
+    "check": "fixed reward earns 300 points",
+    "result": "PASS"
+  },
+  {
+    "check": "repeated body does not create another unit",
+    "result": "PASS"
+  },
+  {
+    "check": "repeated body converts ten fragments",
+    "result": "PASS"
+  },
+  {
+    "check": "auto-open container leaves no physical box balance",
+    "result": "PASS"
+  },
+  {
+    "check": "seven equal class quantities total 700",
+    "result": "PASS"
+  },
+  {
+    "check": "level seven gate waits until server day35",
+    "result": "PASS"
+  },
+  {
+    "check": "stored experience crosses gate on day35",
+    "result": "PASS"
+  },
+  {
+    "check": "board contains nine jointly generated slots",
+    "result": "PASS"
+  },
+  {
+    "check": "per-board max_num respected",
+    "result": "PASS"
+  },
+  {
+    "check": "unknown condition fails loudly",
+    "result": "PASS"
+  },
+  {
+    "check": "100457 star-trip content closed for 2026-10-10 server",
+    "result": "PASS"
+  },
+  {
+    "check": "theme instance D2 chain is 100720",
+    "result": "PASS"
+  },
+  {
+    "check": "mythic pools blocked during first five theme pulls",
+    "result": "PASS"
+  },
+  {
+    "check": "each theme pull earns 300 points and one road progress",
+    "result": "PASS"
+  },
+  {
+    "check": "choice prefers first missing choose_unit",
+    "result": "PASS"
+  },
+  {
+    "check": "30th theme pull forces chosen mythic",
+    "result": "PASS"
+  },
+  {
+    "check": "theme pull never spends diamonds",
+    "result": "PASS"
+  },
+  {
+    "check": "11053 energy and draw tasks pay configured tickets; pve tasks unbooked",
+    "result": "PASS"
+  },
+  {
+    "check": "carnival round1 grants legendary choice opened into a unit",
+    "result": "PASS"
+  },
+  {
+    "check": "canonical source records have unique provenance keys",
+    "result": "PASS"
+  },
+  {
+    "check": "four complete 365-day axes",
+    "result": "PASS"
+  },
+  {
+    "check": "only weekly sign-in appended from gap source",
+    "result": "PASS"
+  },
+  {
+    "check": "paid incremental ledger not appended twice",
+    "result": "PASS"
+  },
+  {
+    "check": "all spendable nodes use currently checked costs",
+    "result": "PASS"
+  }
+]

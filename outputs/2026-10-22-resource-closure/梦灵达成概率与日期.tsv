@@ -1,0 +1,353 @@
+﻿tier	unit_id	unit_name	target_level	probability_reached_by_D365	attainment_day_p50	attainment_day_p90	censored_samples	samples	status
+non_r	1310100	寒冰射手	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1310100	寒冰射手	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1310100	寒冰射手	10	1.0	16	26	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1310100	寒冰射手	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210400	炽焰巫师	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210400	炽焰巫师	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210400	炽焰巫师	10	1.0	28	33	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210400	炽焰巫师	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1230100	吟游诗人	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1230100	吟游诗人	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1230100	吟游诗人	10	1.0	11	16	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1230100	吟游诗人	30	1.0	290	299	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210600	忍者鲨手	1	1.0	6	6	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210600	忍者鲨手	2	1.0	6	6	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210600	忍者鲨手	10	1.0	56	64	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210600	忍者鲨手	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1420200	摇滚巨石	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1420200	摇滚巨石	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1420200	摇滚巨石	10	1.0	33	42	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1420200	摇滚巨石	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1320100	果冻少女	1	1.0	2	2	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1320100	果冻少女	2	1.0	2	2	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1320100	果冻少女	10	1.0	29	33	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1320100	果冻少女	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1230400	甜心护士	1	1.0	7	7	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1230400	甜心护士	2	1.0	7	8	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1230400	甜心护士	10	1.0	35	42	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1230400	甜心护士	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1310300	雷震子	1	1.0	2	3	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1310300	雷震子	2	1.0	2	3	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1310300	雷震子	10	1.0	55	60	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1310300	雷震子	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210700	路人甲	1	1.0	9	10	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210700	路人甲	2	1.0	10	11	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210700	路人甲	10	1.0	60	67	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210700	路人甲	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1110100	关羽	1	1.0	8	8	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1110100	关羽	2	1.0	9	20	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1110100	关羽	10	1.0	80	86	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1110100	关羽	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1130100	东方宫主	1	1.0	18	22	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1130100	东方宫主	2	1.0	22	43	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1130100	东方宫主	10	1.0	173	229	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1130100	东方宫主	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1530100	镭射	1	1.0	17	17	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1530100	镭射	2	1.0	18	33	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1530100	镭射	10	1.0	169	209	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1530100	镭射	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210300	亚瑟	1	1.0	17	33	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210300	亚瑟	2	1.0	25	46	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210300	亚瑟	10	1.0	169	206	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1210300	亚瑟	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1140100	唐小僧	1	1.0	16	29	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1140100	唐小僧	2	1.0	23	35	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1140100	唐小僧	10	1.0	167	207	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1140100	唐小僧	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1430700	蜘蛛女王	1	1.0	11	29	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1430700	蜘蛛女王	2	1.0	21	38	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1430700	蜘蛛女王	10	1.0	95	116	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1430700	蜘蛛女王	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1140200	神灯王子	1	1.0	16	25	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1140200	神灯王子	2	1.0	19	31	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1140200	神灯王子	10	1.0	77	92	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1140200	神灯王子	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1530200	后羿	1	1.0	18	28	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1530200	后羿	2	1.0	21	31	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1530200	后羿	10	1.0	168	183	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1530200	后羿	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1420300	神算诸葛	1	1.0	10	16	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1420300	神算诸葛	2	1.0	11	17	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1420300	神算诸葛	10	1.0	152	172	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1420300	神算诸葛	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1410200	海拉	1	1.0	33	61	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1410200	海拉	2	1.0	43	69	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1410200	海拉	10	1.0	178	197	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1410200	海拉	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1120100	妲己	1	1.0	29	29	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1120100	妲己	2	1.0	32	35	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1120100	妲己	10	1.0	176	185	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1120100	妲己	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1550200	白素贞	1	1.0	49	76	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1550200	白素贞	2	1.0	56	84	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1550200	白素贞	10	1.0	186	204	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1550200	白素贞	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1130200	我爱沙	1	1.0	24	46	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1130200	我爱沙	2	1.0	29	52	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1130200	我爱沙	10	1.0	173	190	0	128	conditional_draw_reward_simulation;censored_dates_blank
+non_r	1130200	我爱沙	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1310100	寒冰射手	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1310100	寒冰射手	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1310100	寒冰射手	10	1.0	14	20	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1310100	寒冰射手	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210400	炽焰巫师	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210400	炽焰巫师	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210400	炽焰巫师	10	1.0	22	27	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210400	炽焰巫师	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1230100	吟游诗人	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1230100	吟游诗人	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1230100	吟游诗人	10	1.0	8	11	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1230100	吟游诗人	30	1.0	223	229	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210600	忍者鲨手	1	1.0	3	3	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210600	忍者鲨手	2	1.0	3	3	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210600	忍者鲨手	10	1.0	40	47	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210600	忍者鲨手	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1420200	摇滚巨石	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1420200	摇滚巨石	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1420200	摇滚巨石	10	1.0	29	32	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1420200	摇滚巨石	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1320100	果冻少女	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1320100	果冻少女	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1320100	果冻少女	10	1.0	16	21	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1320100	果冻少女	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1230400	甜心护士	1	1.0	4	4	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1230400	甜心护士	2	1.0	4	5	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1230400	甜心护士	10	1.0	27	30	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1230400	甜心护士	30	1.0	353	357	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1310300	雷震子	1	1.0	1	2	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1310300	雷震子	2	1.0	2	2	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1310300	雷震子	10	1.0	42	46	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1310300	雷震子	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210700	路人甲	1	1.0	5	5	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210700	路人甲	2	1.0	5	6	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210700	路人甲	10	1.0	42	46	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210700	路人甲	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1110100	关羽	1	1.0	4	4	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1110100	关羽	2	1.0	4	8	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1110100	关羽	10	1.0	57	61	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1110100	关羽	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1130100	东方宫主	1	1.0	11	11	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1130100	东方宫主	2	1.0	13	21	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1130100	东方宫主	10	1.0	92	119	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1130100	东方宫主	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1530100	镭射	1	1.0	8	8	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1530100	镭射	2	1.0	8	12	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1530100	镭射	10	1.0	91	113	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1530100	镭射	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210300	亚瑟	1	1.0	16	23	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210300	亚瑟	2	1.0	17	29	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210300	亚瑟	10	1.0	95	121	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1210300	亚瑟	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1140100	唐小僧	1	1.0	16	16	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1140100	唐小僧	2	1.0	16	19	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1140100	唐小僧	10	1.0	90	112	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1140100	唐小僧	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1430700	蜘蛛女王	1	1.0	9	17	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1430700	蜘蛛女王	2	1.0	10	21	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1430700	蜘蛛女王	10	1.0	51	65	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1430700	蜘蛛女王	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1140200	神灯王子	1	1.0	9	12	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1140200	神灯王子	2	1.0	10	15	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1140200	神灯王子	10	1.0	46	51	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1140200	神灯王子	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1530200	后羿	1	1.0	17	29	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1530200	后羿	2	1.0	18	30	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1530200	后羿	10	1.0	100	111	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1530200	后羿	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1420300	神算诸葛	1	1.0	9	16	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1420300	神算诸葛	2	1.0	10	17	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1420300	神算诸葛	10	1.0	91	99	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1420300	神算诸葛	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1410200	海拉	1	1.0	34	57	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1410200	海拉	2	1.0	38	63	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1410200	海拉	10	1.0	116	137	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1410200	海拉	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1120100	妲己	1	1.0	29	29	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1120100	妲己	2	1.0	30	34	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1120100	妲己	10	1.0	101	111	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1120100	妲己	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1550200	白素贞	1	1.0	46	72	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1550200	白素贞	2	1.0	52	76	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1550200	白素贞	10	1.0	115	134	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1550200	白素贞	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1130200	我爱沙	1	1.0	25	37	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1130200	我爱沙	2	1.0	29	43	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1130200	我爱沙	10	1.0	101	115	0	128	conditional_draw_reward_simulation;censored_dates_blank
+small_r	1130200	我爱沙	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1310100	寒冰射手	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1310100	寒冰射手	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1310100	寒冰射手	10	1.0	14	18	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1310100	寒冰射手	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210400	炽焰巫师	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210400	炽焰巫师	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210400	炽焰巫师	10	1.0	21	26	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210400	炽焰巫师	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1230100	吟游诗人	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1230100	吟游诗人	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1230100	吟游诗人	10	1.0	8	12	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1230100	吟游诗人	30	1.0	220	227	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210600	忍者鲨手	1	1.0	3	3	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210600	忍者鲨手	2	1.0	3	3	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210600	忍者鲨手	10	1.0	39	44	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210600	忍者鲨手	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1420200	摇滚巨石	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1420200	摇滚巨石	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1420200	摇滚巨石	10	1.0	28	32	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1420200	摇滚巨石	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1320100	果冻少女	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1320100	果冻少女	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1320100	果冻少女	10	1.0	15	20	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1320100	果冻少女	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1230400	甜心护士	1	1.0	4	4	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1230400	甜心护士	2	1.0	4	5	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1230400	甜心护士	10	1.0	26	30	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1230400	甜心护士	30	1.0	349	354	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1310300	雷震子	1	1.0	1	2	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1310300	雷震子	2	1.0	2	2	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1310300	雷震子	10	1.0	40	45	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1310300	雷震子	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210700	路人甲	1	1.0	5	5	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210700	路人甲	2	1.0	5	6	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210700	路人甲	10	1.0	40	45	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210700	路人甲	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1110100	关羽	1	1.0	4	4	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1110100	关羽	2	1.0	4	7	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1110100	关羽	10	1.0	55	59	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1110100	关羽	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1130100	东方宫主	1	1.0	10	10	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1130100	东方宫主	2	1.0	10	18	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1130100	东方宫主	10	1.0	89	119	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1130100	东方宫主	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1530100	镭射	1	1.0	8	8	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1530100	镭射	2	1.0	8	14	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1530100	镭射	10	1.0	87	116	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1530100	镭射	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210300	亚瑟	1	1.0	16	23	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210300	亚瑟	2	1.0	17	28	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210300	亚瑟	10	1.0	89	116	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1210300	亚瑟	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1140100	唐小僧	1	1.0	13	16	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1140100	唐小僧	2	1.0	16	20	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1140100	唐小僧	10	1.0	84	105	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1140100	唐小僧	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1430700	蜘蛛女王	1	1.0	10	16	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1430700	蜘蛛女王	2	1.0	11	20	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1430700	蜘蛛女王	10	1.0	50	61	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1430700	蜘蛛女王	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1140200	神灯王子	1	1.0	9	13	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1140200	神灯王子	2	1.0	10	16	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1140200	神灯王子	10	1.0	45	50	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1140200	神灯王子	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1530200	后羿	1	1.0	17	29	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1530200	后羿	2	1.0	18	30	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1530200	后羿	10	1.0	98	109	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1530200	后羿	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1420300	神算诸葛	1	1.0	10	16	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1420300	神算诸葛	2	1.0	11	17	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1420300	神算诸葛	10	1.0	90	96	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1420300	神算诸葛	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1410200	海拉	1	1.0	36	56	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1410200	海拉	2	1.0	42	62	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1410200	海拉	10	1.0	116	135	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1410200	海拉	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1120100	妲己	1	1.0	29	29	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1120100	妲己	2	1.0	29	33	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1120100	妲己	10	1.0	98	105	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1120100	妲己	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1550200	白素贞	1	1.0	52	76	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1550200	白素贞	2	1.0	58	79	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1550200	白素贞	10	1.0	115	137	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1550200	白素贞	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1130200	我爱沙	1	1.0	26	39	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1130200	我爱沙	2	1.0	29	46	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1130200	我爱沙	10	1.0	101	114	0	128	conditional_draw_reward_simulation;censored_dates_blank
+mid_r	1130200	我爱沙	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1310100	寒冰射手	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1310100	寒冰射手	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1310100	寒冰射手	10	1.0	14	19	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1310100	寒冰射手	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210400	炽焰巫师	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210400	炽焰巫师	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210400	炽焰巫师	10	1.0	21	26	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210400	炽焰巫师	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1230100	吟游诗人	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1230100	吟游诗人	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1230100	吟游诗人	10	1.0	8	11	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1230100	吟游诗人	30	1.0	218	224	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210600	忍者鲨手	1	1.0	3	3	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210600	忍者鲨手	2	1.0	3	3	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210600	忍者鲨手	10	1.0	38	45	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210600	忍者鲨手	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1420200	摇滚巨石	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1420200	摇滚巨石	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1420200	摇滚巨石	10	1.0	28	32	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1420200	摇滚巨石	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1320100	果冻少女	1	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1320100	果冻少女	2	1.0	1	1	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1320100	果冻少女	10	1.0	15	21	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1320100	果冻少女	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1230400	甜心护士	1	1.0	4	4	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1230400	甜心护士	2	1.0	4	5	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1230400	甜心护士	10	1.0	26	29	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1230400	甜心护士	30	1.0	346	351	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1310300	雷震子	1	1.0	1	2	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1310300	雷震子	2	1.0	2	2	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1310300	雷震子	10	1.0	39	44	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1310300	雷震子	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210700	路人甲	1	1.0	5	5	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210700	路人甲	2	1.0	5	6	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210700	路人甲	10	1.0	40	45	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210700	路人甲	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1110100	关羽	1	1.0	4	4	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1110100	关羽	2	1.0	4	7	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1110100	关羽	10	1.0	55	59	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1110100	关羽	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1130100	东方宫主	1	1.0	10	10	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1130100	东方宫主	2	1.0	10	17	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1130100	东方宫主	10	1.0	92	118	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1130100	东方宫主	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1530100	镭射	1	1.0	8	8	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1530100	镭射	2	1.0	8	12	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1530100	镭射	10	1.0	86	108	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1530100	镭射	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210300	亚瑟	1	1.0	15	23	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210300	亚瑟	2	1.0	18	28	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210300	亚瑟	10	1.0	92	116	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1210300	亚瑟	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1140100	唐小僧	1	1.0	15	15	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1140100	唐小僧	2	1.0	16	20	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1140100	唐小僧	10	1.0	88	109	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1140100	唐小僧	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1430700	蜘蛛女王	1	1.0	9	16	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1430700	蜘蛛女王	2	1.0	11	19	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1430700	蜘蛛女王	10	1.0	50	62	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1430700	蜘蛛女王	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1140200	神灯王子	1	1.0	9	12	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1140200	神灯王子	2	1.0	9	15	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1140200	神灯王子	10	1.0	45	49	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1140200	神灯王子	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1530200	后羿	1	1.0	17	27	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1530200	后羿	2	1.0	18	28	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1530200	后羿	10	1.0	97	107	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1530200	后羿	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1420300	神算诸葛	1	1.0	10	16	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1420300	神算诸葛	2	1.0	11	17	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1420300	神算诸葛	10	1.0	90	96	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1420300	神算诸葛	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1410200	海拉	1	1.0	32	56	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1410200	海拉	2	1.0	36	63	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1410200	海拉	10	1.0	113	134	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1410200	海拉	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1120100	妲己	1	1.0	29	29	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1120100	妲己	2	1.0	30	33	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1120100	妲己	10	1.0	96	104	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1120100	妲己	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1550200	白素贞	1	1.0	46	77	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1550200	白素贞	2	1.0	51	81	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1550200	白素贞	10	1.0	112	136	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1550200	白素贞	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1130200	我爱沙	1	1.0	24	41	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1130200	我爱沙	2	1.0	27	47	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1130200	我爱沙	10	1.0	98	112	0	128	conditional_draw_reward_simulation;censored_dates_blank
+large_r	1130200	我爱沙	30	0.0			128	128	conditional_draw_reward_simulation;censored_dates_blank
